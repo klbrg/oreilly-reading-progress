@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-25T14:33:29.335Z",
+  "timestamp": "2025-10-25T14:34:05.203Z",
   "page": "https://learning.oreilly.com/library/view/powerful-python/9781098175696/ch04.html",
   "title": "4. Decorators | Powerful Python",
   "storage": {
@@ -291,7 +291,7 @@
       "index": 129
     },
     "oreilly-reader-progress-library-view-powerful-python-9781098175696-ch04.html": {
-      "index": 6
+      "index": 7
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-01.html": {
       "index": 39
@@ -710,7 +710,7 @@
       "id": "4d69cda6-e231-40c9-9186-814893595ce7",
       "timestamp": 1761400483131,
       "duration": 1800000,
-      "lastEventTimestamp": 1761402798502
+      "lastEventTimestamp": 1761402843502
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
