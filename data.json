@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-25T14:42:44.991Z",
+  "timestamp": "2025-10-25T14:43:51.406Z",
   "page": "https://learning.oreilly.com/library/view/powerful-python/9781098175696/ch04.html",
   "title": "4. Decorators | Powerful Python",
   "storage": {
@@ -291,7 +291,7 @@
       "index": 129
     },
     "oreilly-reader-progress-library-view-powerful-python-9781098175696-ch04.html": {
-      "index": 18
+      "index": 19
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-01.html": {
       "index": 39
@@ -710,7 +710,7 @@
       "id": "4d69cda6-e231-40c9-9186-814893595ce7",
       "timestamp": 1761400483131,
       "duration": 1800000,
-      "lastEventTimestamp": 1761402843502
+      "lastEventTimestamp": 1761403428974
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -910,9 +910,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761400478332,
       "optOut": false,
-      "lastEventTime": 1761403111892,
-      "lastEventId": 879,
-      "pageCounter": 7
+      "lastEventTime": 1761403369101,
+      "lastEventId": 883,
+      "pageCounter": 8
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
