@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T10:38:59.919Z",
-  "page": "https://learning.oreilly.com/library/view/python-3/9781806102471/03_009.html",
-  "title": "3.9 \u00a0 Screen Outputs | Python 3",
+  "timestamp": "2025-10-26T10:43:58.437Z",
+  "page": "https://learning.oreilly.com/library/view/python-3/9781806102471/03_010.html",
+  "title": "3.10 \u00a0 Modules | Python 3",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -713,10 +713,10 @@
     },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
-      "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
-      "timestamp": 1761470634266,
+      "id": "ae6509e9-a77c-4193-891f-2eb7ff330547",
+      "timestamp": 1761475151889,
       "duration": 1800000,
-      "lastEventTimestamp": 1761471705902
+      "lastEventTimestamp": 1761475212222
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -914,11 +914,11 @@
     "AMP_49f7a68a85": {
       "deviceId": "f7ae1942-bbd3-40d8-9117-360d4f4f5e06",
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
-      "sessionId": 1761470633654,
+      "sessionId": 1761475150795,
       "optOut": false,
-      "lastEventTime": 1761471216360,
-      "lastEventId": 966,
-      "pageCounter": 7
+      "lastEventTime": 1761475151629,
+      "lastEventId": 972,
+      "pageCounter": 1
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2765,6 +2765,9 @@
     },
     "oreilly-reader-progress-library-view-python-distilled-9780134173399-ch02.xhtml": {
       "index": 39
+    },
+    "oreilly-reader-progress-library-view-python-3-9781806102471-03_010.html": {
+      "index": 1
     },
     "oreilly-reader-progress-library-view-automate-the-boring-9798341620094-xhtml-chapter2.xhtml": {
       "index": 31
