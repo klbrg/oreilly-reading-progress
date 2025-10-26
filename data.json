@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T08:17:59.852Z",
+  "timestamp": "2025-10-26T08:20:44.592Z",
   "page": "https://learning.oreilly.com/library/view/automate-the-boring/9798341620094/xhtml/chapter2.xhtml",
   "title": "2. If-Else and Flow Control | Automate the Boring Stuff, 3rd Edition",
   "storage": {
@@ -710,7 +710,7 @@
       "id": "7d1f5ea4-8235-4c0c-b20f-eb809ae763a7",
       "timestamp": 1761464075008,
       "duration": 1800000,
-      "lastEventTimestamp": 1761466187706
+      "lastEventTimestamp": 1761466745434
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -910,9 +910,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761464073834,
       "optOut": false,
-      "lastEventTime": 1761466127947,
-      "lastEventId": 919,
-      "pageCounter": 7
+      "lastEventTime": 1761466836505,
+      "lastEventId": 926,
+      "pageCounter": 8
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2761,7 +2761,7 @@
       "index": 33
     },
     "oreilly-reader-progress-library-view-automate-the-boring-9798341620094-xhtml-chapter2.xhtml": {
-      "index": 18
+      "index": 19
     },
     "oreilly-reader-progress-library-view-python-in-a-9781098113544-ch02.html": {
       "index": 40
