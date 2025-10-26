@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T13:01:54.910Z",
+  "timestamp": "2025-10-26T13:02:35.553Z",
   "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch02.html",
   "title": "2. Extending Our Functional Test Using the unittest Module | Test-Driven Development with Python, 3rd Edition",
   "storage": {
@@ -922,8 +922,8 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761481533603,
       "optOut": false,
-      "lastEventTime": 1761483389512,
-      "lastEventId": 1039,
+      "lastEventTime": 1761483749944,
+      "lastEventId": 1041,
       "pageCounter": 15
     },
     "topic_names": {
@@ -2749,7 +2749,7 @@
       "index": 48
     },
     "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-ch02.html": {
-      "index": 20
+      "index": 21
     },
     "oreilly-reader-progress-library-view-infrastructure-as-code-9781098150341-ch01.html": {
       "index": 79
