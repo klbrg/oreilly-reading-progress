@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T10:50:04.688Z",
+  "timestamp": "2025-10-26T10:50:21.005Z",
   "page": "https://learning.oreilly.com/library/view/the-quick-python/9781633436336/Text/03.html",
   "title": "3 The quick Python overview | The Quick Python Book, Fourth Edition",
   "storage": {
@@ -279,7 +279,7 @@
       "index": 6
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-03.html": {
-      "index": 9
+      "index": 10
     },
     "oreilly-reader-progress-library-view-certified-ethical-hacker-9781098174767-ch01.html": {
       "index": 45
@@ -716,7 +716,7 @@
       "id": "ae6509e9-a77c-4193-891f-2eb7ff330547",
       "timestamp": 1761475151889,
       "duration": 1800000,
-      "lastEventTimestamp": 1761475790430
+      "lastEventTimestamp": 1761475805430
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
