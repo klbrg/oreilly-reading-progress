@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T18:37:27.284Z",
+  "timestamp": "2025-10-26T18:37:50.636Z",
   "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch01.xhtml#ch01",
   "title": "Exercise 1. A Good First Program | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
@@ -719,7 +719,7 @@
       "id": "ae73f98e-2ea1-4434-a7e4-c18f2c5a45f3",
       "timestamp": 1761503523488,
       "duration": 1800000,
-      "lastEventTimestamp": 1761503834503
+      "lastEventTimestamp": 1761503864504
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -2752,7 +2752,7 @@
       "index": 12
     },
     "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch01.xhtml": {
-      "index": 9
+      "index": 10
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 48
