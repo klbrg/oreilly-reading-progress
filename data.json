@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T09:30:09.380Z",
+  "timestamp": "2025-10-26T09:30:22.248Z",
   "page": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch23.html",
   "title": "23. Module Coding Basics | Learning Python, 6th Edition",
   "storage": {
@@ -710,7 +710,7 @@
       "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
       "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761471002337
+      "lastEventTimestamp": 1761471015188
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -2734,7 +2734,7 @@
       "index": 23
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
-      "index": 47
+      "index": 48
     },
     "oreilly-reader-progress-library-view-infrastructure-as-code-9781098150341-ch01.html": {
       "index": 79
