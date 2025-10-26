@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T18:39:38.943Z",
-  "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch01.xhtml#ch01",
-  "title": "Exercise 1. A Good First Program | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
+  "timestamp": "2025-10-26T20:25:17.140Z",
+  "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch02.xhtml",
+  "title": "Exercise 2. Comments and Pound Characters | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -719,7 +719,7 @@
       "id": "ae73f98e-2ea1-4434-a7e4-c18f2c5a45f3",
       "timestamp": 1761503523488,
       "duration": 1800000,
-      "lastEventTimestamp": 1761503894504
+      "lastEventTimestamp": 1761504052672
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -925,9 +925,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761503522656,
       "optOut": false,
-      "lastEventTime": 1761503834475,
-      "lastEventId": 1148,
-      "pageCounter": 9
+      "lastEventTime": 1761503992781,
+      "lastEventId": 1153,
+      "pageCounter": 11
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2804,6 +2804,9 @@
     },
     "oreilly-reader-progress-library-view-python-distilled-9780134173399-ch01.xhtml": {
       "index": 221
+    },
+    "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch02.xhtml": {
+      "index": 1
     },
     "search-filter-ratings-expanded": true,
     "oreilly-reader-progress-library-view-ccnp-enterprise-advanced-9780138217570-ch01.xhtml": {
