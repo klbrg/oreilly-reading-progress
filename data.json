@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T10:47:52.349Z",
-  "page": "https://learning.oreilly.com/library/view/python-3/9781806102471/03_010.html",
-  "title": "3.10 \u00a0 Modules | Python 3",
+  "timestamp": "2025-10-26T10:48:25.952Z",
+  "page": "https://learning.oreilly.com/library/view/the-quick-python/9781633436336/Text/03.html",
+  "title": "3 The quick Python overview | The Quick Python Book, Fourth Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -279,7 +279,7 @@
       "index": 6
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-03.html": {
-      "index": 0
+      "index": 2
     },
     "oreilly-reader-progress-library-view-certified-ethical-hacker-9781098174767-ch01.html": {
       "index": 45
@@ -716,7 +716,7 @@
       "id": "ae6509e9-a77c-4193-891f-2eb7ff330547",
       "timestamp": 1761475151889,
       "duration": 1800000,
-      "lastEventTimestamp": 1761475212222
+      "lastEventTimestamp": 1761475703215
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -916,9 +916,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761475150795,
       "optOut": false,
-      "lastEventTime": 1761475151629,
-      "lastEventId": 972,
-      "pageCounter": 1
+      "lastEventTime": 1761475699833,
+      "lastEventId": 981,
+      "pageCounter": 4
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
