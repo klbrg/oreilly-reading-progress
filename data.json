@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T20:29:45.877Z",
+  "timestamp": "2025-10-26T20:30:03.182Z",
   "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch03.xhtml",
   "title": "Exercise 3. Numbers and Math | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
@@ -719,7 +719,7 @@
       "id": "cde7d9af-19d5-446c-9cc1-6a1b868bb71f",
       "timestamp": 1761510523958,
       "duration": 1800000,
-      "lastEventTimestamp": 1761510558873
+      "lastEventTimestamp": 1761510588873
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -3269,7 +3269,7 @@
     },
     "search-filter-certification-expanded": false,
     "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch03.xhtml": {
-      "index": 4
+      "index": 3
     },
     "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016-ch03.html": {
       "index": 20
