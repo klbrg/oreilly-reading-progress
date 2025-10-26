@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T12:47:01.076Z",
+  "timestamp": "2025-10-26T12:47:01.457Z",
   "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/preface03.html#id164",
   "title": "Prerequisites and Assumptions | Test-Driven Development with Python, 3rd Edition",
   "storage": {
@@ -762,7 +762,44 @@
     "oreilly-reader-progress-library-view-certified-kubernetes-administrator-9798341608399-ch01.html": {
       "index": 57
     },
-    "AMP_unsent_49f7a68a85": [],
+    "AMP_unsent_49f7a68a85": [
+      {
+        "user_id": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
+        "device_id": "f7ae1942-bbd3-40d8-9117-360d4f4f5e06",
+        "session_id": 1761481533603,
+        "time": 1761482821368,
+        "platform": "Web",
+        "language": "en-US",
+        "insert_id": "3092b579-419c-43b4-ab95-1012fab05bc8",
+        "event_type": "View Content",
+        "event_properties": {
+          "productType": "book",
+          "formatType": "book",
+          "ourn": "urn:orm:book:9781098148706:chapter:preface03.html",
+          "ournRoot": "urn:orm:book:9781098148706",
+          "pageUrl": "/library/view/test-driven-development-with/9781098148706/preface03.html",
+          "topic": [
+            "test-driven development (tdd)"
+          ],
+          "level": "intermediate to advanced",
+          "title": "Test-Driven Development with Python, 3rd Edition",
+          "titleId": "9781098148706",
+          "aiAcademyTitle": false,
+          "hasQuiz": false,
+          "hasSandbox": false,
+          "hasAnswersAccess": true,
+          "hasAnswersToolbarAccess": true,
+          "hasRecapEnabled": true,
+          "hasRecapVisible": true,
+          "hasStudyModeVisible": false,
+          "hasScheduleLearningAccess": true,
+          "hasChapterSummaryAccess": true
+        },
+        "event_id": 1036,
+        "library": "amplitude-ts/2.21.1",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+      }
+    ],
     "oreilly-reader-progress-library-view-python-concurrency-with-9781617298660": {
       "index": 20
     },
@@ -770,7 +807,7 @@
       "index": 65
     },
     "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-preface03.html": {
-      "index": 1
+      "index": 2
     },
     "search-filter-language-filter-expanded": true,
     "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-03.html": {
@@ -922,8 +959,8 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761481533603,
       "optOut": false,
-      "lastEventTime": 1761482818918,
-      "lastEventId": 1035,
+      "lastEventTime": 1761482821368,
+      "lastEventId": 1036,
       "pageCounter": 14
     },
     "topic_names": {
