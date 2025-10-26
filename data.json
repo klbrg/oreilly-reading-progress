@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T09:39:37.092Z",
-  "page": "https://learning.oreilly.com/library/view/effective-python-125/9780138172398/ch02.xhtml",
-  "title": "Chapter 2. Strings and Slicing | Effective Python: 125 Specific Ways to Write Better Python, 3rd Edition",
+  "timestamp": "2025-10-26T10:37:42.921Z",
+  "page": "https://learning.oreilly.com/library/view/python-3/9781806102471/03_009.html",
+  "title": "3.9 \u00a0 Screen Outputs | Python 3",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -343,6 +343,9 @@
     "orm-ucv-colorMode": "white",
     "orm-video-player::playkit::playback-rate": 1.3,
     "@playkit-js/kaltura-player-js_muted": false,
+    "oreilly-reader-progress-library-view-python-3-9781806102471-03_009.html": {
+      "index": 1
+    },
     "oreilly-reader-progress-library-view-ccna-200-301-official-9780138229856-ch01.xhtml": {
       "index": 33
     },
@@ -713,7 +716,7 @@
       "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
       "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761471276864
+      "lastEventTimestamp": 1761471705902
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
