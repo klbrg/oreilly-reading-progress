@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T09:28:00.376Z",
-  "page": "https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/ch02.html#idm46582503264320",
-  "title": "2. An Array of Sequences | Fluent Python, 2nd Edition",
+  "timestamp": "2025-10-26T09:28:16.291Z",
+  "page": "https://learning.oreilly.com/library/view/python-distilled/9780134173399/ch02.xhtml",
+  "title": "2. Operators, Expressions, and Data Manipulation | Python Distilled",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -710,7 +710,7 @@
       "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
       "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761470694027
+      "lastEventTimestamp": 1761470893495
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -910,9 +910,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761470633654,
       "optOut": false,
-      "lastEventTime": 1761470634164,
-      "lastEventId": 942,
-      "pageCounter": 1
+      "lastEventTime": 1761470893793,
+      "lastEventId": 950,
+      "pageCounter": 3
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2758,7 +2758,7 @@
       "index": 75
     },
     "oreilly-reader-progress-library-view-python-distilled-9780134173399-ch02.xhtml": {
-      "index": 33
+      "index": 34
     },
     "oreilly-reader-progress-library-view-automate-the-boring-9798341620094-xhtml-chapter2.xhtml": {
       "index": 31
