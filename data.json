@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T09:28:23.503Z",
+  "timestamp": "2025-10-26T09:28:31.584Z",
   "page": "https://learning.oreilly.com/library/view/python-distilled/9780134173399/ch02.xhtml",
   "title": "2. Operators, Expressions, and Data Manipulation | Python Distilled",
   "storage": {
@@ -710,7 +710,7 @@
       "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
       "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761470901199
+      "lastEventTimestamp": 1761470908496
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -2758,7 +2758,7 @@
       "index": 75
     },
     "oreilly-reader-progress-library-view-python-distilled-9780134173399-ch02.xhtml": {
-      "index": 36
+      "index": 35
     },
     "oreilly-reader-progress-library-view-automate-the-boring-9798341620094-xhtml-chapter2.xhtml": {
       "index": 31
