@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T20:28:39.510Z",
-  "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch02.xhtml",
-  "title": "Exercise 2. Comments and Pound Characters | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
+  "timestamp": "2025-10-26T20:29:12.195Z",
+  "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch03.xhtml",
+  "title": "Exercise 3. Numbers and Math | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -716,10 +716,10 @@
     },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
-      "id": "ae73f98e-2ea1-4434-a7e4-c18f2c5a45f3",
-      "timestamp": 1761503523488,
+      "id": "cde7d9af-19d5-446c-9cc1-6a1b868bb71f",
+      "timestamp": 1761510523958,
       "duration": 1800000,
-      "lastEventTimestamp": 1761504052672
+      "lastEventTimestamp": 1761510543874
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -923,11 +923,11 @@
     "AMP_49f7a68a85": {
       "deviceId": "f7ae1942-bbd3-40d8-9117-360d4f4f5e06",
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
-      "sessionId": 1761503522656,
+      "sessionId": 1761510523872,
       "optOut": false,
-      "lastEventTime": 1761503992781,
-      "lastEventId": 1153,
-      "pageCounter": 11
+      "lastEventTime": 1761510528808,
+      "lastEventId": 1160,
+      "pageCounter": 2
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -3268,6 +3268,9 @@
       "url": "/videos/-/9780135707333/"
     },
     "search-filter-certification-expanded": false,
+    "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch03.xhtml": {
+      "index": 1
+    },
     "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016-ch03.html": {
       "index": 20
     }
