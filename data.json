@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T12:54:28.373Z",
-  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch01.html",
-  "title": "1. Getting Django Set Up Using a Functional Test | Test-Driven Development with Python, 3rd Edition",
+  "timestamp": "2025-10-26T12:54:51.828Z",
+  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch02.html",
+  "title": "2. Extending Our Functional Test Using the unittest Module | Test-Driven Development with Python, 3rd Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -716,7 +716,7 @@
       "id": "5e6ec0f0-b29a-4232-a554-9bb198d032c8",
       "timestamp": 1761481535092,
       "duration": 1800000,
-      "lastEventTimestamp": 1761482879250
+      "lastEventTimestamp": 1761483290622
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -922,9 +922,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761481533603,
       "optOut": false,
-      "lastEventTime": 1761482821368,
-      "lastEventId": 1036,
-      "pageCounter": 14
+      "lastEventTime": 1761483290252,
+      "lastEventId": 1037,
+      "pageCounter": 15
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2747,6 +2747,9 @@
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 48
+    },
+    "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-ch02.html": {
+      "index": 1
     },
     "oreilly-reader-progress-library-view-infrastructure-as-code-9781098150341-ch01.html": {
       "index": 79
