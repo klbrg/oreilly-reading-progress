@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T08:26:41.861Z",
-  "page": "https://learning.oreilly.com/library/view/python-in-a/9781098113544/ch02.html",
-  "title": "2. The Python Interpreter | Python in a Nutshell, 4th Edition",
+  "timestamp": "2025-10-26T09:24:08.468Z",
+  "page": "https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/ch02.html#idm46582503264320",
+  "title": "2. An Array of Sequences | Fluent Python, 2nd Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -284,11 +284,11 @@
     "oreilly-reader-progress-library-view-certified-ethical-hacker-9781098174767-ch01.html": {
       "index": 45
     },
-    "oreilly-reader-progress-library-view-clean-code-a-9780135398586-ch01.xhtml": {
-      "index": 129
-    },
     "oreilly-reader-progress-library-view-cilium-up-and-9798341622982-ch05.html": {
       "index": 49
+    },
+    "oreilly-reader-progress-library-view-clean-code-a-9780135398586-ch01.xhtml": {
+      "index": 129
     },
     "oreilly-reader-progress-library-view-powerful-python-9781098175696-ch04.html": {
       "index": 54
@@ -358,7 +358,9 @@
     "oreilly-reader-progress-library-view-container-security-2nd-9798341627697-ch01.html": {
       "index": 5
     },
-    "search-filter-publishers-expanded": false,
+    "oreilly-reader-progress-library-view-the-devops-handbook-9781098182281-10-intro.xhtml": {
+      "index": 118
+    },
     "/api/v1/book/9781098100650/": {
       "_cached_timestamp": 1760213498486,
       "identifier": "9781098100650",
@@ -518,9 +520,7 @@
       "api_url": "/api/v1/book/9781098100650/",
       "url": "/library/view/-/9781098100650/"
     },
-    "oreilly-reader-progress-library-view-the-devops-handbook-9781098182281-10-intro.xhtml": {
-      "index": 118
-    },
+    "search-filter-publishers-expanded": false,
     "oreilly-reader-progress-library-view-modern-javascript-for-9780136502166-ch02.xhtml": {
       "index": 16
     },
@@ -707,10 +707,10 @@
     },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
-      "id": "7d1f5ea4-8235-4c0c-b20f-eb809ae763a7",
-      "timestamp": 1761464075008,
+      "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
+      "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761467168817
+      "lastEventTimestamp": 1761470634025
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -908,11 +908,11 @@
     "AMP_49f7a68a85": {
       "deviceId": "f7ae1942-bbd3-40d8-9117-360d4f4f5e06",
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
-      "sessionId": 1761464073834,
+      "sessionId": 1761470633654,
       "optOut": false,
-      "lastEventTime": 1761467109391,
-      "lastEventId": 931,
-      "pageCounter": 9
+      "lastEventTime": 1761470634164,
+      "lastEventId": 942,
+      "pageCounter": 1
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -3009,7 +3009,7 @@
     },
     "search-filter-content-level-expanded": false,
     "oreilly-reader-progress-library-view-fluent-python-2nd-9781492056348-ch02.html": {
-      "index": 109
+      "index": 110
     },
     "oreilly-reader-progress-library-view-object-oriented-python-9781098129842-c01.xhtml": {
       "index": 21
