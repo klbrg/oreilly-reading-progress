@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T09:24:08.468Z",
+  "timestamp": "2025-10-26T09:24:17.183Z",
   "page": "https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/ch02.html#idm46582503264320",
   "title": "2. An Array of Sequences | Fluent Python, 2nd Edition",
   "storage": {
@@ -710,7 +710,7 @@
       "id": "3c23ce4e-242a-4b01-8437-275372c1ec64",
       "timestamp": 1761470634266,
       "duration": 1800000,
-      "lastEventTimestamp": 1761470634025
+      "lastEventTimestamp": 1761470649027
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -3009,7 +3009,7 @@
     },
     "search-filter-content-level-expanded": false,
     "oreilly-reader-progress-library-view-fluent-python-2nd-9781492056348-ch02.html": {
-      "index": 110
+      "index": 111
     },
     "oreilly-reader-progress-library-view-object-oriented-python-9781098129842-c01.xhtml": {
       "index": 21
