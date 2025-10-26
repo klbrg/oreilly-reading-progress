@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T12:47:13.464Z",
+  "timestamp": "2025-10-26T12:47:14.732Z",
   "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/preface03.html#id164",
   "title": "Prerequisites and Assumptions | Test-Driven Development with Python, 3rd Edition",
   "storage": {
@@ -716,7 +716,7 @@
       "id": "5e6ec0f0-b29a-4232-a554-9bb198d032c8",
       "timestamp": 1761481535092,
       "duration": 1800000,
-      "lastEventTimestamp": 1761482819611
+      "lastEventTimestamp": 1761482834249
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -770,7 +770,7 @@
       "index": 65
     },
     "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-preface03.html": {
-      "index": 18
+      "index": 19
     },
     "search-filter-language-filter-expanded": true,
     "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-03.html": {
