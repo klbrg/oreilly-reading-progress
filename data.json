@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T13:27:53.085Z",
-  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch02.html",
-  "title": "2. Extending Our Functional Test Using the unittest Module | Test-Driven Development with Python, 3rd Edition",
+  "timestamp": "2025-10-26T13:28:17.879Z",
+  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch03.html",
+  "title": "3. Testing a Simple Home Page with Unit Tests | Test-Driven Development with Python, 3rd Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -711,12 +711,15 @@
     "oreilly-reader-progress-library-view-version-control-with-9781492091189-ch04.html": {
       "index": 90
     },
+    "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-ch03.html": {
+      "index": 1
+    },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
       "id": "5e6ec0f0-b29a-4232-a554-9bb198d032c8",
       "timestamp": 1761481535092,
       "duration": 1800000,
-      "lastEventTimestamp": 1761483964034
+      "lastEventTimestamp": 1761485294460
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -922,9 +925,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761481533603,
       "optOut": false,
-      "lastEventTime": 1761485251426,
-      "lastEventId": 1055,
-      "pageCounter": 16
+      "lastEventTime": 1761485294437,
+      "lastEventId": 1060,
+      "pageCounter": 18
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
