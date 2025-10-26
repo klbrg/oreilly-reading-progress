@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T13:28:19.366Z",
+  "timestamp": "2025-10-26T13:28:24.908Z",
   "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch03.html",
   "title": "3. Testing a Simple Home Page with Unit Tests | Test-Driven Development with Python, 3rd Edition",
   "storage": {
@@ -712,7 +712,7 @@
       "index": 90
     },
     "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-ch03.html": {
-      "index": 3
+      "index": 2
     },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
