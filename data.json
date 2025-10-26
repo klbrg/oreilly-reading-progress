@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-26T18:33:37.671Z",
+  "timestamp": "2025-10-26T18:33:54.259Z",
   "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch00.xhtml",
   "title": "Exercise 0. Gearing Up | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
@@ -719,7 +719,7 @@
       "id": "ae73f98e-2ea1-4434-a7e4-c18f2c5a45f3",
       "timestamp": 1761503523488,
       "duration": 1800000,
-      "lastEventTimestamp": 1761503609068
+      "lastEventTimestamp": 1761503624069
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -2749,7 +2749,7 @@
       "index": 23
     },
     "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch00.xhtml": {
-      "index": 1
+      "index": 2
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 48
