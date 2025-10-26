@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T12:27:34.303Z",
-  "page": "https://learning.oreilly.com/library/view/the-quick-python/9781633436336/Text/03.html",
-  "title": "3 The quick Python overview | The Quick Python Book, Fourth Edition",
+  "timestamp": "2025-10-26T12:32:08.873Z",
+  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/part01.html",
+  "title": "I. The Basics of TDD and Django | Test-Driven Development with Python, 3rd Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -716,7 +716,7 @@
       "id": "5e6ec0f0-b29a-4232-a554-9bb198d032c8",
       "timestamp": 1761481535092,
       "duration": 1800000,
-      "lastEventTimestamp": 1761481594462
+      "lastEventTimestamp": 1761481923285
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -751,6 +751,9 @@
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_007.html": {
       "index": 11
+    },
+    "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-part01.html": {
+      "index": 1
     },
     "orm-ucv-showTranscription": false,
     "oreilly-reader-progress-library-view-designing-data-intensive-applications-9781098119058-ch02.html": {
@@ -916,9 +919,9 @@
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
       "sessionId": 1761481533603,
       "optOut": false,
-      "lastEventTime": 1761481533951,
-      "lastEventId": 995,
-      "pageCounter": 1
+      "lastEventTime": 1761481924030,
+      "lastEventId": 1027,
+      "pageCounter": 11
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
