@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T18:31:56.384Z",
-  "page": "https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/ch03.html",
-  "title": "3. Testing a Simple Home Page with Unit Tests | Test-Driven Development with Python, 3rd Edition",
+  "timestamp": "2025-10-26T18:33:37.671Z",
+  "page": "https://learning.oreilly.com/library/view/learn-python-the/9780138270711/ch00.xhtml",
+  "title": "Exercise 0. Gearing Up | Learn Python the Hard Way: A Deceptively Simple Introduction to the Terrifyingly Beautiful World of Computers and Data Science, 5th Edition",
   "storage": {
     "oreilly-reader-progress-library-view-python-for-data-9781098104023-ch01.html": {
       "index": 86
@@ -708,18 +708,18 @@
     "oreilly-reader-progress-library-view-python-3-9781806102471-01_005.html": {
       "index": 2
     },
-    "oreilly-reader-progress-library-view-version-control-with-9781492091189-ch04.html": {
-      "index": 90
-    },
     "oreilly-reader-progress-library-view-test-driven-development-with-9781098148706-ch03.html": {
       "index": 8
     },
+    "oreilly-reader-progress-library-view-version-control-with-9781492091189-ch04.html": {
+      "index": 90
+    },
     "orm-ucv-readerWidth": 90,
     "apc_session": {
-      "id": "5e6ec0f0-b29a-4232-a554-9bb198d032c8",
-      "timestamp": 1761481535092,
+      "id": "ae73f98e-2ea1-4434-a7e4-c18f2c5a45f3",
+      "timestamp": 1761503523488,
       "duration": 1800000,
-      "lastEventTimestamp": 1761485757982
+      "lastEventTimestamp": 1761503609068
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -923,11 +923,11 @@
     "AMP_49f7a68a85": {
       "deviceId": "f7ae1942-bbd3-40d8-9117-360d4f4f5e06",
       "userId": "9db2284e-a5ed-46f5-a142-dcac6c22235d",
-      "sessionId": 1761481533603,
+      "sessionId": 1761503522656,
       "optOut": false,
-      "lastEventTime": 1761485699856,
-      "lastEventId": 1118,
-      "pageCounter": 34
+      "lastEventTime": 1761503609059,
+      "lastEventId": 1143,
+      "pageCounter": 7
     },
     "topic_names": {
       "c1aa9318-95a5-4fde-9e8c-956adf4e8a1d": "MongoDB Associate DBA",
@@ -2747,6 +2747,9 @@
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-02_001.html": {
       "index": 23
+    },
+    "oreilly-reader-progress-library-view-learn-python-the-9780138270711-ch00.xhtml": {
+      "index": 1
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 48
