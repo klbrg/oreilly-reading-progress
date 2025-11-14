@@ -122,13 +122,13 @@
     "oreilly-reader-progress-library-view-modern-javascript-for-9780136502166-ch02.xhtml": {
       "index": 16
     },
-    "oreilly-reader-progress-library-view-python-3-9781806102471-02_002.html": {
-      "index": 18
-    },
     "oreilly-reader-progress-library-view-ccna-200-301-official-9780138229856": {
       "index": 4,
       "date": "2025-11-13T18:59:40.613Z",
       "url": "https://learning.oreilly.com/library/view/ccna-200-301-official/9780138229856/part01.xhtml"
+    },
+    "oreilly-reader-progress-library-view-python-3-9781806102471-02_002.html": {
+      "index": 18
     },
     "oreilly-reader-progress-library-view-the-devops-handbook-9781098182281-13-ch01.xhtml": {
       "index": 112
@@ -167,6 +167,11 @@
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-02.html": {
       "index": 73
+    },
+    "oreilly-reader-progress-library-view-cisco-pyats-network-9780138031855-ch01.xhtml": {
+      "index": 1,
+      "date": "2025-11-14T11:04:38.633Z",
+      "url": "https://learning.oreilly.com/library/view/cisco-pyats-network/9780138031855/ch01.xhtml#ch01lev1sec1"
     },
     "oreilly-reader-progress-library-view-learning-github-actions-9781098131067-ch07.html": {
       "index": 110
