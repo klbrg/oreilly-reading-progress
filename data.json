@@ -163,7 +163,9 @@
       "index": 2
     },
     "oreilly-reader-progress-library-view-the-quick-python-9781633436336": {
-      "index": 9
+      "index": 10,
+      "date": "2025-12-30T15:13:56.210Z",
+      "url": "https://learning.oreilly.com/library/view/the-quick-python/9781633436336/Text/toc.html"
     },
     "oreilly-reader-progress-library-view-certified-kubernetes-administrator-9798341608399-ch02.html": {
       "index": 17
@@ -182,18 +184,23 @@
     "oreilly-reader-progress-library-view-clean-code-a-9780135398586-part01.xhtml": {
       "index": 2
     },
-    "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-02.html": {
-      "index": 73
-    },
     "oreilly-reader-progress-library-view-ocp-oracle-certified-9781394286614": {
       "index": 0,
       "date": "2025-12-09T16:50:30.064Z",
       "url": "https://learning.oreilly.com/library/view/ocp-oracle-certified/9781394286614/c01.xhtml"
     },
+    "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-02.html": {
+      "index": 73
+    },
     "oreilly-reader-progress-library-view-cisco-pyats-network-9780138031855-ch01.xhtml": {
       "index": 5,
       "date": "2025-11-24T19:53:45.083Z",
       "url": "https://learning.oreilly.com/library/view/cisco-pyats-network/9780138031855/ch01.xhtml#ch01lev1sec1"
+    },
+    "oreilly-reader-progress-library-view-platform-engineering-9781098153632": {
+      "index": 4,
+      "date": "2025-12-16T09:45:12.730Z",
+      "url": "https://learning.oreilly.com/library/view/platform-engineering/9781098153632/ch01.html"
     },
     "oreilly-reader-progress-library-view-learning-github-actions-9781098131067-ch07.html": {
       "index": 110
@@ -231,6 +238,11 @@
       "index": 6,
       "date": "2025-10-29T08:10:56.907Z",
       "url": "https://learning.oreilly.com/library/view/applied-ai-for/9781098174491/ch06.html"
+    },
+    "oreilly-reader-progress-library-view-the-quick-python-9781633436336-Text-toc.html": {
+      "index": 5,
+      "date": "2025-12-31T09:54:51.063Z",
+      "url": "https://learning.oreilly.com/library/view/the-quick-python/9781633436336/Text/toc.html"
     },
     "oreilly-reader-progress-library-view-python-3-9781806102471-03_006.html": {
       "index": 10
@@ -420,6 +432,11 @@
     },
     "oreilly-reader-progress-library-view-object-oriented-python-9781098129842-c01.xhtml": {
       "index": 21
+    },
+    "oreilly-reader-progress-library-view-ccna-200-301-official-9780138221539-vol1_ch01.xhtml": {
+      "index": 1,
+      "date": "2026-01-07T12:00:04.246Z",
+      "url": "https://learning.oreilly.com/library/view/ccna-200-301-official/9780138221539/vol1_ch01.xhtml#ch01"
     },
     "oreilly-reader-progress-library-view-the-devops-handbook-9781098182281-17-part-1-conclution.xhtml": {
       "index": 12,
