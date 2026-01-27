@@ -1,6 +1,16 @@
 {
-  "title": "1.2 \u00a0 Introduction to JavaScript | JavaScript",
+  "title": "1. Agentic AI and MCP | AI Agents with MCP",
   "storage": {
+    "oreilly-reader-progress-library-view-ai-agents-with-9798341639546": {
+      "index": 1,
+      "date": "2026-01-27T18:01:05.876Z",
+      "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch01.html"
+    },
+    "oreilly-reader-progress-library-view-javascript-9781836642237-01_002.html": {
+      "index": 21,
+      "date": "2026-01-27T10:21:55.802Z",
+      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_002.html"
+    },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 1,
       "date": "2026-01-24T11:05:04.487Z",
@@ -10,11 +20,6 @@
       "index": 74,
       "date": "2026-01-25T10:02:15.306Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_001.html"
-    },
-    "oreilly-reader-progress-library-view-javascript-9781836642237-01_002.html": {
-      "index": 21,
-      "date": "2026-01-27T10:21:55.802Z",
-      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_002.html"
     }
   }
 }
