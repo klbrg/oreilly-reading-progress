@@ -1,5 +1,5 @@
 {
-  "title": "1. Introduction to Building AI Applications with Foundation Models | AI Engineering",
+  "title": "1 A brief overview of Terraform | Terraform in Depth",
   "storage": {
     "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch01.html": {
       "index": 38,
@@ -40,6 +40,11 @@
       "index": 74,
       "date": "2026-01-25T10:02:15.306Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_001.html"
+    },
+    "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-01.html": {
+      "index": 1,
+      "date": "2026-01-29T16:59:27.224Z",
+      "url": "https://learning.oreilly.com/library/view/terraform-in-depth/9781633438002/OEBPS/Text/01.html"
     }
   }
 }
