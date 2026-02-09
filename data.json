@@ -1,19 +1,10 @@
 {
   "storage": {
-    "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch01.html": {
-      "index": 38,
-      "date": "2026-01-29T07:37:34.967Z",
-      "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch01.html"
-    },
-    "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch02.html": {
-      "index": 3,
-      "date": "2026-01-29T07:38:03.831Z",
-      "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch02.html"
-    },
-    "oreilly-reader-progress-library-view-javascript-9781836642237-01_003.html": {
-      "index": 2,
-      "date": "2026-01-27T18:18:03.788Z",
-      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_003.html"
+    "oreilly-reader-progress-library-view-network-security-private-9780136643531-ch01.xhtml": {
+      "index": 1,
+      "date": "2026-02-09T17:10:18.317Z",
+      "url": "https://learning.oreilly.com/library/view/network-security-private/9780136643531/ch01.xhtml",
+      "title": "1. Introduction | Network Security: Private Communications in a Public World, 3rd Edition"
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292": {
       "index": 12,
@@ -30,26 +21,10 @@
       "date": "2026-01-27T18:17:41.789Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_002.html"
     },
-    "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch24.html": {
-      "index": 17,
-      "date": "2026-02-09T16:00:50.889Z",
-      "url": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch24.html",
-      "title": "24. Module Packages | Learning Python, 6th Edition"
-    },
-    "oreilly-reader-progress-library-view-javascript-9781836642237-02_001.html": {
-      "index": 14,
-      "date": "2026-01-29T19:53:30.867Z",
-      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/02_001.html"
-    },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
       "index": 1,
       "date": "2026-01-24T11:05:04.487Z",
       "url": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch23.html"
-    },
-    "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016": {
-      "index": 11,
-      "date": "2026-01-29T19:56:57.404Z",
-      "url": "https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/ch01.html"
     },
     "oreilly-reader-progress-library-view-ai-engineering-9781098166298-ch01.html": {
       "index": 5,
@@ -66,15 +41,46 @@
       "date": "2026-01-29T20:42:33.462Z",
       "url": "https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/ch01.html"
     },
-    "oreilly-reader-progress-library-view-javascript-9781836642237-01_001.html": {
-      "index": 74,
-      "date": "2026-01-25T10:02:15.306Z",
-      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_001.html"
-    },
     "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-01.html": {
       "index": 19,
       "date": "2026-01-29T19:13:51.945Z",
       "url": "https://learning.oreilly.com/library/view/terraform-in-depth/9781633438002/OEBPS/Text/01.html"
+    },
+    "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch01.html": {
+      "index": 38,
+      "date": "2026-01-29T07:37:34.967Z",
+      "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch01.html"
+    },
+    "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch02.html": {
+      "index": 3,
+      "date": "2026-01-29T07:38:03.831Z",
+      "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch02.html"
+    },
+    "oreilly-reader-progress-library-view-javascript-9781836642237-01_003.html": {
+      "index": 2,
+      "date": "2026-01-27T18:18:03.788Z",
+      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_003.html"
+    },
+    "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch24.html": {
+      "index": 17,
+      "date": "2026-02-09T16:00:50.889Z",
+      "url": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch24.html",
+      "title": "24. Module Packages | Learning Python, 6th Edition"
+    },
+    "oreilly-reader-progress-library-view-javascript-9781836642237-02_001.html": {
+      "index": 14,
+      "date": "2026-01-29T19:53:30.867Z",
+      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/02_001.html"
+    },
+    "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016": {
+      "index": 11,
+      "date": "2026-01-29T19:56:57.404Z",
+      "url": "https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/ch01.html"
+    },
+    "oreilly-reader-progress-library-view-javascript-9781836642237-01_001.html": {
+      "index": 74,
+      "date": "2026-01-25T10:02:15.306Z",
+      "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_001.html"
     }
   }
 }
