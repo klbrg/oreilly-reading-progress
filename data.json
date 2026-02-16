@@ -27,16 +27,16 @@
       "date": "2026-01-27T18:17:41.789Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_002.html"
     },
-    "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
-      "index": 1,
-      "date": "2026-01-24T11:05:04.487Z",
-      "url": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch23.html"
-    },
     "oreilly-reader-progress-library-view-comptia-security-study-9781394211418-c01.xhtml": {
       "index": 24,
       "date": "2026-02-11T11:59:28.531Z",
       "url": "https://learning.oreilly.com/library/view/comptia-security-study/9781394211418/c01.xhtml",
       "title": "Chapter 1: Today's Security Professional | CompTIA Security+ Study Guide with over 500 Practice Test Questions, 9th Edition"
+    },
+    "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch23.html": {
+      "index": 1,
+      "date": "2026-01-24T11:05:04.487Z",
+      "url": "https://learning.oreilly.com/library/view/learning-python-6th/9781098171292/ch23.html"
     },
     "oreilly-reader-progress-library-view-ai-engineering-9781098166298-ch01.html": {
       "index": 5,
@@ -54,9 +54,9 @@
       "url": "https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/ch01.html"
     },
     "oreilly-reader-progress-library-view-linux-command-line-9781394364947-c012.xhtml": {
-      "index": 32,
-      "date": "2026-02-15T19:40:52.187Z",
-      "url": "https://learning.oreilly.com/library/view/linux-command-line/9781394364947/c012.xhtml#c012-sec-0002",
+      "index": 33,
+      "date": "2026-02-16T07:02:39.117Z",
+      "url": "https://learning.oreilly.com/library/view/linux-command-line/9781394364947/c012.xhtml#c012-sec-0008",
       "title": "Chapter 12: Using Structured Commands | Linux Command Line and Shell Scripting Bible, 5th Edition"
     },
     "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-01.html": {
@@ -69,6 +69,12 @@
       "date": "2026-01-29T07:37:34.967Z",
       "url": "https://learning.oreilly.com/library/view/ai-agents-with/9798341639546/ch01.html"
     },
+    "oreilly-reader-progress-library-view-linux-command-line-9781394364947-c011.xhtml": {
+      "index": 163,
+      "date": "2026-02-15T15:12:18.656Z",
+      "url": "https://learning.oreilly.com/library/view/linux-command-line/9781394364947/c011.xhtml",
+      "title": "Chapter 11: Basic Script Building | Linux Command Line and Shell Scripting Bible, 5th Edition"
+    },
     "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch02.html": {
       "index": 3,
       "date": "2026-01-29T07:38:03.831Z",
@@ -78,12 +84,6 @@
       "index": 2,
       "date": "2026-01-27T18:18:03.788Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_003.html"
-    },
-    "oreilly-reader-progress-library-view-linux-command-line-9781394364947-c011.xhtml": {
-      "index": 163,
-      "date": "2026-02-15T15:12:18.656Z",
-      "url": "https://learning.oreilly.com/library/view/linux-command-line/9781394364947/c011.xhtml",
-      "title": "Chapter 11: Basic Script Building | Linux Command Line and Shell Scripting Bible, 5th Edition"
     },
     "oreilly-reader-progress-library-view-learning-python-6th-9781098171292-ch24.html": {
       "index": 17,
@@ -96,15 +96,15 @@
       "date": "2026-01-29T19:53:30.867Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/02_001.html"
     },
-    "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016": {
-      "index": 11,
-      "date": "2026-01-29T19:56:57.404Z",
-      "url": "https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/ch01.html"
-    },
     "oreilly-reader-progress-library-view-linux-command-line-9781394364947-c001.xhtml": {
       "index": 1,
       "date": "2026-02-13T20:24:28.890Z",
       "url": "https://learning.oreilly.com/library/view/linux-command-line/9781394364947/c001.xhtml"
+    },
+    "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016": {
+      "index": 11,
+      "date": "2026-01-29T19:56:57.404Z",
+      "url": "https://learning.oreilly.com/library/view/javascript-the-definitive/9781491952016/ch01.html"
     },
     "oreilly-reader-progress-library-view-javascript-9781836642237-01_001.html": {
       "index": 74,
