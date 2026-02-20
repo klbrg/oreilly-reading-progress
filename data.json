@@ -95,16 +95,16 @@
       "url": "https://learning.oreilly.com/library/view/comptia-security-study/9781394211418/c01.xhtml",
       "title": "Chapter 1: Today's Security Professional | CompTIA Security+ Study Guide with over 500 Practice Test Questions, 9th Edition"
     },
-    "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-01.html": {
-      "index": 19,
-      "date": "2026-01-29T19:13:51.945Z",
-      "url": "https://learning.oreilly.com/library/view/terraform-in-depth/9781633438002/OEBPS/Text/01.html"
-    },
     "oreilly-reader-progress-library-view-certified-kubernetes-administrator-9798341608399-ch03.html": {
       "index": 13,
       "date": "2026-02-19T16:52:51.084Z",
       "url": "https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9798341608399/ch03.html",
       "title": "3. Interacting with Kubernetes | Certified Kubernetes Administrator (CKA) Study Guide, 2nd Edition"
+    },
+    "oreilly-reader-progress-library-view-terraform-in-depth-9781633438002-OEBPS-Text-01.html": {
+      "index": 19,
+      "date": "2026-01-29T19:13:51.945Z",
+      "url": "https://learning.oreilly.com/library/view/terraform-in-depth/9781633438002/OEBPS/Text/01.html"
     },
     "oreilly-reader-progress-library-view-ai-agents-with-9798341639546-ch01.html": {
       "index": 38,
@@ -138,6 +138,12 @@
       "index": 2,
       "date": "2026-01-27T18:18:03.788Z",
       "url": "https://learning.oreilly.com/library/view/javascript/9781836642237/01_003.html"
+    },
+    "oreilly-reader-progress-library-view-comptia-security-study-9781394211418-c02.xhtml": {
+      "index": 1,
+      "date": "2026-02-20T16:19:40.095Z",
+      "url": "https://learning.oreilly.com/library/view/comptia-security-study/9781394211418/c02.xhtml",
+      "title": "Chapter 2: Cybersecurity Threat Landscape | CompTIA Security+ Study Guide with over 500 Practice Test Questions, 9th Edition"
     },
     "oreilly-reader-progress-library-view-ccna-200-301-official-9780138229856-ch02.xhtml": {
       "index": 232,
