@@ -45,6 +45,12 @@
       "url": "https://learning.oreilly.com/library/view/ccna-200-301-official/9780138229856/ch05.xhtml#ch05",
       "title": "Chapter 5. Analyzing Ethernet LAN Switching | CCNA 200-301 Official Cert Guide, Volume 1, 2nd Edition"
     },
+    "oreilly-reader-progress-library-view-c-programming-language-9780133086249-ch00.xhtml": {
+      "index": 1,
+      "date": "2026-02-25T05:53:40.227Z",
+      "url": "https://learning.oreilly.com/library/view/c-programming-language/9780133086249/ch00.xhtml",
+      "title": "Introduction | C Programming Language, 2nd Edition"
+    },
     "oreilly-reader-progress-library-view-comptia-security-study-9781394211418-c01.xhtml": {
       "index": 77,
       "date": "2026-02-18T17:27:46.574Z",
@@ -67,17 +73,17 @@
       "date": "2026-01-29T07:42:27.131Z",
       "url": "https://learning.oreilly.com/library/view/ai-engineering/9781098166298/ch01.html"
     },
-    "oreilly-reader-progress-library-view-the-pragmatic-programmer-9780135956977-f_0017.xhtml": {
-      "index": 8,
-      "date": "2026-02-17T14:37:37.457Z",
-      "url": "https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0017.xhtml",
-      "title": "1. A Pragmatic Philosophy | The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
-    },
     "oreilly-reader-progress-library-view-cilium-up-and-9798341622982-ch01.html": {
       "index": 14,
       "date": "2026-02-24T20:13:13.129Z",
       "url": "https://learning.oreilly.com/library/view/cilium-up-and/9798341622982/ch01.html#ch01_from_early_cnis_to_modern_datapaths_1768534102635846",
       "title": "1. Why Cilium? | Cilium: Up and Running"
+    },
+    "oreilly-reader-progress-library-view-the-pragmatic-programmer-9780135956977-f_0017.xhtml": {
+      "index": 8,
+      "date": "2026-02-17T14:37:37.457Z",
+      "url": "https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0017.xhtml",
+      "title": "1. A Pragmatic Philosophy | The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition"
     },
     "oreilly-reader-progress-library-view-javascript-the-definitive-9781491952016-ch01.html": {
       "index": 16,
