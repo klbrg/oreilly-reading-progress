@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         O'Reilly Reader (Single Block Navigation + Full Storage Sync)
+// @name         O'Reilly Reader (Progressive Reveal + Full Storage Sync)
 // @namespace    http://tampermonkey.net/
-// @version      4.1.0
-// @description  Show one section at a time on O'Reilly chapters, save progress locally, and POST the entire localStorage to localhost
+// @version      5.0.0
+// @description  Progressively reveal sections on O'Reilly chapters via a Next Section button, save progress locally, and POST the entire localStorage to localhost
 // @match        https://learning.oreilly.com/library/view/*
 // @grant        none
 // @run-at       document-idle
@@ -184,49 +184,74 @@
         el.textContent = `Section ${index + 1} of ${groupedBlocks.length} · ${percent}% read`;
     }
 
+    function createNextButton(container) {
+        const btn = document.createElement('button');
+        btn.id = 'reader-next-btn';
+        btn.textContent = 'Next Section →';
+        btn.style.display = 'block';
+        btn.style.margin = '2em auto';
+        btn.style.padding = '0.6em 1.6em';
+        btn.style.fontSize = '1em';
+        btn.style.cursor = 'pointer';
+        btn.style.borderRadius = '6px';
+        btn.style.border = '1px solid #888';
+        btn.addEventListener('click', () => advance(container));
+        container.appendChild(btn);
+    }
+
     function render(container) {
         index = Math.max(0, Math.min(index, groupedBlocks.length - 1));
         container.innerHTML = '';
-        container.appendChild(groupedBlocks[index]);
+        for (let i = 0; i <= index; i++) {
+            container.appendChild(groupedBlocks[i]);
+        }
         updateProgressDisplay();
-        console.log(`[Reader] Showing index ${index}`);
+        if (index < groupedBlocks.length - 1) {
+            createNextButton(container);
+        }
+        console.log(`[Reader] Restored up to index ${index}`);
     }
 
-    function update(container) {
-        container.innerHTML = '';
-        container.appendChild(groupedBlocks[index]);
-        updateProgressDisplay();
-
-        // Save to localStorage
-        const progressData = { index };
-        const url = location.href;
-        progressData.date = new Date().toISOString();
-        progressData.url = url;
-        progressData.title = document.title;
+    function saveProgress() {
+        const progressData = {
+            index,
+            date: new Date().toISOString(),
+            url: location.href,
+            title: document.title,
+        };
         localStorage.setItem(storageKey, JSON.stringify(progressData));
-        console.log(`[Reader] Updated index to ${index} (saved)`);
-
-        // 🔥 Post *entire* localStorage to backend
+        console.log(`[Reader] Saved index ${index}`);
         postFullLocalStorage();
+    }
+
+    function advance(container) {
+        if (index >= groupedBlocks.length - 1) return;
+        index++;
+
+        const existingBtn = document.getElementById('reader-next-btn');
+        if (existingBtn) existingBtn.remove();
+
+        const newBlock = groupedBlocks[index];
+        container.appendChild(newBlock);
+        newBlock.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+        if (index < groupedBlocks.length - 1) {
+            createNextButton(container);
+        }
+
+        updateProgressDisplay();
+        saveProgress();
     }
 
     function setupNavigation(container) {
         document.addEventListener('keydown', (e) => {
             if (e.key === 'f') {
                 e.preventDefault();
-                if (index < groupedBlocks.length - 1) {
-                    index++;
-                    update(container);
-                }
-            } else if (e.key === 'd') {
-                e.preventDefault();
-                if (index > 0) {
-                    index--;
-                    update(container);
-                }
+                advance(container);
             }
         });
     }
 
     waitForContent();
 })();
+
