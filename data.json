@@ -526,6 +526,12 @@
       "date": "2026-04-12T08:45:04.032Z",
       "url": "https://learning.oreilly.com/library/view/tcp-ip-illustrated-volume/9780132808200/copyright.xhtml",
       "title": "Copyright Page | TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition"
+    },
+    "oreilly-reader-progress-library-view-hands-on-cisco-automation-9780135463215-ch01.xhtml": {
+      "index": 1,
+      "date": "2026-04-12T09:04:32.857Z",
+      "url": "https://learning.oreilly.com/library/view/hands-on-cisco-automation/9780135463215/ch01.xhtml",
+      "title": "Chapter 1. Introducing Netmiko, NAPALM, and Nornir | Hands-On Cisco Automation with Python: Streamline Network Tasks Using Netmiko, NAPALM, and Nornir for Beginners"
     }
   }
 }
