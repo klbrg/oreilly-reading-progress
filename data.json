@@ -226,8 +226,8 @@
       "title": "Introduction | CompTIA Data+ Study Guide, 2nd Edition"
     },
     "oreilly-reader-progress-library-view-learn-go-with-9781633438804-Text-chapter-2.html": {
-      "index": 99,
-      "date": "2026-03-31T14:40:32.041Z",
+      "index": 100,
+      "date": "2026-04-17T20:23:39.073Z",
       "url": "https://learning.oreilly.com/library/view/learn-go-with/9781633438804/Text/chapter-2.html#p172",
       "title": "2 Hello, earth! Extend your hello, world | Learn Go with Pocket-Sized Projects"
     },
@@ -550,6 +550,178 @@
       "date": "2026-04-13T08:34:53.175Z",
       "url": "https://learning.oreilly.com/library/view/foundations-of-cybersecurity/0642572230302/xhtml/ch01.xhtml",
       "title": "1. WHAT IS CYBERSECURITY? | Foundations of Cybersecurity, 2nd Edition"
+    }
+  },
+  "playlists": {
+    "300a43e1-087c-4444-9b2b-5fb661ed00ba": {
+      "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
+      "title": "Golang",
+      "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
+      "last_opened": "2026-04-17T20:23:29.394Z",
+      "books": [
+        {
+          "id": "9781098122102",
+          "title": "Go Cookbook",
+          "cover": "https://learning.oreilly.com/library/cover/9781098122102/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098122102/",
+          "item_id": "1720e65a-2404-4f35-957d-4f0e552eeb0c"
+        },
+        {
+          "id": "9781805127147",
+          "title": "Mastering Go - Fourth Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781805127147/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781805127147/",
+          "item_id": "6fa015fb-607e-4bdc-83da-4f4fb2b109e7"
+        },
+        {
+          "id": "9781633438804",
+          "title": "Learn Go with Pocket-Sized Projects",
+          "cover": "https://learning.oreilly.com/library/cover/9781633438804/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781633438804/",
+          "item_id": "bda446b7-c839-40f2-9d71-a202b99463ea"
+        },
+        {
+          "id": "9781617292231",
+          "title": "Grokking Algorithms",
+          "cover": "https://learning.oreilly.com/library/cover/9781617292231/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781617292231/",
+          "item_id": "d0456fc3-0b90-4ca6-9955-8e3106788d9d"
+        },
+        {
+          "id": "9781098139285",
+          "title": "Learning Go, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781098139285/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098139285/",
+          "item_id": "d0c184ba-9096-4c46-8849-382c5a0f7613"
+        },
+        {
+          "id": "9781491969540",
+          "title": "Head First Go",
+          "cover": "https://learning.oreilly.com/library/cover/9781491969540/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781491969540/",
+          "item_id": "0057aa0b-fec5-4b4d-aa9a-c096f9efac0d"
+        }
+      ]
+    },
+    "23dcc57a-25fd-4016-ac2f-25380cdcc852": {
+      "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
+      "title": "CCIE Enterprise",
+      "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
+      "last_opened": "2026-04-17T20:23:29.401Z",
+      "books": [
+        {
+          "id": "9780135180471",
+          "title": "Network Programmability with YANG: The Structure of Network Automation with YANG, NETCONF, RESTCONF, and gNMI",
+          "cover": "https://learning.oreilly.com/library/cover/9780135180471/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780135180471/",
+          "item_id": "fa2e72fb-808a-484e-b49e-06085658ce86"
+        },
+        {
+          "id": "9780135463215",
+          "title": "Hands-On Cisco Automation with Python: Streamline Network Tasks Using Netmiko, NAPALM, and Nornir for Beginners",
+          "cover": "https://learning.oreilly.com/library/cover/9780135463215/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780135463215/",
+          "item_id": "b7f103ea-016c-4809-a959-e9f5a7c112d7"
+        },
+        {
+          "id": "9780134670584",
+          "title": "IPv6 Fundamentals: A Straightforward Approach to Understanding IPv6, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780134670584/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780134670584/",
+          "item_id": "d4ed0ad8-826b-44fd-8fd8-1f61c879b981"
+        },
+        {
+          "id": "9780138221539",
+          "title": "CCNA 200-301 Official Cert Guide Library, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780138221539/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780138221539/",
+          "item_id": "a540b470-d116-4cd5-a415-6c3dd0844d1a"
+        },
+        {
+          "id": "9780138229856",
+          "title": "CCNA 200-301 Official Cert Guide, Volume 1, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780138229856/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780138229856/",
+          "item_id": "2d5ea8b7-1b5a-4a39-afe1-bcaf6c5228c3"
+        },
+        {
+          "id": "1587201240",
+          "title": "Cisco QOS Exam Certification Guide (IP Telephony Self-Study), Second Edition",
+          "cover": "https://learning.oreilly.com/library/cover/1587201240/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/1587201240/",
+          "item_id": "ff3f21df-4213-4e39-904c-eb2954683a12"
+        },
+        {
+          "id": "9780133116137",
+          "title": "End-to-End QoS Network Design: Quality of Service for Rich-Media & Cloud Networks, Second Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780133116137/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780133116137/",
+          "item_id": "2f0ed414-c068-460f-aac0-2dd879ef8880"
+        },
+        {
+          "id": "9780133784916",
+          "title": "IP Multicast, Volume II: Advanced Multicast Concepts and Large-Scale Multicast Design, First Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780133784916/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780133784916/",
+          "item_id": "88f9f691-b769-4576-9dd2-404ab2735576"
+        },
+        {
+          "id": "9780134399591",
+          "title": "IP Multicast, Volume 1: Cisco IP Multicast Networking",
+          "cover": "https://learning.oreilly.com/library/cover/9780134399591/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780134399591/",
+          "item_id": "a6b78f21-51cd-45b5-95eb-feba3d0af528"
+        },
+        {
+          "id": "1587051974",
+          "title": "MPLS Fundamentals",
+          "cover": "https://learning.oreilly.com/library/cover/1587051974/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/1587051974/",
+          "item_id": "a2153cd9-ab5e-49fd-81a1-6b3cab5c1545"
+        },
+        {
+          "id": "9780132808200",
+          "title": "TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780132808200/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780132808200/",
+          "item_id": "604827c4-86ec-4fb4-aee0-51e3e6d4af92"
+        },
+        {
+          "id": "1587052024",
+          "title": "Routing TCP/IP, Volume 1, 2/e",
+          "cover": "https://learning.oreilly.com/library/cover/1587052024/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/1587052024/",
+          "item_id": "1c52567a-0a10-4bd9-b0ad-ce6144502e92"
+        },
+        {
+          "id": "9780134192772",
+          "title": "Routing TCP/IP, Volume II: CCIE Professional Development, Second Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780134192772/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780134192772/",
+          "item_id": "0b5e386e-5e98-4897-b030-9be7466cce7b"
+        },
+        {
+          "id": "0321168798",
+          "title": "OSPF and IS-IS: Choosing an IGP for Large-Scale Networks",
+          "cover": "https://learning.oreilly.com/library/cover/0321168798/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/0321168798/",
+          "item_id": "25f8caec-3757-434b-93e6-60ff8ce62fc0"
+        },
+        {
+          "id": "9780133846751",
+          "title": "IP Routing on Cisco IOS, IOS XE, and IOS XR: An Essential Guide to Understanding and Implementing IP Routing Protocols",
+          "cover": "https://learning.oreilly.com/library/cover/9780133846751/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780133846751/",
+          "item_id": "ee79c152-a88e-4013-98ce-b444d6b0ca36"
+        },
+        {
+          "id": "0201604736",
+          "title": "Cisco IP Routing: Packet Forwarding and Intra-domain Routing Protocols",
+          "cover": "https://learning.oreilly.com/library/cover/0201604736/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/0201604736/",
+          "item_id": "0e2ee758-de27-4ac5-95fe-82898b729df3"
+        }
+      ]
     }
   }
 }
