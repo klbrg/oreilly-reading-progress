@@ -510,8 +510,8 @@
       "title": "1. WHAT IS CYBERSECURITY? | Foundations of Cybersecurity, 2nd Edition"
     },
     "oreilly-reader-progress-library-view-grokking-algorithms-9781617292231-OEBPS-Text-kindle_split_007.html": {
-      "index": 23,
-      "date": "2026-04-17T20:35:15.306Z",
+      "index": 24,
+      "date": "2026-04-18T06:40:26.815Z",
       "url": "https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/OEBPS/Text/kindle_split_007.html",
       "title": "Chapter 1. Introduction to Algorithms | Grokking Algorithms"
     },
@@ -557,36 +557,8 @@
       "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
-      "last_opened": "2026-04-17T20:23:29.394Z",
+      "last_opened": "2026-04-17T21:49:08.492Z",
       "books": [
-        {
-          "id": "9781098122102",
-          "title": "Go Cookbook",
-          "cover": "https://learning.oreilly.com/library/cover/9781098122102/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781098122102/",
-          "item_id": "1720e65a-2404-4f35-957d-4f0e552eeb0c"
-        },
-        {
-          "id": "9781805127147",
-          "title": "Mastering Go - Fourth Edition",
-          "cover": "https://learning.oreilly.com/library/cover/9781805127147/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781805127147/",
-          "item_id": "6fa015fb-607e-4bdc-83da-4f4fb2b109e7"
-        },
-        {
-          "id": "9781633438804",
-          "title": "Learn Go with Pocket-Sized Projects",
-          "cover": "https://learning.oreilly.com/library/cover/9781633438804/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781633438804/",
-          "item_id": "bda446b7-c839-40f2-9d71-a202b99463ea"
-        },
-        {
-          "id": "9781617292231",
-          "title": "Grokking Algorithms",
-          "cover": "https://learning.oreilly.com/library/cover/9781617292231/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781617292231/",
-          "item_id": "d0456fc3-0b90-4ca6-9955-8e3106788d9d"
-        },
         {
           "id": "9781098139285",
           "title": "Learning Go, 2nd Edition",
@@ -600,6 +572,27 @@
           "cover": "https://learning.oreilly.com/library/cover/9781491969540/400w/",
           "url": "https://learning.oreilly.com/library/view/-/9781491969540/",
           "item_id": "0057aa0b-fec5-4b4d-aa9a-c096f9efac0d"
+        },
+        {
+          "id": "9781633438804",
+          "title": "Learn Go with Pocket-Sized Projects",
+          "cover": "https://learning.oreilly.com/library/cover/9781633438804/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781633438804/",
+          "item_id": "bda446b7-c839-40f2-9d71-a202b99463ea"
+        },
+        {
+          "id": "9781805127147",
+          "title": "Mastering Go - Fourth Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781805127147/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781805127147/",
+          "item_id": "6fa015fb-607e-4bdc-83da-4f4fb2b109e7"
+        },
+        {
+          "id": "9781617292231",
+          "title": "Grokking Algorithms",
+          "cover": "https://learning.oreilly.com/library/cover/9781617292231/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781617292231/",
+          "item_id": "d0456fc3-0b90-4ca6-9955-8e3106788d9d"
         }
       ]
     },
@@ -607,7 +600,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-04-17T20:23:29.401Z",
+      "last_opened": "2026-04-17T21:49:08.495Z",
       "books": [
         {
           "id": "9780135180471",
@@ -673,6 +666,13 @@
           "item_id": "a6b78f21-51cd-45b5-95eb-feba3d0af528"
         },
         {
+          "id": "9780135240649",
+          "title": "9780135240649",
+          "cover": "https://learning.oreilly.com/library/cover/9780135240649/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780135240649/",
+          "item_id": "7af7e909-c33b-49f3-8412-d890c8b6c1e4"
+        },
+        {
           "id": "1587051974",
           "title": "MPLS Fundamentals",
           "cover": "https://learning.oreilly.com/library/cover/1587051974/400w/",
@@ -680,11 +680,39 @@
           "item_id": "a2153cd9-ab5e-49fd-81a1-6b3cab5c1545"
         },
         {
+          "id": "9780134675398",
+          "title": "9780134675398",
+          "cover": "https://learning.oreilly.com/library/cover/9780134675398/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780134675398/",
+          "item_id": "0d28fc10-7a0c-4f70-809f-b02c6648a954"
+        },
+        {
+          "id": "9780134465296",
+          "title": "9780134465296",
+          "cover": "https://learning.oreilly.com/library/cover/9780134465296/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780134465296/",
+          "item_id": "9420ce14-f02d-4aff-9338-15cb8fcccda7"
+        },
+        {
           "id": "9780132808200",
           "title": "TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition",
           "cover": "https://learning.oreilly.com/library/cover/9780132808200/400w/",
           "url": "https://learning.oreilly.com/library/view/-/9780132808200/",
           "item_id": "604827c4-86ec-4fb4-aee0-51e3e6d4af92"
+        },
+        {
+          "id": "9780133757330",
+          "title": "9780133757330",
+          "cover": "https://learning.oreilly.com/library/cover/9780133757330/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780133757330/",
+          "item_id": "4d8c8a2e-744c-415c-b8c1-c5b3146ae076"
+        },
+        {
+          "id": "9780134686547",
+          "title": "9780134686547",
+          "cover": "https://learning.oreilly.com/library/cover/9780134686547/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780134686547/",
+          "item_id": "5a07a8f1-6abc-447e-8ae4-464a1a98b971"
         },
         {
           "id": "1587052024",
