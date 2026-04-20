@@ -592,6 +592,12 @@
       "date": "2026-04-20T18:10:18.947Z",
       "url": "https://learning.oreilly.com/library/view/certified-kubernetes-security/9781098132965/ch02.html",
       "title": "2. Cluster Setup | Certified Kubernetes Security Specialist (CKS) Study Guide"
+    },
+    "oreilly-reader-progress-library-view-certified-kubernetes-security-9781098132965-ch02.html": {
+      "index": 1,
+      "date": "2026-04-20T18:19:11.010Z",
+      "url": "https://learning.oreilly.com/library/view/certified-kubernetes-security/9781098132965/ch02.html",
+      "title": "2. Cluster Setup | Certified Kubernetes Security Specialist (CKS) Study Guide"
     }
   },
   "playlists": {
@@ -599,7 +605,7 @@
       "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
-      "last_opened": "2026-04-20T17:04:09.990Z",
+      "last_opened": "2026-04-20T18:18:55.410Z",
       "books": [
         {
           "id": "9781098139285",
@@ -642,7 +648,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-04-20T17:04:10.004Z",
+      "last_opened": "2026-04-20T18:18:55.504Z",
       "books": [
         {
           "id": "9780135180471",
@@ -797,7 +803,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-04-20T17:04:09.973Z",
+      "last_opened": "2026-04-20T18:18:55.279Z",
       "books": [
         {
           "id": "9781098167813",
@@ -819,7 +825,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-04-20T17:04:09.968Z",
+      "last_opened": "2026-04-20T18:18:55.273Z",
       "books": [
         {
           "id": "9781633435308",
