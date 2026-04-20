@@ -568,6 +568,12 @@
       "date": "2026-04-20T06:44:40.469Z",
       "url": "https://learning.oreilly.com/library/view/ai-agents-and/9781633436541/Text/chapter-1.html#p12",
       "title": "1 Introduction to AI agents and applications | AI Agents and Applications"
+    },
+    "oreilly-reader-progress-library-view-learn-go-with-9781633438804-Text-chapter-3.html": {
+      "index": 1,
+      "date": "2026-04-20T16:30:28.157Z",
+      "url": "https://learning.oreilly.com/library/view/learn-go-with/9781633438804/Text/chapter-3.html",
+      "title": "3 A bookworm\u2019s digest: Playing with loops and maps | Learn Go with Pocket-Sized Projects"
     }
   },
   "playlists": {
@@ -575,7 +581,7 @@
       "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
-      "last_opened": "2026-04-20T06:45:25.571Z",
+      "last_opened": "2026-04-20T16:29:15.519Z",
       "books": [
         {
           "id": "9781098139285",
@@ -618,7 +624,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-04-20T06:45:25.583Z",
+      "last_opened": "2026-04-20T16:29:15.537Z",
       "books": [
         {
           "id": "9780135180471",
@@ -773,7 +779,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-04-20T06:45:25.566Z",
+      "last_opened": "2026-04-20T16:29:15.514Z",
       "books": [
         {
           "id": "9781098167813",
