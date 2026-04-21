@@ -598,6 +598,12 @@
       "date": "2026-04-20T18:29:53.279Z",
       "url": "https://learning.oreilly.com/library/view/certified-kubernetes-security/9781098132965/ch02.html",
       "title": "2. Cluster Setup | Certified Kubernetes Security Specialist (CKS) Study Guide"
+    },
+    "oreilly-reader-progress-library-view-learning-go-2nd-9781098139285-ch04.html": {
+      "index": 1,
+      "date": "2026-04-21T06:34:20.265Z",
+      "url": "https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/ch04.html",
+      "title": "4. Blocks, Shadows, and Control Structures | Learning Go, 2nd Edition"
     }
   },
   "playlists": {
@@ -605,7 +611,7 @@
       "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
-      "last_opened": "2026-04-20T18:18:55.410Z",
+      "last_opened": "2026-04-21T06:31:36.999Z",
       "books": [
         {
           "id": "9781098139285",
@@ -648,7 +654,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-04-20T18:18:55.504Z",
+      "last_opened": "2026-04-21T06:31:37.014Z",
       "books": [
         {
           "id": "9780135180471",
@@ -803,7 +809,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-04-20T18:18:55.279Z",
+      "last_opened": "2026-04-21T06:31:36.987Z",
       "books": [
         {
           "id": "9781098167813",
@@ -825,7 +831,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-04-20T18:18:55.273Z",
+      "last_opened": "2026-04-21T06:31:36.983Z",
       "books": [
         {
           "id": "9781633435308",
