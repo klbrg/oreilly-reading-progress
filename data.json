@@ -172,8 +172,8 @@
       "title": "A Quick Introduction to Go | Mastering Go - Fourth Edition"
     },
     "oreilly-reader-progress-library-view-microsoft-azure-in-9781617299650-Text-chapter-2.html": {
-      "index": 63,
-      "date": "2026-03-28T17:40:10.150Z",
+      "index": 64,
+      "date": "2026-05-06T07:31:00.471Z",
       "url": "https://learning.oreilly.com/library/view/microsoft-azure-in/9781617299650/Text/chapter-2.html#p29",
       "title": "2 Using Azure: Azure Functions and image processing | Microsoft Azure in Action"
     },
@@ -613,54 +613,11 @@
     }
   },
   "playlists": {
-    "300a43e1-087c-4444-9b2b-5fb661ed00ba": {
-      "id": "300a43e1-087c-4444-9b2b-5fb661ed00ba",
-      "title": "Golang",
-      "url": "https://learning.oreilly.com/playlists/300a43e1-087c-4444-9b2b-5fb661ed00ba/",
-      "last_opened": "2026-05-01T14:06:48.796Z",
-      "books": [
-        {
-          "id": "9781098139285",
-          "title": "Learning Go, 2nd Edition",
-          "cover": "https://learning.oreilly.com/library/cover/9781098139285/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781098139285/",
-          "item_id": "d0c184ba-9096-4c46-8849-382c5a0f7613"
-        },
-        {
-          "id": "9781491969540",
-          "title": "Head First Go",
-          "cover": "https://learning.oreilly.com/library/cover/9781491969540/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781491969540/",
-          "item_id": "0057aa0b-fec5-4b4d-aa9a-c096f9efac0d"
-        },
-        {
-          "id": "9781633438804",
-          "title": "Learn Go with Pocket-Sized Projects",
-          "cover": "https://learning.oreilly.com/library/cover/9781633438804/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781633438804/",
-          "item_id": "bda446b7-c839-40f2-9d71-a202b99463ea"
-        },
-        {
-          "id": "9781805127147",
-          "title": "Mastering Go - Fourth Edition",
-          "cover": "https://learning.oreilly.com/library/cover/9781805127147/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781805127147/",
-          "item_id": "6fa015fb-607e-4bdc-83da-4f4fb2b109e7"
-        },
-        {
-          "id": "9781617292231",
-          "title": "Grokking Algorithms",
-          "cover": "https://learning.oreilly.com/library/cover/9781617292231/400w/",
-          "url": "https://learning.oreilly.com/library/view/-/9781617292231/",
-          "item_id": "d0456fc3-0b90-4ca6-9955-8e3106788d9d"
-        }
-      ]
-    },
     "23dcc57a-25fd-4016-ac2f-25380cdcc852": {
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-05-01T14:06:48.806Z",
+      "last_opened": "2026-05-05T08:02:11.830Z",
       "books": [
         {
           "id": "9780135180471",
@@ -815,8 +772,15 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-05-01T14:06:48.784Z",
+      "last_opened": "2026-05-05T08:02:11.750Z",
       "books": [
+        {
+          "id": "9780138345990",
+          "title": "Exam Ref AZ-104 Microsoft Azure Administrator, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780138345990/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780138345990/",
+          "item_id": "034d2896-6371-4eb6-b5c0-60e97049787a"
+        },
         {
           "id": "9781098167813",
           "title": "Azure Fundamentals (AZ-900) Study Guide",
@@ -837,7 +801,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-05-01T14:06:48.752Z",
+      "last_opened": "2026-05-05T08:02:11.820Z",
       "books": [
         {
           "id": "9781633435308",
@@ -894,7 +858,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-05-01T14:06:48.747Z",
+      "last_opened": "2026-05-05T08:02:11.810Z",
       "books": [
         {
           "id": "9781835887769",
@@ -937,6 +901,107 @@
           "cover": "https://learning.oreilly.com/library/cover/9781098176228/400w/",
           "url": "https://learning.oreilly.com/library/view/-/9781098176228/",
           "item_id": "c744f1f5-79c7-471f-93e6-a39c648ee7b8"
+        }
+      ]
+    },
+    "cb2fd5a0-1aef-4047-a8af-92dc362d61f9": {
+      "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
+      "title": "Golang",
+      "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
+      "last_opened": "2026-05-05T08:02:11.743Z",
+      "books": [
+        {
+          "id": "9798888650950",
+          "title": "Effective Go Recipes",
+          "cover": "https://learning.oreilly.com/library/cover/9798888650950/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9798888650950/",
+          "item_id": "60dc6533-33b4-4216-ae86-b1b8c1fffcd8"
+        },
+        {
+          "id": "9781805127147",
+          "title": "Mastering Go - Fourth Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781805127147/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781805127147/",
+          "item_id": "0aa354f9-ce39-41e4-a24d-c7ba9317be3b"
+        },
+        {
+          "id": "9781806112197",
+          "title": "Practical Systems Programming in Go",
+          "cover": "https://learning.oreilly.com/library/cover/9781806112197/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781806112197/",
+          "item_id": "e003f439-c679-4a5f-9065-9e0edd2695b2"
+        },
+        {
+          "id": "9781491969540",
+          "title": "Head First Go",
+          "cover": "https://learning.oreilly.com/library/cover/9781491969540/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781491969540/",
+          "item_id": "87811135-b900-4c60-929a-f66e30132157"
+        },
+        {
+          "id": "9781633438804",
+          "title": "Learn Go with Pocket-Sized Projects",
+          "cover": "https://learning.oreilly.com/library/cover/9781633438804/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781633438804/",
+          "item_id": "0a7d640e-6cb7-459b-b587-3be4b6d1f2dd"
+        },
+        {
+          "id": "9781098139285",
+          "title": "Learning Go, 2nd Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781098139285/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098139285/",
+          "item_id": "89131812-6078-49cb-aeaa-f1b7cc1d93db"
+        }
+      ]
+    },
+    "97b8702e-8059-4541-aaa9-516b83a559de": {
+      "id": "97b8702e-8059-4541-aaa9-516b83a559de",
+      "title": "Python",
+      "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
+      "last_opened": "2026-05-05T08:02:11.798Z",
+      "books": [
+        {
+          "id": "9781806102471",
+          "title": "Python 3",
+          "cover": "https://learning.oreilly.com/library/cover/9781806102471/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781806102471/",
+          "item_id": "bbd7b156-345a-46a9-93ad-01b8dc6c193f"
+        },
+        {
+          "id": "9781633439498",
+          "title": "Software Design for Python Programmers",
+          "cover": "https://learning.oreilly.com/library/cover/9781633439498/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781633439498/",
+          "item_id": "f5203d35-3cc0-46b7-bf6a-98f7caaa7e77"
+        },
+        {
+          "id": "9781807780210",
+          "title": "Generative AI with Python",
+          "cover": "https://learning.oreilly.com/library/cover/9781807780210/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781807780210/",
+          "item_id": "f54380cc-2cb0-44b3-af17-9935ea381547"
+        }
+      ]
+    },
+    "51f6e424-4551-4c12-b533-165da2a09f19": {
+      "id": "51f6e424-4551-4c12-b533-165da2a09f19",
+      "title": "JavaScript",
+      "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
+      "last_opened": "2026-05-05T08:02:11.784Z",
+      "books": [
+        {
+          "id": "9781098182502",
+          "title": "Eloquent JavaScript, 4th Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781098182502/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098182502/",
+          "item_id": "a7665d91-1341-450d-b55e-d47dee2e9c71"
+        },
+        {
+          "id": "9781836642237",
+          "title": "JavaScript",
+          "cover": "https://learning.oreilly.com/library/cover/9781836642237/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781836642237/",
+          "item_id": "c15ac77e-34bf-40e0-bef1-4a926e55f011"
         }
       ]
     }
