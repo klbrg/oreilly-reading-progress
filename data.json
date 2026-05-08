@@ -610,6 +610,12 @@
       "date": "2026-05-01T14:06:52.035Z",
       "url": "https://learning.oreilly.com/library/view/the-rust-programming/0642572230241/xhtml/introduction.xhtml",
       "title": "Introduction | The Rust Programming Language, 3rd Edition"
+    },
+    "oreilly-reader-progress-library-view-java-a-beginners-9781260463569": {
+      "index": 1,
+      "date": "2026-05-08T08:39:37.032Z",
+      "url": "https://learning.oreilly.com/library/view/java-a-beginners/9781260463569/ch1.xhtml",
+      "title": "1 Java Fundamentals | Java: A Beginner's Guide, Ninth Edition, 9th Edition"
     }
   },
   "playlists": {
@@ -617,7 +623,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-05-05T08:02:11.830Z",
+      "last_opened": "2026-05-08T08:37:10.406Z",
       "books": [
         {
           "id": "9780135180471",
@@ -772,7 +778,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-05-05T08:02:11.750Z",
+      "last_opened": "2026-05-08T08:37:10.353Z",
       "books": [
         {
           "id": "9780138345990",
@@ -801,7 +807,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-05-05T08:02:11.820Z",
+      "last_opened": "2026-05-08T08:37:10.397Z",
       "books": [
         {
           "id": "9781633435308",
@@ -858,7 +864,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-05-05T08:02:11.810Z",
+      "last_opened": "2026-05-08T08:37:10.387Z",
       "books": [
         {
           "id": "9781835887769",
@@ -908,7 +914,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-05-05T08:02:11.743Z",
+      "last_opened": "2026-05-08T08:37:10.337Z",
       "books": [
         {
           "id": "9798888650950",
@@ -958,7 +964,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-05-05T08:02:11.798Z",
+      "last_opened": "2026-05-08T08:37:10.375Z",
       "books": [
         {
           "id": "9781806102471",
@@ -987,7 +993,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-05-05T08:02:11.784Z",
+      "last_opened": "2026-05-08T08:37:10.364Z",
       "books": [
         {
           "id": "9781098182502",
@@ -1002,6 +1008,92 @@
           "cover": "https://learning.oreilly.com/library/cover/9781836642237/400w/",
           "url": "https://learning.oreilly.com/library/view/-/9781836642237/",
           "item_id": "c15ac77e-34bf-40e0-bef1-4a926e55f011"
+        }
+      ]
+    },
+    "0a43fb08-3978-4a86-a491-58a5497f9639": {
+      "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
+      "title": "Productivity",
+      "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
+      "last_opened": "2026-05-08T08:37:10.306Z",
+      "books": [
+        {
+          "id": "9780321700407",
+          "title": "Essential Scrum: A Practical Guide to the Most Popular Agile Process",
+          "cover": "https://learning.oreilly.com/library/cover/9780321700407/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780321700407/",
+          "item_id": "365097fe-4d51-48c2-9131-c493ef8dfff5"
+        },
+        {
+          "id": "9798888651605",
+          "title": "tmux 3: Productive Mouse-Free Development",
+          "cover": "https://learning.oreilly.com/library/cover/9798888651605/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9798888651605/",
+          "item_id": "40acffef-10cf-499d-80fe-5b10d4e62124"
+        }
+      ]
+    },
+    "17e995c9-e5db-431f-aa78-e9e61e48d7f7": {
+      "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
+      "title": "Java",
+      "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
+      "last_opened": "2026-05-08T08:37:10.294Z",
+      "books": [
+        {
+          "id": "9781633438538",
+          "title": "Grokking Algorithms, Second Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781633438538/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781633438538/",
+          "item_id": "ffdac573-f7cf-48c3-a4c0-c587b4f802fa"
+        },
+        {
+          "id": "9780134384528",
+          "title": "9780134384528",
+          "cover": "https://learning.oreilly.com/library/cover/9780134384528/400w/",
+          "url": "https://learning.oreilly.com/course/-/9780134384528/",
+          "item_id": "75c69488-ded3-4456-9cb6-03007026b209"
+        },
+        {
+          "id": "9781260463569",
+          "title": "Java: A Beginner's Guide, Ninth Edition, 9th Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781260463569/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781260463569/",
+          "item_id": "e564d127-389a-41cf-8972-70184d16f104"
+        },
+        {
+          "id": "9781394286614",
+          "title": "OCP Oracle Certified Professional Java SE 21 Developer Study Guide",
+          "cover": "https://learning.oreilly.com/library/cover/9781394286614/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781394286614/",
+          "item_id": "61bb1843-f606-496b-94f5-55fb47564aa7"
+        },
+        {
+          "id": "9780137574834",
+          "title": "Java for Programmers: with Generative AI, 5th Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780137574834/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780137574834/",
+          "item_id": "b45a5abc-5b45-45e4-89bd-d722d3eeb28c"
+        },
+        {
+          "id": "9781806118434",
+          "title": "Java",
+          "cover": "https://learning.oreilly.com/library/cover/9781806118434/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781806118434/",
+          "item_id": "f9682da2-978d-4dc5-855e-238d288bb077"
+        },
+        {
+          "id": "9780135558775",
+          "title": "Core Java, Volume II: Advanced Features, 14th Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780135558775/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780135558775/",
+          "item_id": "b80fa1e7-e667-48c1-b655-4e01a0dc31cc"
+        },
+        {
+          "id": "9780135558553",
+          "title": "Core Java, Vol. I: Fundamentals, 14th Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9780135558553/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9780135558553/",
+          "item_id": "eb6abc61-797c-45a4-a8c9-c00e732f6074"
         }
       ]
     }
