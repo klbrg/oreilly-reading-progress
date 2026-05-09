@@ -600,8 +600,8 @@
       "title": "2. Cluster Setup | Certified Kubernetes Security Specialist (CKS) Study Guide"
     },
     "oreilly-reader-progress-library-view-learning-go-2nd-9781098139285-ch04.html": {
-      "index": 62,
-      "date": "2026-05-09T16:40:39.736Z",
+      "index": 63,
+      "date": "2026-05-09T16:56:22.617Z",
       "url": "https://learning.oreilly.com/library/view/learning-go-2nd/9781098139285/ch04.html#id47",
       "title": "4. Blocks, Shadows, and Control Structures | Learning Go, 2nd Edition"
     },
@@ -629,7 +629,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-05-09T15:53:11.269Z",
+      "last_opened": "2026-05-09T16:56:04.806Z",
       "books": [
         {
           "id": "9780135180471",
@@ -784,7 +784,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-05-09T15:53:11.230Z",
+      "last_opened": "2026-05-09T16:56:04.691Z",
       "books": [
         {
           "id": "9780138345990",
@@ -813,7 +813,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-05-09T15:53:11.261Z",
+      "last_opened": "2026-05-09T16:56:04.787Z",
       "books": [
         {
           "id": "9781633435308",
@@ -870,7 +870,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-05-09T15:53:11.254Z",
+      "last_opened": "2026-05-09T16:56:04.772Z",
       "books": [
         {
           "id": "9781835887769",
@@ -920,7 +920,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-05-09T15:53:11.221Z",
+      "last_opened": "2026-05-09T16:56:04.653Z",
       "books": [
         {
           "id": "9798888650950",
@@ -970,7 +970,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-05-09T15:53:11.246Z",
+      "last_opened": "2026-05-09T16:56:04.752Z",
       "books": [
         {
           "id": "9781806102471",
@@ -999,7 +999,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-05-09T15:53:11.238Z",
+      "last_opened": "2026-05-09T16:56:04.726Z",
       "books": [
         {
           "id": "9781098182502",
@@ -1021,7 +1021,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-05-09T15:53:11.213Z",
+      "last_opened": "2026-05-09T16:56:04.626Z",
       "books": [
         {
           "id": "9780321700407",
@@ -1043,7 +1043,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-05-09T15:53:11.209Z",
+      "last_opened": "2026-05-09T16:56:04.620Z",
       "books": [
         {
           "id": "9781633438538",
