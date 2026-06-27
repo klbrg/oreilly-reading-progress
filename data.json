@@ -779,6 +779,12 @@
       "date": "2026-06-27T12:16:43.668Z",
       "url": "https://learning.oreilly.com/library/view/platform-engineering/9781098153632/ch02.html",
       "title": "2. The Pillars of Platform Engineering | Platform Engineering"
+    },
+    "oreilly-reader-progress-library-view-platform-engineering-at-9781098169428-ch01.html": {
+      "index": 1,
+      "date": "2026-06-27T12:17:43.652Z",
+      "url": "https://learning.oreilly.com/library/view/platform-engineering-at/9781098169428/ch01.html",
+      "title": "1. Deep Dive: Efficiency | Platform Engineering at Google"
     }
   },
   "playlists": {
@@ -786,7 +792,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-06-27T11:55:33.768Z",
+      "last_opened": "2026-06-27T12:17:25.414Z",
       "books": [
         {
           "id": "9780135180471",
@@ -941,7 +947,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-06-27T11:55:33.474Z",
+      "last_opened": "2026-06-27T12:17:25.116Z",
       "books": [
         {
           "id": "9780138345990",
@@ -970,7 +976,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-06-27T11:55:33.719Z",
+      "last_opened": "2026-06-27T12:17:25.346Z",
       "books": [
         {
           "id": "9781633435308",
@@ -1027,7 +1033,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-06-27T11:55:33.668Z",
+      "last_opened": "2026-06-27T12:17:25.279Z",
       "books": [
         {
           "id": "9781835887769",
@@ -1077,7 +1083,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-06-27T11:55:33.279Z",
+      "last_opened": "2026-06-27T12:17:24.865Z",
       "books": [
         {
           "id": "9781617299599",
@@ -1134,7 +1140,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-06-27T11:55:33.658Z",
+      "last_opened": "2026-06-27T12:17:25.213Z",
       "books": [
         {
           "id": "9781806102471",
@@ -1163,7 +1169,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-06-27T11:55:33.588Z",
+      "last_opened": "2026-06-27T12:17:25.163Z",
       "books": [
         {
           "id": "9781098182502",
@@ -1185,7 +1191,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-06-27T11:55:33.327Z",
+      "last_opened": "2026-06-27T12:17:24.918Z",
       "books": [
         {
           "id": "9781098151232",
@@ -1214,7 +1220,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-06-27T11:55:33.424Z",
+      "last_opened": "2026-06-27T12:17:25.050Z",
       "books": [
         {
           "id": "9781633438538",
@@ -1278,7 +1284,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-06-27T11:55:33.374Z",
+      "last_opened": "2026-06-27T12:17:24.984Z",
       "books": [
         {
           "id": "9781394211418",
@@ -1300,7 +1306,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-06-27T11:55:33.228Z",
+      "last_opened": "2026-06-27T12:17:24.818Z",
       "books": [
         {
           "id": "0642572230333",
@@ -1343,7 +1349,7 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-06-27T11:55:33.167Z",
+      "last_opened": "2026-06-27T12:17:24.765Z",
       "books": [
         {
           "id": "9781835886625",
@@ -1379,8 +1385,22 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-06-27T11:55:33.181Z",
+      "last_opened": "2026-06-27T12:17:24.734Z",
       "books": [
+        {
+          "id": "9781098153632",
+          "title": "Platform Engineering",
+          "cover": "https://learning.oreilly.com/library/cover/9781098153632/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098153632/",
+          "item_id": "8b747a51-a377-422b-b542-e20a3406b214"
+        },
+        {
+          "id": "9781098169428",
+          "title": "Platform Engineering at Google",
+          "cover": "https://learning.oreilly.com/library/cover/9781098169428/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781098169428/",
+          "item_id": "916c3db1-d851-460c-b496-09f7666892a2"
+        },
         {
           "id": "9781098182281",
           "title": "The DevOps Handbook, 2nd Edition",
