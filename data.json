@@ -763,8 +763,8 @@
       "title": "Preface | How People Learn, 3rd Edition"
     },
     "oreilly-reader-progress-library-view-team-topologies-9781098157234-11-Ch02.xhtml": {
-      "index": 16,
-      "date": "2026-06-25T19:01:21.463Z",
+      "index": 17,
+      "date": "2026-06-27T11:55:22.172Z",
       "url": "https://learning.oreilly.com/library/view/team-topologies/9781098157234/11-Ch02.xhtml",
       "title": "Chapter 2: Conway\u2019s Law and Why It Matters | Team Topologies"
     },
@@ -780,7 +780,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-06-25T18:17:21.183Z",
+      "last_opened": "2026-06-26T13:27:06.210Z",
       "books": [
         {
           "id": "9780135180471",
@@ -935,7 +935,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-06-25T18:17:20.882Z",
+      "last_opened": "2026-06-26T13:27:05.925Z",
       "books": [
         {
           "id": "9780138345990",
@@ -964,7 +964,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-06-25T18:17:21.105Z",
+      "last_opened": "2026-06-26T13:27:06.153Z",
       "books": [
         {
           "id": "9781633435308",
@@ -1021,7 +1021,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-06-25T18:17:21.046Z",
+      "last_opened": "2026-06-26T13:27:06.083Z",
       "books": [
         {
           "id": "9781835887769",
@@ -1071,7 +1071,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-06-25T18:17:20.630Z",
+      "last_opened": "2026-06-26T13:27:05.694Z",
       "books": [
         {
           "id": "9781617299599",
@@ -1128,7 +1128,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-06-25T18:17:20.998Z",
+      "last_opened": "2026-06-26T13:27:06.026Z",
       "books": [
         {
           "id": "9781806102471",
@@ -1157,7 +1157,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-06-25T18:17:20.949Z",
+      "last_opened": "2026-06-26T13:27:05.976Z",
       "books": [
         {
           "id": "9781098182502",
@@ -1179,7 +1179,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-06-25T18:17:20.680Z",
+      "last_opened": "2026-06-26T13:27:05.745Z",
       "books": [
         {
           "id": "9781098151232",
@@ -1208,7 +1208,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-06-25T18:17:20.812Z",
+      "last_opened": "2026-06-26T13:27:05.850Z",
       "books": [
         {
           "id": "9781633438538",
@@ -1272,7 +1272,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-06-25T18:17:20.746Z",
+      "last_opened": "2026-06-26T13:27:05.797Z",
       "books": [
         {
           "id": "9781394211418",
@@ -1294,7 +1294,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-06-25T18:17:20.583Z",
+      "last_opened": "2026-06-26T13:27:05.644Z",
       "books": [
         {
           "id": "0642572230333",
@@ -1337,8 +1337,15 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-06-25T18:17:20.536Z",
+      "last_opened": "2026-06-26T13:27:05.566Z",
       "books": [
+        {
+          "id": "9781835886625",
+          "title": "Podman for DevOps - Second Edition",
+          "cover": "https://learning.oreilly.com/library/cover/9781835886625/400w/",
+          "url": "https://learning.oreilly.com/library/view/-/9781835886625/",
+          "item_id": "1d4a6e1d-f7ed-4303-a75d-3ff3dd4536ed"
+        },
         {
           "id": "9781098171919",
           "title": "Generative AI on Kubernetes",
@@ -1366,7 +1373,7 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-06-25T18:17:20.506Z",
+      "last_opened": "2026-06-26T13:27:05.632Z",
       "books": [
         {
           "id": "9781098182281",
