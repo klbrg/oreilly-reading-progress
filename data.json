@@ -1652,7 +1652,12 @@
       "OPA": "Open Policy Agent",
       "CNC": "cloud native computing",
       "GCP": "Google Cloud Platform",
-      "IAM": "Identity and access management"
+      "IAM": "Identity and access management",
+      "CVE": "common vulnerabilities and exposures",
+      "REPL": "read eval print loop",
+      "VS": "Visual Studio",
+      "DSL": "domain specific language",
+      "JWT": "JSON Web Token"
     }
   }
 }
