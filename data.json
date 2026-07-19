@@ -1627,7 +1627,32 @@
       "VAP": "Validating Admission Policy",
       "CEL": "Common Expression Language",
       "KEP": "Kubernetes Enhancement Proposal",
-      "CRD": "custom resource definition"
+      "CRD": "custom resource definition",
+      "PaC": "Policy as Code",
+      "GDPR": "General Data Protection Regulation",
+      "EU": "European Union",
+      "IT": "information technology",
+      "DiD": "defense in depth",
+      "OSS": "open source software",
+      "OSPO": "open source program office",
+      "GA": "generally available",
+      "TODO": "Talk Openly Develop Openly",
+      "CSA": "Cloud Security Alliance",
+      "CIS": "Center for Internet Security",
+      "NIST": "National Institute of Standards and Technology",
+      "PCI": "Payment Card Industry",
+      "EaC": "everything as code",
+      "IaC": "infrastructure as code",
+      "CDK": "Cloud Development Kit",
+      "AWS": "Amazon Web Services",
+      "SSOT": "single source of truth",
+      "CaC": "compliance as code",
+      "SaC": "Security as code",
+      "TDD": "test driven development",
+      "OPA": "Open Policy Agent",
+      "CNC": "cloud native computing",
+      "GCP": "Google Cloud Platform",
+      "IAM": "Identity and access management"
     }
   }
 }
