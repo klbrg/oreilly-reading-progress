@@ -1657,7 +1657,23 @@
       "REPL": "read eval print loop",
       "VS": "Visual Studio",
       "DSL": "domain specific language",
-      "JWT": "JSON Web Token"
+      "JWT": "JSON Web Token",
+      "PAM": "Privileged access management",
+      "PoLP": "principle of least privilege",
+      "RBAC": "role based access control",
+      "TLS": "Transport Layer Security",
+      "ABAC": "attribute based access control",
+      "PEP": "policy enforcement point",
+      "PDP": "policy decision point",
+      "PAP": "policy administration point",
+      "PIP": "policy information point",
+      "SaaS": "software as a service",
+      "PBAM": "policy based access management",
+      "DAS": "Declarative Authorization Service",
+      "OCI": "Open Container Initiative",
+      "PAT": "personal access token",
+      "GHCR": "GitHub Container Registry",
+      "OPAL": "Open Policy Administration Layer"
     }
   }
 }
