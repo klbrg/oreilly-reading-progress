@@ -1613,6 +1613,21 @@
       "VM": "virtual machines",
       "RBAC": "role based access control",
       "RDS": "Relational Database Service"
+    },
+    "9781098139179": {
+      "CNCF": "Cloud Native Computing Foundation",
+      "SIG": "special interest groups",
+      "WG": "working groups",
+      "UG": "user groups",
+      "CP": "control plane",
+      "DP": "data plane",
+      "PSP": "PodSecurityPolicy",
+      "PSA": "Pod Security Admission",
+      "PSS": "Pod Security Standards",
+      "VAP": "Validating Admission Policy",
+      "CEL": "Common Expression Language",
+      "KEP": "Kubernetes Enhancement Proposal",
+      "CRD": "custom resource definition"
     }
   }
 }
