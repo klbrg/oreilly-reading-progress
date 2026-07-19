@@ -1673,7 +1673,8 @@
       "OCI": "Open Container Initiative",
       "PAT": "personal access token",
       "GHCR": "GitHub Container Registry",
-      "OPAL": "Open Policy Administration Layer"
+      "OPAL": "Open Policy Administration Layer",
+      "DRY": "don\u2019t repeat yourself"
     }
   }
 }
