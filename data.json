@@ -871,9 +871,9 @@
       "title": "About the Author | Observability Engineering with Cilium: Observability Magic in the Cloud-Native Journey with Hubble and Tetragon"
     },
     "oreilly-reader-progress-library-view-policy-as-code-9781098139179-ch04.html": {
-      "index": 108,
-      "date": "2026-07-19T16:12:18.342Z",
-      "url": "https://learning.oreilly.com/library/view/policy-as-code/9781098139179/ch04.html#pod_security",
+      "index": 109,
+      "date": "2026-07-19T16:13:06.318Z",
+      "url": "https://learning.oreilly.com/library/view/policy-as-code/9781098139179/ch04.html#validating_admission_policy",
       "title": "4. Policy as Code and Kubernetes | Policy as Code"
     }
   },
