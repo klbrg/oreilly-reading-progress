@@ -1598,5 +1598,15 @@
         }
       ]
     }
+  },
+  "glossaries": {
+    "9798341627697": {
+      "GDPR": "General Data Protection Regulation",
+      "IAM": "identity and access management",
+      "VPC": "virtual private cloud",
+      "VM": "virtual machines",
+      "RBAC": "role based access control",
+      "RDS": "Relational Database Service"
+    }
   }
 }
