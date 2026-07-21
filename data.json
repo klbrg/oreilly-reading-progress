@@ -95,7 +95,8 @@
       "CEP": "Complex event processing",
       "IVM": "Incremental view maintenance",
       "SCD": "slowly changing dimension",
-      "DEBS": "Distributed and Event Based Systems"
+      "DEBS": "Distributed and Event Based Systems",
+      "GDPR": "General Data Protection Regulation"
     }
   },
   "playlists": {
