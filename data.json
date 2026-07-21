@@ -38,7 +38,14 @@
       "BPMN": "Business Process Model and Notation",
       "CSV": "Comma Separated Values",
       "TOCS": "Transactions on Computer Systems",
-      "WSBPEL": "Web Services Business Process Execution Language"
+      "WSBPEL": "Web Services Business Process Execution Language",
+      "WAL": "write ahead log",
+      "GC": "garbage collection",
+      "JIT": "just in time",
+      "JVM": "Java Virtual Machine",
+      "HNSW": "Hierarchical Navigable Small World",
+      "VLDB": "Very Large Data Bases",
+      "ECCV": "European Conference on Computer Vision"
     }
   },
   "playlists": {
