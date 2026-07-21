@@ -52,7 +52,13 @@
       "NSDI": "Networked Systems Design and Implementation",
       "CSCW": "Computer Supported Cooperative Work",
       "SOSP": "Symposium on Operating Systems Principles",
-      "SaaS": "Software as a service"
+      "SaaS": "Software as a service",
+      "CAS": "compare and swap",
+      "SSI": "serializable snapshot isolation",
+      "JTA": "Java Transaction API",
+      "JMS": "Java Message Service",
+      "ATC": "Annual Technical Conference",
+      "FAST": "File and Storage Technologies"
     }
   },
   "playlists": {
