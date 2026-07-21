@@ -96,7 +96,17 @@
       "IVM": "Incremental view maintenance",
       "SCD": "slowly changing dimension",
       "DEBS": "Distributed and Event Based Systems",
-      "GDPR": "General Data Protection Regulation"
+      "GDPR": "General Data Protection Regulation",
+      "SLO": "service level objectives",
+      "SPOF": "single point of failure",
+      "SSD": "solid state drives",
+      "ECC": "error correcting codes",
+      "NAS": "network attached storage",
+      "DDD": "domain driven design",
+      "TDD": "test driven development",
+      "SoCC": "Symposium on Cloud Computing",
+      "ISCA": "International Symposium on Computer Architecture",
+      "PLoP": "Pattern Languages of Programs"
     }
   },
   "playlists": {
