@@ -58,7 +58,21 @@
       "JTA": "Java Transaction API",
       "JMS": "Java Message Service",
       "ATC": "Annual Technical Conference",
-      "FAST": "File and Storage Technologies"
+      "FAST": "File and Storage Technologies",
+      "DC": "data center",
+      "SCTP": "Stream Control Transmission Protocol",
+      "VM": "virtual machine",
+      "ATM": "Asynchronous Transfer Mode",
+      "QoS": "quality of service",
+      "TC": "traffic controller",
+      "BGP": "Border Gateway Protocol",
+      "NTP": "Network Time Protocol",
+      "DST": "Daylight Saving Time",
+      "PTP": "Precision Time Protocol",
+      "RTOS": "real time operating system",
+      "ZGC": "Z garbage collector",
+      "STONITH": "shoot the other node in the head",
+      "AFT": "Advances in Financial Technologies"
     }
   },
   "playlists": {
