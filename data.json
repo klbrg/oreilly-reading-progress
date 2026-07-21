@@ -89,7 +89,13 @@
       "ML": "Machine learning",
       "BSP": "bulk synchronous parallel",
       "SST": "Sorted String Table",
-      "CBO": "Cost Based Optimizer"
+      "CBO": "Cost Based Optimizer",
+      "DLQ": "Dead letter queues",
+      "CDC": "change data capture",
+      "CEP": "Complex event processing",
+      "IVM": "Incremental view maintenance",
+      "SCD": "slowly changing dimension",
+      "DEBS": "Distributed and Event Based Systems"
     }
   },
   "playlists": {
