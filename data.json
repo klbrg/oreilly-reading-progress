@@ -78,7 +78,18 @@
       "TOPLAS": "Transactions on Programming Languages and Systems",
       "PODS": "Principles of Database Systems",
       "UUID": "Universally Unique IDentifiers",
-      "TODS": "Transactions on Database Systems"
+      "TODS": "Transactions on Database Systems",
+      "HDFS": "Hadoop Distributed File System",
+      "NFS": "Network File System",
+      "EFS": "Elastic File System",
+      "SAN": "storage area network",
+      "YARN": "Yet Another Resource Negotiator",
+      "FIFO": "first in first out",
+      "DAG": "directed acyclic graph",
+      "ML": "Machine learning",
+      "BSP": "bulk synchronous parallel",
+      "SST": "Sorted String Table",
+      "CBO": "Cost Based Optimizer"
     }
   },
   "playlists": {
