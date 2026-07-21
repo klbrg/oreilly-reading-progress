@@ -27,7 +27,18 @@
       "RDF": "Resource Description Framework",
       "CQRS": "command query responsibility segregation",
       "OSDI": "Operating System Design and Implementation",
-      "JSON": "JavaScript Object Notation"
+      "JSON": "JavaScript Object Notation",
+      "RPC": "remote procedure calls",
+      "IDL": "interface definition language",
+      "GUI": "graphical user interface",
+      "RMI": "Remote Method Invocation",
+      "DNS": "Domain Name Service",
+      "DSL": "domain specific language",
+      "BPEL": "Business Process Execution Language",
+      "BPMN": "Business Process Model and Notation",
+      "CSV": "Comma Separated Values",
+      "TOCS": "Transactions on Computer Systems",
+      "WSBPEL": "Web Services Business Process Execution Language"
     }
   },
   "playlists": {
