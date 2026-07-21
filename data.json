@@ -72,7 +72,13 @@
       "RTOS": "real time operating system",
       "ZGC": "Z garbage collector",
       "STONITH": "shoot the other node in the head",
-      "AFT": "Advances in Financial Technologies"
+      "AFT": "Advances in Financial Technologies",
+      "RAC": "Real Application Clusters",
+      "TTL": "time to live",
+      "TOPLAS": "Transactions on Programming Languages and Systems",
+      "PODS": "Principles of Database Systems",
+      "UUID": "Universally Unique IDentifiers",
+      "TODS": "Transactions on Database Systems"
     }
   },
   "playlists": {
