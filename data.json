@@ -15,7 +15,8 @@
       "CAS": "compare and swap",
       "MST": "Mountain Standard Time",
       "NTP": "Network Time Protocol",
-      "RPC": "remote procedure call"
+      "RPC": "remote procedure call",
+      "JWT": "JSON Web Token"
     }
   }
 }
