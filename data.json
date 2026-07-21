@@ -10,7 +10,9 @@
   "glossaries": {
     "9781098139285": {
       "NaN": "Not a Number",
-      "UDHR": "Universal Declaration of Human Rights"
+      "UDHR": "Universal Declaration of Human Rights",
+      "CSP": "Communicating Sequential Processes",
+      "CAS": "compare and swap"
     }
   }
 }
