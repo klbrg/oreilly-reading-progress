@@ -45,7 +45,13 @@
       "JVM": "Java Virtual Machine",
       "HNSW": "Hierarchical Navigable Small World",
       "VLDB": "Very Large Data Bases",
-      "ECCV": "European Conference on Computer Vision"
+      "ECCV": "European Conference on Computer Vision",
+      "ZDA": "zero disk architecture",
+      "LWW": "last write wins",
+      "OT": "operational transformation",
+      "NSDI": "Networked Systems Design and Implementation",
+      "CSCW": "Computer Supported Cooperative Work",
+      "SOSP": "Symposium on Operating Systems Principles"
     }
   },
   "playlists": {
