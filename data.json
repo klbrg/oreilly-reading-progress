@@ -12,7 +12,10 @@
       "NaN": "Not a Number",
       "UDHR": "Universal Declaration of Human Rights",
       "CSP": "Communicating Sequential Processes",
-      "CAS": "compare and swap"
+      "CAS": "compare and swap",
+      "MST": "Mountain Standard Time",
+      "NTP": "Network Time Protocol",
+      "RPC": "remote procedure call"
     }
   }
 }
