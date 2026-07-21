@@ -16,7 +16,8 @@
       "MST": "Mountain Standard Time",
       "NTP": "Network Time Protocol",
       "RPC": "remote procedure call",
-      "JWT": "JSON Web Token"
+      "JWT": "JSON Web Token",
+      "FFI": "foreign function interface"
     }
   }
 }
