@@ -175,7 +175,8 @@
       "SAM": "single abstract method",
       "OSS": "open source software",
       "JPMS": "Java Platform Module System",
-      "XML": "xmlExtensible Markup Language"
+      "XML": "xmlExtensible Markup Language",
+      "URI": "uniform resource identifier"
     },
     "9780135328385": {
       "JEP": "Java Enhancement Proposal",
