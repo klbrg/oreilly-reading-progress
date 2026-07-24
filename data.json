@@ -147,7 +147,9 @@
     },
     "9781098171292": {
       "OOP": "object oriented programming",
-      "LIFO": "last in first out"
+      "LIFO": "last in first out",
+      "CWD": "current working directory",
+      "CSV": "comma separated value"
     }
   },
   "playlists": {
