@@ -151,7 +151,8 @@
       "CWD": "current working directory",
       "CSV": "comma separated value",
       "FIFO": "first-in-first-out",
-      "OO": "object oriented"
+      "OO": "object oriented",
+      "MRO": "method resolution order"
     }
   },
   "playlists": {
