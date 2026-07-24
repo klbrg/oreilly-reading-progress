@@ -172,7 +172,8 @@
       "NaN": "not a number",
       "API": "Application Programming Interface",
       "UML": "Unified Modeling Language",
-      "JVM": "Java virtual machine"
+      "JVM": "Java virtual machine",
+      "GUI": "Graphical user interface"
     }
   },
   "playlists": {
