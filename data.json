@@ -170,7 +170,9 @@
     "9780135328385": {
       "JEP": "Java Enhancement Proposal",
       "NaN": "not a number",
-      "API": "Application Programming Interface"
+      "API": "Application Programming Interface",
+      "UML": "Unified Modeling Language",
+      "JVM": "Java virtual machine"
     }
   },
   "playlists": {
