@@ -192,7 +192,8 @@
       "JPMS": "Java Platform Module System",
       "DRY": "Don\u2019t Repeat Yourself",
       "GUI": "graphical user interface",
-      "JSR": "Java Specification Request"
+      "JSR": "Java Specification Request",
+      "JRE": "Java Runtime Environment"
     }
   },
   "playlists": {
