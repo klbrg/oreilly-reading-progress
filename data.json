@@ -791,7 +791,20 @@
       "SCM": "software configuration management",
       "OSS": "open source software",
       "DDL": "Data Definition Language",
-      "DML": "Data Manipulation Language"
+      "DML": "Data Manipulation Language",
+      "MBR": "master boot record",
+      "VBA": "Visual Basic for Applications",
+      "RAT": "Remote access Trojans",
+      "IIS": "Internet Information Server",
+      "NCSC": "National Computer Security Center",
+      "PUP": "potentially unwanted programs",
+      "OFAC": "of Foreign Assets Control",
+      "CGI": "Common Gateway Interface",
+      "TOC": "time of check",
+      "TOU": "time of use",
+      "DOM": "Document Object Model",
+      "SSRF": "Server Side Request Forgery",
+      "SDK": "software development kits"
     }
   },
   "playlists": {
