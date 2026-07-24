@@ -198,7 +198,10 @@
     },
     "9780137574834": {
       "IDE": "integrated development environment",
-      "JEP": "Java Enhancement Proposal"
+      "JEP": "Java Enhancement Proposal",
+      "OOP": "object oriented programming",
+      "GUI": "graphical user interfaces",
+      "SAM": "single abstract method"
     }
   },
   "playlists": {
