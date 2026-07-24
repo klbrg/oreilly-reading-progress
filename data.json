@@ -167,7 +167,8 @@
       "JRE": "Java Runtime Environment",
       "IDE": "integrated development environment",
       "FIFO": "first-in, first-out",
-      "LIFO": "last-in, first-out"
+      "LIFO": "last-in, first-out",
+      "OS": "Operating System"
     },
     "9780135328385": {
       "JEP": "Java Enhancement Proposal",
