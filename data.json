@@ -149,7 +149,8 @@
       "OOP": "object oriented programming",
       "LIFO": "last in first out",
       "CWD": "current working directory",
-      "CSV": "comma separated value"
+      "CSV": "comma separated value",
+      "FIFO": "first-in-first-out"
     }
   },
   "playlists": {
