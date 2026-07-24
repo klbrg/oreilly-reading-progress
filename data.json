@@ -153,6 +153,12 @@
       "FIFO": "first-in-first-out",
       "OO": "object oriented",
       "MRO": "method resolution order"
+    },
+    "9781394286614": {
+      "JDK": "Java Development Kit",
+      "JVM": "Java Virtual Machine",
+      "JRE": "Java Runtime Environment",
+      "IDE": "integrated development environment"
     }
   },
   "playlists": {
