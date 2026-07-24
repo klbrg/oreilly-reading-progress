@@ -382,7 +382,22 @@
       "NSA": "National Security Agency",
       "HDD": "hard disk drives",
       "PDF": "Portable Document Format",
-      "DPO": "data privacy officer"
+      "DPO": "data privacy officer",
+      "FIPS": "Federal Information Processing Standard",
+      "IV": "initialization vector",
+      "DES": "Data Encryption Standard",
+      "TLS": "Transport Layer Security",
+      "CBC": "Cipher Block Chaining",
+      "IDEA": "International Data Encryption Algorithm",
+      "PGP": "Pretty Good Privacy",
+      "EES": "Escrowed Encryption Standard",
+      "RSA": "Rivest Shamir Adleman",
+      "RC": "Rivest Ciphers",
+      "WEP": "Wired Equivalent Privacy",
+      "SSL": "Secure Sockets Layer",
+      "AES": "Advanced Encryption Standard",
+      "HSM": "hardware security modules",
+      "RA": "recovery agents"
     }
   },
   "playlists": {
