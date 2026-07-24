@@ -760,7 +760,16 @@
       "NOC": "network operations centers",
       "RARP": "Reverse Address Resolution Protocol",
       "SEM": "security event management",
-      "RSS": "Really Simple Syndication"
+      "RSS": "Really Simple Syndication",
+      "HA": "high availability",
+      "BCM": "business continuity management",
+      "SPOF": "single point of failure",
+      "ACV": "actual cash value",
+      "GPG": "Good Practice Guidelines",
+      "D2D": "disk to disk",
+      "VTL": "Virtual tape libraries",
+      "GFS": "Grandfather Father Son",
+      "MAA": "Mutual assistance agreements"
     }
   },
   "playlists": {
