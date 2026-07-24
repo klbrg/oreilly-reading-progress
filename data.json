@@ -191,7 +191,8 @@
       "JVM": "Java Virtual Machine",
       "JPMS": "Java Platform Module System",
       "DRY": "Don\u2019t Repeat Yourself",
-      "GUI": "graphical user interface"
+      "GUI": "graphical user interface",
+      "JSR": "Java Specification Request"
     }
   },
   "playlists": {
