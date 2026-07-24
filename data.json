@@ -686,7 +686,22 @@
       "OC": "Optical Carrier",
       "STS": "Synchronous Transport Signal",
       "STM": "Synchronous Transport Module",
-      "DDoS": "distributed denial of service"
+      "DDoS": "distributed denial of service",
+      "AAA": "Authorization and Accounting",
+      "MFA": "multi factor authentication",
+      "FIM": "Federated Identity Management",
+      "KBA": "knowledge based authentication",
+      "OTP": "one time password",
+      "FRR": "false rejection rate",
+      "FAR": "false acceptance rate",
+      "CER": "crossover error rate",
+      "SMS": "Short Message Service",
+      "LDAP": "Lightweight Directory Access Protocol",
+      "SAML": "Security Assertion Markup Language",
+      "OIDC": "OpenID Connect",
+      "JIT": "Just in Time",
+      "W3C": "Web Consortium",
+      "OWASP": "Open Worldwide Application Security Project"
     }
   },
   "playlists": {
