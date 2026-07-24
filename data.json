@@ -150,7 +150,8 @@
       "LIFO": "last in first out",
       "CWD": "current working directory",
       "CSV": "comma separated value",
-      "FIFO": "first-in-first-out"
+      "FIFO": "first-in-first-out",
+      "OO": "object oriented"
     }
   },
   "playlists": {
