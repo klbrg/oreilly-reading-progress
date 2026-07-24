@@ -201,7 +201,9 @@
       "JEP": "Java Enhancement Proposal",
       "OOP": "object oriented programming",
       "GUI": "graphical user interfaces",
-      "SAM": "single abstract method"
+      "SAM": "single abstract method",
+      "SSD": "solid state drive",
+      "FIFO": "first in first out"
     }
   },
   "playlists": {
