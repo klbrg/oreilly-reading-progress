@@ -165,7 +165,9 @@
       "JDK": "Java Development Kit",
       "JVM": "Java Virtual Machine",
       "JRE": "Java Runtime Environment",
-      "IDE": "integrated development environment"
+      "IDE": "integrated development environment",
+      "FIFO": "first-in, first-out",
+      "LIFO": "last-in, first-out"
     },
     "9780135328385": {
       "JEP": "Java Enhancement Proposal",
