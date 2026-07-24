@@ -773,7 +773,25 @@
       "EDRM": "Electronic Discovery Reference Model",
       "IOCE": "International Organization on Computer Evidence",
       "NSRL": "National Software Reference Library",
-      "IAB": "Internet Architecture Board"
+      "IAB": "Internet Architecture Board",
+      "CMM": "Capability Maturity Model",
+      "SAMM": "Software Assurance Maturity Model",
+      "COTS": "Commercial off the shelf",
+      "JVM": "Java virtual machine",
+      "IDE": "integrated development environment",
+      "UAT": "user acceptance testing",
+      "RAD": "Rapid Application Development",
+      "DSDM": "Dynamic Systems Development Model",
+      "IPT": "integrated product teams",
+      "ART": "Agile Release Trains",
+      "LPM": "Lean Portfolio Management",
+      "SEI": "Software Engineering Institute",
+      "CMMI": "Capability Maturity Model Integration",
+      "SD": "standard deviation",
+      "SCM": "software configuration management",
+      "OSS": "open source software",
+      "DDL": "Data Definition Language",
+      "DML": "Data Manipulation Language"
     }
   },
   "playlists": {
