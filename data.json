@@ -738,7 +738,20 @@
       "GUI": "graphical user interfaces",
       "RUM": "Real user monitoring",
       "CTF": "Capture the flag",
-      "GPO": "Group Policy Objects"
+      "GPO": "Group Policy Objects",
+      "SoD": "Segregation of Duties",
+      "PaaS": "Platform as a Service",
+      "CM": "configuration management",
+      "PAM": "privilege access management",
+      "APT": "advanced persistent threat",
+      "FBI": "Federal Bureau of Investigation",
+      "GAAP": "generally accepted accounting principles",
+      "MaaS": "monitoring as a service",
+      "RAM": "random access memory",
+      "FaaS": "function as a service",
+      "CAB": "change advisory board",
+      "SAR": "security assurance requirements",
+      "MIT": "Massachusetts Institute of Technology"
     }
   },
   "playlists": {
@@ -746,7 +759,7 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-07-24T19:31:59.516Z",
+      "last_opened": "2026-07-24T20:42:20.173Z",
       "books": [
         {
           "id": "9798341622982",
@@ -852,7 +865,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-07-24T19:31:59.876Z",
+      "last_opened": "2026-07-24T20:42:20.180Z",
       "books": [
         {
           "id": "0642572388782",
@@ -902,7 +915,7 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-07-24T19:31:59.938Z",
+      "last_opened": "2026-07-24T20:42:20.188Z",
       "books": [
         {
           "id": "0642572388782",
@@ -945,7 +958,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-07-24T19:31:59.946Z",
+      "last_opened": "2026-07-24T20:42:20.196Z",
       "books": [
         {
           "id": "9798888650776",
@@ -981,7 +994,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-07-24T19:32:00.000Z",
+      "last_opened": "2026-07-24T20:42:20.204Z",
       "books": [
         {
           "id": "9781617299599",
@@ -1038,7 +1051,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-07-24T19:32:00.048Z",
+      "last_opened": "2026-07-24T20:42:20.211Z",
       "books": [
         {
           "id": "9781098151232",
@@ -1067,7 +1080,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-07-24T19:32:00.094Z",
+      "last_opened": "2026-07-24T20:42:20.276Z",
       "books": [
         {
           "id": "9781394211418",
@@ -1089,7 +1102,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-07-24T19:32:00.144Z",
+      "last_opened": "2026-07-24T20:42:20.326Z",
       "books": [
         {
           "id": "9781633438538",
@@ -1153,7 +1166,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-07-24T19:32:00.208Z",
+      "last_opened": "2026-07-24T20:42:20.377Z",
       "books": [
         {
           "id": "9780138345990",
