@@ -751,7 +751,16 @@
       "FaaS": "function as a service",
       "CAB": "change advisory board",
       "SAR": "security assurance requirements",
-      "MIT": "Massachusetts Institute of Technology"
+      "MIT": "Massachusetts Institute of Technology",
+      "IDPS": "Intrusion detection and prevention system",
+      "RFC": "request for comments",
+      "CSIRT": "computer security incident response team",
+      "DRDoS": "distributed reflective denial of service",
+      "LAND": "local area network denial",
+      "NOC": "network operations centers",
+      "RARP": "Reverse Address Resolution Protocol",
+      "SEM": "security event management",
+      "RSS": "Really Simple Syndication"
     }
   },
   "playlists": {
@@ -1195,7 +1204,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-07-24T19:32:00.271Z",
+      "last_opened": "2026-07-24T20:42:20.437Z",
       "books": [
         {
           "id": "9781098182502",
@@ -1217,7 +1226,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-07-24T19:32:00.335Z",
+      "last_opened": "2026-07-24T20:42:20.454Z",
       "books": [
         {
           "id": "9781835887769",
@@ -1267,7 +1276,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-07-24T19:32:00.382Z",
+      "last_opened": "2026-07-24T20:42:20.616Z",
       "books": [
         {
           "id": "9781633435308",
@@ -1324,7 +1333,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-07-24T19:32:00.429Z",
+      "last_opened": "2026-07-24T20:42:20.625Z",
       "books": [
         {
           "id": "9780135180471",
