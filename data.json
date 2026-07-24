@@ -146,7 +146,8 @@
       "WIP": "work in progress"
     },
     "9781098171292": {
-      "OOP": "object oriented programming"
+      "OOP": "object oriented programming",
+      "LIFO": "last in first out"
     }
   },
   "playlists": {
