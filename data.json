@@ -718,7 +718,27 @@
       "ZTA": "zero trust architecture",
       "SAM": "Security Account Manager",
       "LSASS": "Local Security Authority Subsystem Service",
-      "PtH": "pass the hash"
+      "PtH": "pass the hash",
+      "SAST": "static application security testing",
+      "DAST": "dynamic application security testing",
+      "IAST": "Interactive Application Security Test",
+      "GAO": "Government Accountability Office",
+      "FAA": "Federal Aviation Administration",
+      "CAE": "chief audit executive",
+      "ISAE": "International Standard on Assurance Engagements",
+      "SCAP": "Security Content Automation Protocol",
+      "CVE": "Common Vulnerabilities and Exposures",
+      "CVSS": "Common Vulnerability Scoring System",
+      "CCE": "Common Configuration Enumeration",
+      "CPE": "Common Platform Enumeration",
+      "OVAL": "Open Vulnerability and Assessment Language",
+      "OSSTMM": "Open Source Security Testing Methodology Manual",
+      "RASP": "Runtime Application Self Protection",
+      "UI": "User Interfaces",
+      "GUI": "graphical user interfaces",
+      "RUM": "Real user monitoring",
+      "CTF": "Capture the flag",
+      "GPO": "Group Policy Objects"
     }
   },
   "playlists": {
