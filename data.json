@@ -366,7 +366,23 @@
       "PIPEDA": "Personal Information Protection and Electronic Documents Act",
       "PIPL": "Personal Information Protection Law",
       "POPIA": "Protection of Personal Information Act",
-      "CCPA": "California Consumer Privacy Act"
+      "CCPA": "California Consumer Privacy Act",
+      "DRM": "Digital Rights Management",
+      "CASB": "cloud access security broker",
+      "FOIA": "Freedom of Information Act",
+      "FOUO": "for official use only",
+      "SBU": "sensitive but unclassified",
+      "CUI": "controlled unclassified information",
+      "IRS": "Internal Revenue Service",
+      "SSD": "solid state drives",
+      "SAN": "storage area networks",
+      "ITRC": "Identity Theft Resource Center",
+      "AWS": "Amazon Web Services",
+      "USB": "Universal Serial Bus",
+      "NSA": "National Security Agency",
+      "HDD": "hard disk drives",
+      "PDF": "Portable Document Format",
+      "DPO": "data privacy officer"
     }
   },
   "playlists": {
