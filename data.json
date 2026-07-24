@@ -769,7 +769,11 @@
       "D2D": "disk to disk",
       "VTL": "Virtual tape libraries",
       "GFS": "Grandfather Father Son",
-      "MAA": "Mutual assistance agreements"
+      "MAA": "Mutual assistance agreements",
+      "EDRM": "Electronic Discovery Reference Model",
+      "IOCE": "International Organization on Computer Evidence",
+      "NSRL": "National Software Reference Library",
+      "IAB": "Internet Architecture Board"
     }
   },
   "playlists": {
