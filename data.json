@@ -172,7 +172,10 @@
       "API": "application programming interface",
       "EST": "Eastern Standard Time",
       "GMT": "Greenwich Mean Time",
-      "SAM": "single abstract method"
+      "SAM": "single abstract method",
+      "OSS": "open source software",
+      "JPMS": "Java Platform Module System",
+      "XML": "xmlExtensible Markup Language"
     },
     "9780135328385": {
       "JEP": "Java Enhancement Proposal",
