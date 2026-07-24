@@ -184,7 +184,9 @@
     "9781806118434": {
       "OOP": "object oriented programming",
       "OO": "object oriented",
-      "API": "application programming interface"
+      "API": "application programming interface",
+      "IDE": "integrated development environments",
+      "JLS": "Java Language Specification"
     }
   },
   "playlists": {
