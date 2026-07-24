@@ -197,7 +197,8 @@
       "MISRA": "Motor Industry Software Reliability Association"
     },
     "9780137574834": {
-      "IDE": "integrated development environment"
+      "IDE": "integrated development environment",
+      "JEP": "Java Enhancement Proposal"
     }
   },
   "playlists": {
