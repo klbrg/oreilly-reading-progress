@@ -166,6 +166,11 @@
       "JVM": "Java Virtual Machine",
       "JRE": "Java Runtime Environment",
       "IDE": "integrated development environment"
+    },
+    "9780135328385": {
+      "JEP": "Java Enhancement Proposal",
+      "NaN": "not a number",
+      "API": "Application Programming Interface"
     }
   },
   "playlists": {
