@@ -701,7 +701,24 @@
       "OIDC": "OpenID Connect",
       "JIT": "Just in Time",
       "W3C": "Web Consortium",
-      "OWASP": "Open Worldwide Application Security Project"
+      "OWASP": "Open Worldwide Application Security Project",
+      "RBAC": "Role based access control",
+      "DAC": "Discretionary access control",
+      "NTFS": "New Technology File System",
+      "TBAC": "task based access control",
+      "ER": "emergency room",
+      "AA": "and authorization",
+      "JSON": "JavaScript Object Notation",
+      "KDC": "Key Distribution Center",
+      "TGS": "ticket granting service",
+      "TGT": "ticket granting ticket",
+      "AD": "Active Directory",
+      "DC": "domain controller",
+      "NTP": "Network Time Protocol",
+      "ZTA": "zero trust architecture",
+      "SAM": "Security Account Manager",
+      "LSASS": "Local Security Authority Subsystem Service",
+      "PtH": "pass the hash"
     }
   },
   "playlists": {
