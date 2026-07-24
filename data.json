@@ -188,7 +188,8 @@
       "IDE": "integrated development environments",
       "JLS": "Java Language Specification",
       "UML": "Unified Modeling Language",
-      "JVM": "Java Virtual Machine"
+      "JVM": "Java Virtual Machine",
+      "JPMS": "Java Platform Module System"
     }
   },
   "playlists": {
