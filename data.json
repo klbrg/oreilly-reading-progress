@@ -308,7 +308,19 @@
       "DNS": "Domain Name System",
       "VR": "virtual reality",
       "CBT": "computer based training",
-      "BPA": "business partners agreement"
+      "BPA": "business partners agreement",
+      "BC": "Business Continuity",
+      "BIA": "Business impact analysis",
+      "DR": "disaster recovery",
+      "CISA": "Cybersecurity and Infrastructure Security Agency",
+      "SaaS": "software as a service",
+      "MTD": "maximum tolerable downtime",
+      "MTO": "maximum tolerable outage",
+      "RTO": "recovery time objective",
+      "RPO": "recovery point objective",
+      "FEMA": "Federal Emergency Management Agency",
+      "COOP": "continuity of operations plan",
+      "ERP": "enterprise resource planning"
     }
   },
   "playlists": {
