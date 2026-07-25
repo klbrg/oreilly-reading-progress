@@ -854,7 +854,9 @@
       "JWT": "Json Web Token",
       "SVID": "SPIFFE Verifiable Identity Documents",
       "CSI": "Container Storage Interface",
-      "SIEM": "security information and event management"
+      "SIEM": "security information and event management",
+      "NCSC": "National Cyber Security Centre",
+      "CSPM": "Cloud Security Posture Management"
     }
   },
   "playlists": {
