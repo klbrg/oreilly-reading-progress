@@ -881,7 +881,8 @@
       "NFS": "Network File System",
       "FC": "fcFibre Channel",
       "RWO": "ReadWriteOnce",
-      "RWOP": "ReadWriteOncePod"
+      "RWOP": "ReadWriteOncePod",
+      "FQDN": "fully qualified domain names"
     }
   },
   "playlists": {
