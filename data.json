@@ -822,7 +822,10 @@
       "BIOS": "Basic Input Output System",
       "UEFI": "Unified Extensible Firmware Interface",
       "NIST": "National Institute of Standards and Technology",
-      "LLM": "large language models"
+      "LLM": "large language models",
+      "CNA": "CVE Numbering Authorities",
+      "NVD": "National Vulnerability Database",
+      "YARA": "Yet Another Research Assistant"
     }
   },
   "playlists": {
