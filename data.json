@@ -904,7 +904,11 @@
       "DRY": "Don\u2019t Repeat Yourself",
       "CR": "custom resource",
       "FQDN": "fully qualified domain name",
-      "SRE": "site reliability engineers"
+      "SRE": "site reliability engineers",
+      "PV": "persistent volumes",
+      "PVC": "persistent volume claim",
+      "NFS": "network file system",
+      "EBS": "Elastic Block Store"
     }
   },
   "playlists": {
