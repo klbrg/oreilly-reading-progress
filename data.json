@@ -877,7 +877,8 @@
       "HPA": "HorizontalPodAutoscaler",
       "VPA": "VerticalPodAutoscaler",
       "QoS": "Quality of Service",
-      "SSD": "solid state drive"
+      "SSD": "solid state drive",
+      "NFS": "Network File System"
     }
   },
   "playlists": {
