@@ -813,7 +813,10 @@
       "VM": "virtual machines",
       "RBAC": "role based access control",
       "RDS": "Relational Database Service",
-      "ICMP": "Internet Control Message Protocol"
+      "ICMP": "Internet Control Message Protocol",
+      "UTS": "Unix Timesharing System",
+      "IPC": "Inter process communications",
+      "CIS": "Center for Internet Security"
     }
   },
   "playlists": {
