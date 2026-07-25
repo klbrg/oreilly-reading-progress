@@ -871,7 +871,8 @@
       "CRD": "Custom Resource Definition",
       "CR": "Custom Resources",
       "AWS": "Amazon Web Services",
-      "OLM": "Operator Lifecycle Manager"
+      "OLM": "Operator Lifecycle Manager",
+      "DNS": "Domain Name System"
     }
   },
   "playlists": {
