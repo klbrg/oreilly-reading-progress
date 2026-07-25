@@ -828,7 +828,12 @@
       "YARA": "Yet Another Research Assistant",
       "IaC": "infrastructure as code",
       "FIDO": "Fast IDentity Online",
-      "OIDC": "OpenID Connect"
+      "OIDC": "OpenID Connect",
+      "LSM": "Linux Security Modules",
+      "MAC": "mandatory access controls",
+      "DAC": "discretionary access controls",
+      "GPU": "graphics processing units",
+      "TPU": "tensor processing units"
     }
   },
   "playlists": {
