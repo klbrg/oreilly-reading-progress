@@ -878,7 +878,10 @@
       "VPA": "VerticalPodAutoscaler",
       "QoS": "Quality of Service",
       "SSD": "solid state drive",
-      "NFS": "Network File System"
+      "NFS": "Network File System",
+      "FC": "fcFibre Channel",
+      "RWO": "ReadWriteOnce",
+      "RWOP": "ReadWriteOncePod"
     }
   },
   "playlists": {
