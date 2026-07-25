@@ -853,7 +853,8 @@
       "CRL": "Certificate Revocation List",
       "JWT": "Json Web Token",
       "SVID": "SPIFFE Verifiable Identity Documents",
-      "CSI": "Container Storage Interface"
+      "CSI": "Container Storage Interface",
+      "SIEM": "security information and event management"
     }
   },
   "playlists": {
