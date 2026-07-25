@@ -899,7 +899,10 @@
       "PKI": "public key infrastructure",
       "CA": "certificate authority",
       "GPG": "GNU Privacy Guard",
-      "CN": "common name"
+      "CN": "common name",
+      "HPA": "Horizontal Pod Autoscaler",
+      "DRY": "Don\u2019t Repeat Yourself",
+      "CR": "custom resource"
     }
   },
   "playlists": {
