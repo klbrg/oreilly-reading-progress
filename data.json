@@ -852,7 +852,8 @@
       "FIPS": "Federal Information Processing Standards",
       "CRL": "Certificate Revocation List",
       "JWT": "Json Web Token",
-      "SVID": "SPIFFE Verifiable Identity Documents"
+      "SVID": "SPIFFE Verifiable Identity Documents",
+      "CSI": "Container Storage Interface"
     }
   },
   "playlists": {
