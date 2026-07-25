@@ -860,7 +860,13 @@
     },
     "9798341608399": {
       "CI": "continuous integration",
-      "HA": "highly available"
+      "HA": "highly available",
+      "CNI": "Container Network Interface",
+      "CRI": "Container Runtime Interface",
+      "CSI": "Container Storage Interface",
+      "FAQ": "frequently asked questions",
+      "CIDR": "Classless Inter Domain Routing",
+      "VM": "virtual machines"
     }
   },
   "playlists": {
