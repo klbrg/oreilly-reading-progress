@@ -882,7 +882,8 @@
       "FC": "fcFibre Channel",
       "RWO": "ReadWriteOnce",
       "RWOP": "ReadWriteOncePod",
-      "FQDN": "fully qualified domain names"
+      "FQDN": "fully qualified domain names",
+      "PKI": "Public Key Infrastructure"
     }
   },
   "playlists": {
