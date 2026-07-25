@@ -821,7 +821,8 @@
       "VMM": "virtual machine monitor",
       "BIOS": "Basic Input Output System",
       "UEFI": "Unified Extensible Firmware Interface",
-      "NIST": "National Institute of Standards and Technology"
+      "NIST": "National Institute of Standards and Technology",
+      "LLM": "large language models"
     }
   },
   "playlists": {
