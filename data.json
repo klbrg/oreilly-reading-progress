@@ -884,6 +884,20 @@
       "RWOP": "ReadWriteOncePod",
       "FQDN": "fully qualified domain names",
       "PKI": "Public Key Infrastructure"
+    },
+    "9781633435308": {
+      "CKA": "Certified Kubernetes Administrator",
+      "KCNA": "Kubernetes and Cloud Native Associate",
+      "CKAD": "Certified Kubernetes Application Developer",
+      "CNCF": "Cloud Native Computing Foundation",
+      "RBAC": "role based access control",
+      "CNI": "container network interface",
+      "CSI": "container storage interface",
+      "CRI": "container runtime interface",
+      "CRD": "custom resource definitions",
+      "URI": "uniform resource identifiers",
+      "PKI": "public key infrastructure",
+      "CA": "certificate authority"
     }
   },
   "playlists": {
