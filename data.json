@@ -825,7 +825,10 @@
       "LLM": "large language models",
       "CNA": "CVE Numbering Authorities",
       "NVD": "National Vulnerability Database",
-      "YARA": "Yet Another Research Assistant"
+      "YARA": "Yet Another Research Assistant",
+      "IaC": "infrastructure as code",
+      "FIDO": "Fast IDentity Online",
+      "OIDC": "OpenID Connect"
     }
   },
   "playlists": {
