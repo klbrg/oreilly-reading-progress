@@ -857,6 +857,10 @@
       "SIEM": "security information and event management",
       "NCSC": "National Cyber Security Centre",
       "CSPM": "Cloud Security Posture Management"
+    },
+    "9798341608399": {
+      "CI": "continuous integration",
+      "HA": "highly available"
     }
   },
   "playlists": {
