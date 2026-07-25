@@ -898,7 +898,8 @@
       "URI": "uniform resource identifiers",
       "PKI": "public key infrastructure",
       "CA": "certificate authority",
-      "GPG": "GNU Privacy Guard"
+      "GPG": "GNU Privacy Guard",
+      "CN": "common name"
     }
   },
   "playlists": {
