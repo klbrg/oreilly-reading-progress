@@ -867,7 +867,11 @@
       "FAQ": "frequently asked questions",
       "CIDR": "Classless Inter Domain Routing",
       "VM": "virtual machines",
-      "RBAC": "role based access control"
+      "RBAC": "role based access control",
+      "CRD": "Custom Resource Definition",
+      "CR": "Custom Resources",
+      "AWS": "Amazon Web Services",
+      "OLM": "Operator Lifecycle Manager"
     }
   },
   "playlists": {
