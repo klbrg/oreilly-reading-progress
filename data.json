@@ -902,7 +902,9 @@
       "CN": "common name",
       "HPA": "Horizontal Pod Autoscaler",
       "DRY": "Don\u2019t Repeat Yourself",
-      "CR": "custom resource"
+      "CR": "custom resource",
+      "FQDN": "fully qualified domain name",
+      "SRE": "site reliability engineers"
     }
   },
   "playlists": {
