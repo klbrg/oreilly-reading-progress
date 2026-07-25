@@ -812,7 +812,8 @@
       "VPC": "virtual private cloud",
       "VM": "virtual machines",
       "RBAC": "role based access control",
-      "RDS": "Relational Database Service"
+      "RDS": "Relational Database Service",
+      "ICMP": "Internet Control Message Protocol"
     }
   },
   "playlists": {
