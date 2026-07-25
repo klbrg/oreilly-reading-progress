@@ -866,7 +866,8 @@
       "CSI": "Container Storage Interface",
       "FAQ": "frequently asked questions",
       "CIDR": "Classless Inter Domain Routing",
-      "VM": "virtual machines"
+      "VM": "virtual machines",
+      "RBAC": "role based access control"
     }
   },
   "playlists": {
