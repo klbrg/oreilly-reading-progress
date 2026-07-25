@@ -840,7 +840,19 @@
       "DNS": "Domain Name Service",
       "ARP": "Address Resolution Protocol",
       "NAT": "network address translation",
-      "PAT": "port address translation"
+      "PAT": "port address translation",
+      "CA": "certificate authorities",
+      "TLS": "transport layer security",
+      "IETF": "Internet Engineering Task Force",
+      "SSL": "Secure Sockets Layer",
+      "ITU": "International Telecommunications Union",
+      "PKI": "Public Key Infrastructure",
+      "CSR": "Certificate Signing Request",
+      "VPN": "virtual private networks",
+      "FIPS": "Federal Information Processing Standards",
+      "CRL": "Certificate Revocation List",
+      "JWT": "Json Web Token",
+      "SVID": "SPIFFE Verifiable Identity Documents"
     }
   },
   "playlists": {
