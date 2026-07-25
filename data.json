@@ -833,7 +833,14 @@
       "MAC": "mandatory access controls",
       "DAC": "discretionary access controls",
       "GPU": "graphics processing units",
-      "TPU": "tensor processing units"
+      "TPU": "tensor processing units",
+      "CNI": "Container Network Interface",
+      "OSI": "Open Systems Interconnection",
+      "IP": "Internet Protocol",
+      "DNS": "Domain Name Service",
+      "ARP": "Address Resolution Protocol",
+      "NAT": "network address translation",
+      "PAT": "port address translation"
     }
   },
   "playlists": {
