@@ -817,7 +817,11 @@
       "UTS": "Unix Timesharing System",
       "IPC": "Inter process communications",
       "CIS": "Center for Internet Security",
-      "OCI": "Open Container Initiative"
+      "OCI": "Open Container Initiative",
+      "VMM": "virtual machine monitor",
+      "BIOS": "Basic Input Output System",
+      "UEFI": "Unified Extensible Firmware Interface",
+      "NIST": "National Institute of Standards and Technology"
     }
   },
   "playlists": {
