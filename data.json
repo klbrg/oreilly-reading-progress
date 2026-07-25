@@ -876,7 +876,8 @@
       "SSL": "Secure Sockets Layer",
       "HPA": "HorizontalPodAutoscaler",
       "VPA": "VerticalPodAutoscaler",
-      "QoS": "Quality of Service"
+      "QoS": "Quality of Service",
+      "SSD": "solid state drive"
     }
   },
   "playlists": {
