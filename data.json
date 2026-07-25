@@ -873,7 +873,9 @@
       "AWS": "Amazon Web Services",
       "OLM": "Operator Lifecycle Manager",
       "DNS": "Domain Name System",
-      "SSL": "Secure Sockets Layer"
+      "SSL": "Secure Sockets Layer",
+      "HPA": "HorizontalPodAutoscaler",
+      "VPA": "VerticalPodAutoscaler"
     }
   },
   "playlists": {
@@ -1601,7 +1603,7 @@
       "id": "4e06a517-8fd7-4f96-abb3-76a4d37c8684",
       "title": "Incremental Reading",
       "url": "https://learning.oreilly.com/playlists/4e06a517-8fd7-4f96-abb3-76a4d37c8684/",
-      "last_opened": "2026-07-25T08:21:13.516Z",
+      "last_opened": "2026-07-25T09:47:09.970Z",
       "books": []
     }
   }
