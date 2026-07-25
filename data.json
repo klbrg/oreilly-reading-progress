@@ -872,7 +872,8 @@
       "CR": "Custom Resources",
       "AWS": "Amazon Web Services",
       "OLM": "Operator Lifecycle Manager",
-      "DNS": "Domain Name System"
+      "DNS": "Domain Name System",
+      "SSL": "Secure Sockets Layer"
     }
   },
   "playlists": {
