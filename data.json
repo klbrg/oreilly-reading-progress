@@ -816,7 +816,8 @@
       "ICMP": "Internet Control Message Protocol",
       "UTS": "Unix Timesharing System",
       "IPC": "Inter process communications",
-      "CIS": "Center for Internet Security"
+      "CIS": "Center for Internet Security",
+      "OCI": "Open Container Initiative"
     }
   },
   "playlists": {
