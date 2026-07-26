@@ -954,6 +954,17 @@
       "SMET": "Selective Multicast Ethernet Tag",
       "NLRI": "Network Layer Reachability Information",
       "PMSI": "Provider Multicast Service Interface"
+    },
+    "9798341660885": {
+      "PaaS": "Platform as a Service",
+      "PL": "procedural languages",
+      "FDW": "Foreign data wrappers",
+      "MED": "Management of External Data",
+      "DDL": "data definition language",
+      "FTS": "Full text search",
+      "DML": "data manipulation language",
+      "EOL": "end of life",
+      "BDR": "Bi directional Replication"
     }
   },
   "playlists": {
