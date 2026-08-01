@@ -983,6 +983,12 @@
       "DML": "data manipulation language",
       "EOL": "end of life",
       "BDR": "Bi directional Replication"
+    },
+    "9798341607675": {
+      "SRE": "Site Reliability Engineering",
+      "SLO": "Service Level Objectives",
+      "DoS": "denial of service",
+      "ML": "machine learning"
     }
   },
   "playlists": {
