@@ -1061,7 +1061,11 @@
       "CAB": "change approval board"
     },
     "0642572230333": {
-      "LLM": "large language models"
+      "LLM": "large language models",
+      "NLP": "natural language processing",
+      "AGI": "artificial general intelligence",
+      "RAG": "retrieval augmented generation",
+      "MCP": "Model Context Protocol"
     }
   },
   "playlists": {
