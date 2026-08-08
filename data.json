@@ -1044,6 +1044,9 @@
       "VPA": "VerticalPodAutoscaler",
       "PDB": "PodDisruptionBudget",
       "SNI": "Server Name Indication"
+    },
+    "9781457191435": {
+      "CAB": "change approval board"
     }
   },
   "playlists": {
