@@ -1101,6 +1101,22 @@
       "API": "application programming interface",
       "SRE": "site reliability engineering",
       "LLM": "large language models"
+    },
+    "0642572243906": {
+      "LLM": "Large Language Model",
+      "AI": "Artificial Intelligence",
+      "ML": "Machine Learning",
+      "API": "Application Programming Interfaces",
+      "BPE": "Byte Pair Encoding",
+      "IDE": "Integrated Development Environments",
+      "POC": "proof of concepts",
+      "RPA": "Robotic Process Automation",
+      "RAG": "Retrieval Augmented Generation",
+      "MVP": "Minimum Viable Product",
+      "ROI": "return on investment",
+      "MCP": "Model Context Protocol",
+      "IDP": "internal development platforms",
+      "DORA": "DevOps Research and Assessment"
     }
   },
   "playlists": {
