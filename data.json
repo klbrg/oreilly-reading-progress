@@ -1087,6 +1087,14 @@
       "GPT": "Generative Pretrained Transformer",
       "SLM": "small language models",
       "GPU": "graphics processing units"
+    },
+    "9781633436497": {
+      "DNS": "domain name system",
+      "SHA": "secure hash algorithm",
+      "SaaS": "Software as a Service",
+      "API": "application programming interface",
+      "SRE": "site reliability engineering",
+      "LLM": "large language models"
     }
   },
   "playlists": {
