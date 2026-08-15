@@ -193,8 +193,8 @@
       "title": "Architecture Best Practices for Azure Kubernetes Service (AKS) - Microsoft Azure Well-Architected Framework | Microsoft Learn"
     },
     "azure-docs-progress-azure-aks-intro-aks-automatic": {
-      "index": 3,
-      "date": "2026-08-15T19:30:39.810Z",
+      "index": 4,
+      "date": "2026-08-15T19:30:56.572Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic",
       "title": "Introduction to Azure Kubernetes Service (AKS) Automatic - Azure Kubernetes Service | Microsoft Learn"
     }
