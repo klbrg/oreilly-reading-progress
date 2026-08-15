@@ -185,6 +185,12 @@
       "date": "2026-08-15T16:49:29.006Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/what-is-aks",
       "title": "What is Azure Kubernetes Service (AKS)? - Azure Kubernetes Service | Microsoft Learn"
+    },
+    "azure-docs-progress-azure-well-architected-service-guides-azure-kubernetes-service": {
+      "index": 1,
+      "date": "2026-08-15T18:24:51.316Z",
+      "url": "https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-kubernetes-service",
+      "title": "Architecture Best Practices for Azure Kubernetes Service (AKS) - Microsoft Azure Well-Architected Framework | Microsoft Learn"
     }
   },
   "glossaries": {
