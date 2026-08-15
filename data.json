@@ -1180,7 +1180,12 @@
       "CNI": "Container Network Interface",
       "SLA": "service level agreement",
       "VM": "virtual machines",
-      "LTSC": "Long Term Servicing Channel"
+      "LTSC": "Long Term Servicing Channel",
+      "HPA": "Horizontal Pod Autoscaler",
+      "VPA": "Vertical Pod Autoscaler",
+      "RBAC": "Role based Access Control",
+      "OIDC": "OpenID Connect",
+      "UDR": "User defined routing"
     },
     "mslearn-azure-waf": {
       "AKS": "Azure Kubernetes Service",
