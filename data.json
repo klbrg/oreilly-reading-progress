@@ -1175,6 +1175,15 @@
       "SLA": "service level agreement",
       "VM": "virtual machines",
       "LTSC": "Long Term Servicing Channel"
+    },
+    "mslearn-azure-waf": {
+      "AKS": "Azure Kubernetes Service",
+      "SLA": "service level agreement",
+      "VM": "virtual machine",
+      "RBAC": "role based access control",
+      "WAF": "web application firewall",
+      "IaC": "infrastructure as code",
+      "KEDA": "Kubernetes Event Driven Autoscaler"
     }
   },
   "playlists": {
