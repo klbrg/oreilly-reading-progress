@@ -1171,7 +1171,10 @@
       "AKS": "Azure Kubernetes Service",
       "ACI": "Azure Container Instances",
       "KEDA": "Kubernetes Event driven Autoscaling",
-      "CNI": "Container Network Interface"
+      "CNI": "Container Network Interface",
+      "SLA": "service level agreement",
+      "VM": "virtual machines",
+      "LTSC": "Long Term Servicing Channel"
     }
   },
   "playlists": {
