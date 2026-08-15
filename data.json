@@ -1160,6 +1160,12 @@
     },
     "9780134855912": {
       "IDE": "Integrated Development Environment"
+    },
+    "mslearn-azure-kubernetes-service": {
+      "AKS": "Azure Kubernetes Service",
+      "ACI": "Azure Container Instances",
+      "KEDA": "Kubernetes Event driven Autoscaling",
+      "CNI": "Container Network Interface"
     }
   },
   "playlists": {
