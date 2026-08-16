@@ -241,8 +241,8 @@
       "title": "Create and Manage Kubernetes resources in the Azure portal with Kubernetes Center (preview) - Azure Kubernetes Service | Microsoft Learn"
     },
     "azure-docs-progress-azure-aks-node-images": {
-      "index": 9,
-      "date": "2026-08-16T17:05:05.161Z",
+      "index": 10,
+      "date": "2026-08-16T17:05:15.003Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/node-images",
       "title": "Node Images in Azure Kubernetes Service (AKS) - Azure Kubernetes Service | Microsoft Learn"
     }
