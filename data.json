@@ -259,8 +259,8 @@
       "title": "Customize the Node Configuration for Azure Kubernetes Service (AKS) Node Pools - Azure Kubernetes Service | Microsoft Learn"
     },
     "azure-docs-progress-azure-aks-manage-abort-operations": {
-      "index": 2,
-      "date": "2026-08-16T17:19:56.361Z",
+      "index": 3,
+      "date": "2026-08-16T17:20:01.297Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/manage-abort-operations?tabs=azure-cli",
       "title": "Abort an AKS long-running operation - Azure Kubernetes Service | Microsoft Learn"
     }
