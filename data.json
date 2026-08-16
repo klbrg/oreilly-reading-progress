@@ -1191,7 +1191,10 @@
       "VPA": "Vertical Pod Autoscaler",
       "RBAC": "Role based Access Control",
       "OIDC": "OpenID Connect",
-      "UDR": "User defined routing"
+      "UDR": "User defined routing",
+      "SNI": "Server Name Indication",
+      "LTS": "Long Term Support",
+      "PDB": "PodDisruptionBudget"
     },
     "mslearn-azure-waf": {
       "AKS": "Azure Kubernetes Service",
