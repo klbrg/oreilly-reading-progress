@@ -1265,7 +1265,10 @@
       "OS": "operating system",
       "CVM": "Confidential virtual machines",
       "FIPS": "Federal Information Processing Standards",
-      "ACL": "Azure Container Linux"
+      "ACL": "Azure Container Linux",
+      "PIS": "Prepared Image Specification",
+      "BYOI": "Bring Your Own Image",
+      "FAQ": "Frequently asked questions"
     },
     "mslearn-azure-waf": {
       "AKS": "Azure Kubernetes Service",
