@@ -229,8 +229,8 @@
       "title": "Advanced Azure Kubernetes Service (AKS) concepts - Azure Kubernetes Service | Microsoft Learn"
     },
     "azure-docs-progress-azure-aks-automatic-aks-automatic-managed-system-node-pools-about": {
-      "index": 1,
-      "date": "2026-08-16T13:23:34.921Z",
+      "index": 0,
+      "date": "2026-08-16T13:23:36.151Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/automatic/aks-automatic-managed-system-node-pools-about",
       "title": "Overview of AKS Automatic Clusters with Managed System Node Pools - Azure Kubernetes Service | Microsoft Learn"
     }
