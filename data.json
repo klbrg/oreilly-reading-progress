@@ -253,8 +253,8 @@
       "title": "List Available VM SKUs for Azure Kubernetes Service (AKS) Clusters (Preview) - Azure Kubernetes Service | Microsoft Learn"
     },
     "azure-docs-progress-azure-aks-custom-node-configuration": {
-      "index": 26,
-      "date": "2026-08-16T17:18:46.847Z",
+      "index": 27,
+      "date": "2026-08-16T17:18:51.114Z",
       "url": "https://learn.microsoft.com/en-us/azure/aks/custom-node-configuration?tabs=linux-node-pools",
       "title": "Customize the Node Configuration for Azure Kubernetes Service (AKS) Node Pools - Azure Kubernetes Service | Microsoft Learn"
     }
