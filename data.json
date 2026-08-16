@@ -1242,7 +1242,12 @@
       "TCP": "Transmission Control Protocol",
       "TTL": "Time to Live",
       "FaaS": "Functions as a Service",
-      "NAP": "node auto provisioning"
+      "NAP": "node auto provisioning",
+      "HPC": "Host Process Containers",
+      "OS": "operating system",
+      "CVM": "Confidential virtual machines",
+      "FIPS": "Federal Information Processing Standards",
+      "ACL": "Azure Container Linux"
     },
     "mslearn-azure-waf": {
       "AKS": "Azure Kubernetes Service",
