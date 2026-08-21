@@ -275,6 +275,12 @@
       "date": "2026-08-21T15:28:17.345Z",
       "url": "https://learning.oreilly.com/library/view/microsoft-azure-in/9781617299650/Text/chapter-1.html",
       "title": "1 What is Microsoft Azure? | Microsoft Azure in Action"
+    },
+    "azure-docs-progress-azure-nat-gateway-nat-overview": {
+      "index": 2,
+      "date": "2026-08-21T21:11:58.600Z",
+      "url": "https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview",
+      "title": "What Is Azure NAT Gateway? | Microsoft Learn"
     }
   },
   "glossaries": {
