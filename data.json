@@ -1292,7 +1292,22 @@
       "KEDA": "Kubernetes Event Driven Autoscaler"
     },
     "9781617299650": {
-      "CLI": "command line interface"
+      "CLI": "command line interface",
+      "AWS": "Amazon Web Services",
+      "IaaS": "infrastructure as a service",
+      "PaaS": "platform as a service",
+      "SaaS": "software as a service",
+      "VM": "virtual machines",
+      "OS": "operating system",
+      "GCP": "Google Cloud Platform",
+      "DNS": "Domain Name System",
+      "ARM": "Azure Resource Manager",
+      "EU": "European Union",
+      "EBA": "European Banking Authority",
+      "AKS": "Azure Kubernetes Services",
+      "PAYG": "Pay as You Go",
+      "IDE": "integrated development environments",
+      "SDK": "software development kit"
     }
   },
   "playlists": {
