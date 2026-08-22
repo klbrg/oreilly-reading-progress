@@ -1362,6 +1362,9 @@
       "OS": "operating system",
       "TLS": "Transport Layer Security",
       "GPU": "Graphics processing unit"
+    },
+    "mslearn-azure-container-apps": {
+      "ACR": "Azure Container Registry"
     }
   },
   "playlists": {
