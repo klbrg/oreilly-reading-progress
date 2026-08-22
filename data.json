@@ -1371,6 +1371,9 @@
     },
     "mslearn-azure-container-apps": {
       "ACR": "Azure Container Registry"
+    },
+    "mslearn-azure-app-service": {
+      "COM": "Component Object Model"
     }
   },
   "playlists": {
