@@ -1332,6 +1332,18 @@
       "PAYG": "Pay as You Go",
       "IDE": "integrated development environments",
       "SDK": "software development kit"
+    },
+    "mslearn-azure-architecture-center": {
+      "HPC": "high performance computing",
+      "AKS": "Azure Kubernetes Service",
+      "VM": "virtual machines",
+      "IaaS": "Infrastructure as a service",
+      "PaaS": "Platform as a service",
+      "FaaS": "Functions as a service",
+      "SLA": "service level agreement",
+      "OS": "operating system",
+      "TLS": "Transport Layer Security",
+      "GPU": "Graphics processing unit"
     }
   },
   "playlists": {
