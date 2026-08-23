@@ -1439,7 +1439,9 @@
       "IaC": "infrastructure as code",
       "CLI": "command line interface",
       "IT": "information technology",
-      "APM": "application performance monitoring"
+      "APM": "application performance monitoring",
+      "SSL": "Secure Sockets Layer",
+      "WAF": "web application firewall"
     },
     "mslearn-azure-container-apps": {
       "ACR": "Azure Container Registry"
