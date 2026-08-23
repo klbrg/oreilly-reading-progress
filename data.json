@@ -1358,7 +1358,8 @@
     },
     "9780134855912": {
       "IDE": "Integrated Development Environment",
-      "ADT": "abstract data types"
+      "ADT": "abstract data types",
+      "URL": "Uniform resource locators"
     },
     "mslearn-azure-kubernetes-service": {
       "AKS": "Azure Kubernetes Service",
