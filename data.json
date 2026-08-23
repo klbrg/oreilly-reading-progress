@@ -1424,7 +1424,22 @@
       "POC": "proof of concept",
       "DR": "disaster recovery",
       "HA": "High availability",
-      "AWS": "Amazon Web Services"
+      "AWS": "Amazon Web Services",
+      "DDoS": "Distributed denial of service",
+      "DNS": "Domain Name System",
+      "FQDN": "fully qualified domain name",
+      "SNAT": "source network address translation",
+      "AMPLS": "Azure Monitor Private Link Scope",
+      "NSG": "network security group",
+      "ZRS": "zone redundant storage",
+      "GZRS": "geo zone redundant storage",
+      "FTP": "File Transfer Protocol",
+      "SCM": "Source Control Management",
+      "AES": "Advanced Encryption Standard",
+      "IaC": "infrastructure as code",
+      "CLI": "command line interface",
+      "IT": "information technology",
+      "APM": "application performance monitoring"
     },
     "mslearn-azure-container-apps": {
       "ACR": "Azure Container Registry"
