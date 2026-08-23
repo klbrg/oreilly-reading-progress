@@ -1376,7 +1376,12 @@
       "CDN": "Content Delivery Network",
       "ACR": "Azure Container Registry",
       "LRS": "locally redundant storage",
-      "ZRS": "zone redundant storage"
+      "ZRS": "zone redundant storage",
+      "SMB": "Server Message Block",
+      "NFS": "Network File System",
+      "PV": "persistent volume",
+      "CSI": "Container Storage Interface",
+      "PVC": "Persistent Volume Claim"
     },
     "mslearn-azure-waf": {
       "AKS": "Azure Kubernetes Service",
