@@ -355,8 +355,8 @@
       "title": "AZ-104 for the Impatient \u2014 Containers: Registry, Instances, and Container Apps"
     },
     "azure-docs-progress-azure-container-registry-container-registry-private-endpoints": {
-      "index": 1,
-      "date": "2026-08-23T12:35:24.724Z",
+      "index": 2,
+      "date": "2026-08-23T12:35:25.967Z",
       "url": "https://learn.microsoft.com/en-us/azure/container-registry/container-registry-private-endpoints",
       "title": "Set Up Private Endpoint with Private Link for ACR - Azure Container Registry | Microsoft Learn"
     }
