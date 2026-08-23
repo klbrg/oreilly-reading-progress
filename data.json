@@ -1366,7 +1366,9 @@
       "BFS": "breadth first search",
       "MST": "minimum spanning tree",
       "DAG": "directed acyclic graphs",
-      "TSP": "traveling salesperson problem"
+      "TSP": "traveling salesperson problem",
+      "STL": "Standard Template Library",
+      "RAM": "random access memory"
     },
     "mslearn-azure-kubernetes-service": {
       "AKS": "Azure Kubernetes Service",
