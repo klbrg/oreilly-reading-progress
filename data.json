@@ -1365,7 +1365,8 @@
       "DFS": "depth first search",
       "BFS": "breadth first search",
       "MST": "minimum spanning tree",
-      "DAG": "directed acyclic graphs"
+      "DAG": "directed acyclic graphs",
+      "TSP": "traveling salesperson problem"
     },
     "mslearn-azure-kubernetes-service": {
       "AKS": "Azure Kubernetes Service",
