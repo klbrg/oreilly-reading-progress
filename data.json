@@ -1392,6 +1392,10 @@
     },
     "mslearn-azure-app-service": {
       "COM": "Component Object Model"
+    },
+    "9781805806639": {
+      "GA": "generally available",
+      "GKE": "Google Kubernetes Engine"
     }
   },
   "playlists": {
