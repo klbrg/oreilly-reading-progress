@@ -1359,7 +1359,13 @@
     "9780134855912": {
       "IDE": "Integrated Development Environment",
       "ADT": "abstract data types",
-      "URL": "Uniform resource locators"
+      "URL": "Uniform resource locators",
+      "DF": "depth first",
+      "BF": "breadth first",
+      "DFS": "depth first search",
+      "BFS": "breadth first search",
+      "MST": "minimum spanning tree",
+      "DAG": "directed acyclic graphs"
     },
     "mslearn-azure-kubernetes-service": {
       "AKS": "Azure Kubernetes Service",
