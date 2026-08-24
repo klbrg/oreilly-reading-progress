@@ -1373,7 +1373,10 @@
       "SDK": "software development kits",
       "NAT": "Network Address Transation",
       "IaC": "infrastructure as code",
-      "CA": "certificate authority"
+      "CA": "certificate authority",
+      "TLS": "Transport Layer Security",
+      "RDS": "Relational Database Service",
+      "ARN": "Amazon Resource Name"
     },
     "9780134855912": {
       "IDE": "Integrated Development Environment",
