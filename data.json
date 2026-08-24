@@ -1522,7 +1522,12 @@
       "MAM": "Mobile Application Management",
       "JSON": "JavaScript Object Notation",
       "EA": "Enterprise Agreement",
-      "NIC": "network interface card"
+      "NIC": "network interface card",
+      "GZRS": "Geographically zone redundant storage",
+      "HSM": "hardware security modules",
+      "BYOK": "bring your own key",
+      "SMB": "Server Message Block",
+      "NFS": "Network File System"
     }
   },
   "playlists": {
