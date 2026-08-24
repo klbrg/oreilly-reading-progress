@@ -1487,6 +1487,17 @@
     "9781805806639": {
       "GA": "generally available",
       "GKE": "Google Kubernetes Engine"
+    },
+    "9781801819541": {
+      "AU": "administrative units",
+      "SSPR": "Self Service Password Reset",
+      "MFA": "Multi Factor Authentication",
+      "SSO": "single sign on",
+      "B2B": "Business to Business",
+      "MDM": "Mobile Device Management",
+      "SCCM": "System Center Configuration Manager",
+      "OOBE": "Out of Box Experience",
+      "RBAC": "Role Based Access Control"
     }
   },
   "playlists": {
