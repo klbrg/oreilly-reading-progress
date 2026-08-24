@@ -1498,6 +1498,14 @@
       "SCCM": "System Center Configuration Manager",
       "OOBE": "Out of Box Experience",
       "RBAC": "Role Based Access Control"
+    },
+    "9780138345990": {
+      "SSPR": "self service password reset",
+      "SAS": "shared access signature",
+      "ARM": "Azure Resource Manager",
+      "ACR": "Azure Container Registry",
+      "ACI": "Azure Container Instances",
+      "ACA": "Azure Container Apps"
     }
   },
   "playlists": {
