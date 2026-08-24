@@ -1511,7 +1511,18 @@
       "ARM": "Azure Resource Manager",
       "ACR": "Azure Container Registry",
       "ACI": "Azure Container Instances",
-      "ACA": "Azure Container Apps"
+      "ACA": "Azure Container Apps",
+      "AD": "Active Directory",
+      "ADFS": "Active Directory Federation Services",
+      "B2B": "Business to Business",
+      "RBAC": "role based access control",
+      "CLI": "command line interface",
+      "BYOD": "bring your own device",
+      "SSO": "single sign on",
+      "MAM": "Mobile Application Management",
+      "JSON": "JavaScript Object Notation",
+      "EA": "Enterprise Agreement",
+      "NIC": "network interface card"
     }
   },
   "playlists": {
