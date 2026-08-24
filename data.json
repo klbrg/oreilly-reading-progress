@@ -1527,7 +1527,16 @@
       "HSM": "hardware security modules",
       "BYOK": "bring your own key",
       "SMB": "Server Message Block",
-      "NFS": "Network File System"
+      "NFS": "Network File System",
+      "VM": "Virtual Machines",
+      "VMSS": "Virtual Machine Scale Sets",
+      "AKS": "Azure Kubernetes Service",
+      "IaC": "Infrastructure as Code",
+      "NSG": "network security group",
+      "LOB": "line of business",
+      "SLA": "service level agreement",
+      "CA": "Certificate Authority",
+      "WAF": "Web Application Firewall"
     }
   },
   "playlists": {
