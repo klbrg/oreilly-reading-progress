@@ -1536,7 +1536,18 @@
       "LOB": "line of business",
       "SLA": "service level agreement",
       "CA": "Certificate Authority",
-      "WAF": "Web Application Firewall"
+      "WAF": "Web Application Firewall",
+      "CIDR": "classless inter domain routing",
+      "NVA": "network virtual appliance",
+      "UDR": "user defined routes",
+      "DNS": "domain name system",
+      "FQDN": "fully qualified domain name",
+      "SNAT": "Source Network Address Translation",
+      "ASG": "Application security groups",
+      "NS": "name servers",
+      "TTL": "time-to-live",
+      "SPF": "Sender Policy Framework",
+      "ALB": "Azure Load Balancer"
     }
   },
   "playlists": {
