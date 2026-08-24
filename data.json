@@ -1371,7 +1371,9 @@
       "WSL": "Windows subsystem for Linux",
       "VPC": "virtual private cloud",
       "SDK": "software development kits",
-      "NAT": "Network Address Transation"
+      "NAT": "Network Address Transation",
+      "IaC": "infrastructure as code",
+      "CA": "certificate authority"
     },
     "9780134855912": {
       "IDE": "Integrated Development Environment",
