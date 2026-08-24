@@ -1547,7 +1547,10 @@
       "NS": "name servers",
       "TTL": "time-to-live",
       "SPF": "Sender Policy Framework",
-      "ALB": "Azure Load Balancer"
+      "ALB": "Azure Load Balancer",
+      "KQL": "Kusto Query Language",
+      "BCDR": "business continuity and disaster recovery",
+      "MARS": "Microsoft Azure Recovery Services"
     }
   },
   "playlists": {
