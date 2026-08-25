@@ -389,6 +389,12 @@
       "date": "2026-08-24T19:39:14.329Z",
       "url": "https://learning.oreilly.com/library/view/exam-ref-az-104/9780138345990/ch06.xhtml#ch06lev1sec1",
       "title": "Chapter 6. Exam Ref AZ-104 Microsoft Azure Administrator exam updates | Exam Ref AZ-104 Microsoft Azure Administrator, 2nd Edition"
+    },
+    "oreilly-reader-progress-library-view-head-first-algorithms-9781098174071-preface01.html": {
+      "index": 1,
+      "date": "2026-08-25T17:32:23.522Z",
+      "url": "https://learning.oreilly.com/library/view/head-first-algorithms/9781098174071/preface01.html",
+      "title": "Brief Table of Contents (Not Yet Final) | Head First Algorithms and Data Structures"
     }
   },
   "glossaries": {
@@ -1947,7 +1953,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-08-25T15:13:50.386Z",
+      "last_opened": "2026-08-25T16:35:26.481Z",
       "books": [
         {
           "id": "9781633438538",
@@ -2011,7 +2017,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-08-25T15:13:50.441Z",
+      "last_opened": "2026-08-25T16:35:26.550Z",
       "books": [
         {
           "id": "9780138345990",
@@ -2040,7 +2046,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-08-25T15:13:50.493Z",
+      "last_opened": "2026-08-25T16:35:26.621Z",
       "books": [
         {
           "id": "9781098182502",
@@ -2062,7 +2068,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-08-25T15:13:50.541Z",
+      "last_opened": "2026-08-25T16:35:26.676Z",
       "books": [
         {
           "id": "9781835887769",
@@ -2112,7 +2118,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-08-25T15:13:50.589Z",
+      "last_opened": "2026-08-25T16:35:26.753Z",
       "books": [
         {
           "id": "9781633435308",
@@ -2169,7 +2175,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-08-25T15:13:50.638Z",
+      "last_opened": "2026-08-25T16:35:26.879Z",
       "books": [
         {
           "id": "9780135180471",
