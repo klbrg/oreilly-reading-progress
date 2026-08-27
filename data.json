@@ -1598,6 +1598,18 @@
       "TCP": "Transmission Control Protocol",
       "UDP": "User Datagram Protocol",
       "DDN": "dotted decimal notation"
+    },
+    "9798341622982": {
+      "CNCF": "Cloud Native Computing Foundation",
+      "VM": "virtual machines",
+      "CNI": "Container Network Interface",
+      "BGP": "Border Gateway Protocol",
+      "NAT": "network address translation",
+      "CFP": "Cilium Feature Proposals",
+      "DHCP": "Dynamic Host Configuration Protocol",
+      "ToR": "top of rack",
+      "DNS": "Domain Name System",
+      "GPU": "graphics processing units"
     }
   },
   "playlists": {
