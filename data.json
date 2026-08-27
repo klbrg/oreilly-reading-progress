@@ -514,7 +514,15 @@
       "TDD": "test driven development",
       "SoCC": "Symposium on Cloud Computing",
       "ISCA": "International Symposium on Computer Architecture",
-      "PLoP": "Pattern Languages of Programs"
+      "PLoP": "Pattern Languages of Programs",
+      "NLP": "natural language processing",
+      "CCPA": "California Consumer Privacy Act",
+      "RDMA": "remote direct memory access",
+      "SRE": "Site reliability engineers",
+      "FaaS": "function as a service",
+      "HPC": "high performance computing",
+      "PCI": "Payment Card Industry",
+      "SOC": "Service Organization Control"
     },
     "9781457191428": {
       "ERP": "enterprise resource planning",
