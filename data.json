@@ -1342,7 +1342,9 @@
       "SRE": "Site Reliability Engineering",
       "SLO": "Service Level Objectives",
       "DoS": "denial of service",
-      "ML": "machine learning"
+      "ML": "machine learning",
+      "CFO": "Chief Financial Officer",
+      "SaaS": "Software as a Service"
     },
     "9781805805052": {
       "AKS": "Azure Kubernetes Service",
