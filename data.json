@@ -403,8 +403,8 @@
       "title": "Preface | Cilium: Up and Running"
     },
     "oreilly-reader-progress-library-view-site-reliability-engineering-9798341607675-ch01.html": {
-      "index": 2,
-      "date": "2026-08-27T18:34:35.324Z",
+      "index": 3,
+      "date": "2026-08-27T20:29:32.204Z",
       "url": "https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch01.html",
       "title": "1. Introduction: Modeling What We Do and Why | Site Reliability Engineering, 2nd Edition"
     },
@@ -1660,7 +1660,7 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-08-27T19:29:10.942Z",
+      "last_opened": "2026-08-27T20:29:14.443Z",
       "books": [
         {
           "id": "9781491919057",
@@ -1787,7 +1787,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-08-27T19:29:10.961Z",
+      "last_opened": "2026-08-27T20:29:14.506Z",
       "books": [
         {
           "id": "0642572388782",
@@ -1837,7 +1837,7 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-08-27T19:29:10.969Z",
+      "last_opened": "2026-08-27T20:29:14.525Z",
       "books": [
         {
           "id": "0642572388782",
@@ -1880,7 +1880,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-08-27T19:29:10.978Z",
+      "last_opened": "2026-08-27T20:29:14.540Z",
       "books": [
         {
           "id": "9798888650776",
@@ -1916,7 +1916,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-08-27T19:29:10.987Z",
+      "last_opened": "2026-08-27T20:29:14.597Z",
       "books": [
         {
           "id": "9781617299599",
@@ -1973,7 +1973,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-08-27T19:29:11.036Z",
+      "last_opened": "2026-08-27T20:29:14.649Z",
       "books": [
         {
           "id": "9781098151232",
@@ -2002,7 +2002,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-08-27T19:29:11.106Z",
+      "last_opened": "2026-08-27T20:29:14.700Z",
       "books": [
         {
           "id": "9781394211418",
@@ -2024,7 +2024,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-08-27T19:29:11.156Z",
+      "last_opened": "2026-08-27T20:29:14.771Z",
       "books": [
         {
           "id": "9781633438538",
@@ -2088,7 +2088,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-08-27T19:29:11.210Z",
+      "last_opened": "2026-08-27T20:29:14.846Z",
       "books": [
         {
           "id": "9780138345990",
@@ -2117,7 +2117,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-08-27T19:29:11.274Z",
+      "last_opened": "2026-08-27T20:29:14.907Z",
       "books": [
         {
           "id": "9781098182502",
@@ -2139,7 +2139,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-08-27T19:29:11.323Z",
+      "last_opened": "2026-08-27T20:29:14.956Z",
       "books": [
         {
           "id": "9781835887769",
@@ -2189,7 +2189,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-08-27T19:29:11.465Z",
+      "last_opened": "2026-08-27T20:29:15.005Z",
       "books": [
         {
           "id": "9781633435308",
@@ -2246,7 +2246,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-08-27T19:29:11.501Z",
+      "last_opened": "2026-08-27T20:29:15.079Z",
       "books": [
         {
           "id": "9780135180471",
@@ -2401,7 +2401,7 @@
       "id": "4e06a517-8fd7-4f96-abb3-76a4d37c8684",
       "title": "Incremental Reading",
       "url": "https://learning.oreilly.com/playlists/4e06a517-8fd7-4f96-abb3-76a4d37c8684/",
-      "last_opened": "2026-08-27T19:29:10.952Z",
+      "last_opened": "2026-08-27T20:29:14.491Z",
       "books": []
     }
   }
