@@ -1696,7 +1696,11 @@
       "PI": "provider independent",
       "SDN": "Software Defined Networking",
       "HIP": "Host Identity Protocol",
-      "RRG": "Routing Research Group"
+      "RRG": "Routing Research Group",
+      "NLRI": "Network Layer Reachability Information",
+      "IE": "Input Events",
+      "RIB": "Routing Information Base",
+      "GTSM": "Generalized TTL Security Mechanism"
     }
   },
   "playlists": {
