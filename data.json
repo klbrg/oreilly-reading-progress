@@ -1665,6 +1665,38 @@
     },
     "9780138340285": {
       "SDK": "software development kit"
+    },
+    "9780134192772": {
+      "AS": "autonomous systems",
+      "BGP": "Border Gateway Protocol",
+      "EGP": "Exterior Gateway Protocol",
+      "GGP": "Gateway to Gateway Protocol",
+      "IGP": "interior gateway protocols",
+      "RIP": "Routing Information Protocol",
+      "OSPF": "Open Shortest Path First",
+      "TTL": "Time To Live",
+      "CIDR": "Classless Inter Domain Routing",
+      "VPLS": "Virtual Private LAN Service",
+      "NAP": "Network Access Point",
+      "SLA": "service level agreement",
+      "AUP": "acceptable use policies",
+      "PA": "provider aggregatable",
+      "NAT": "network address translation",
+      "NAT44": "Network Address Translation",
+      "IANA": "Internet Assigned Numbers Authority",
+      "ICANN": "Internet Corporation of Assigned Names and Numbers",
+      "IR": "Internet Registry",
+      "RIR": "Regional Internet Registries",
+      "APNIC": "Asia Pacific Network Information Centre",
+      "ARIN": "American Registry for Internet Numbers",
+      "LACNIC": "Latin American and Caribbean Network Information Centre",
+      "LIR": "Local Internet Registries",
+      "NIR": "National Internet Registries",
+      "NRO": "Numbers Research Organization",
+      "PI": "provider independent",
+      "SDN": "Software Defined Networking",
+      "HIP": "Host Identity Protocol",
+      "RRG": "Routing Research Group"
     }
   },
   "playlists": {
