@@ -1673,7 +1673,12 @@
       "DHCP": "Dynamic Host Configuration Protocol",
       "ToR": "top of rack",
       "DNS": "Domain Name System",
-      "GPU": "graphics processing units"
+      "GPU": "graphics processing units",
+      "TLS": "Transport Layer Security",
+      "FQDN": "fully qualified domain names",
+      "SNI": "Server Name Indication",
+      "CRD": "custom resource definitions",
+      "JIT": "just in time"
     },
     "9780138340285": {
       "SDK": "software development kit"
