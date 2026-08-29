@@ -1754,7 +1754,15 @@
       "FTC": "Federal Trade Commission",
       "API": "application programming interface",
       "FAT": "file allocation table",
-      "MBR": "master boot record"
+      "MBR": "master boot record",
+      "DHS": "Department of Homeland Security",
+      "IPAWS": "Integrated Public Alert and Warning System",
+      "FBI": "Federal Bureau of Investigation",
+      "ISO": "International Standards Organization",
+      "ISP": "internet service provider",
+      "CVE": "Common Vulnerabilities and Exposures",
+      "CVSS": "Common Vulnerability Scoring System",
+      "ASD": "autism spectrum disorder"
     }
   },
   "playlists": {
