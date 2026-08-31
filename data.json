@@ -521,6 +521,12 @@
       "date": "2026-08-31T18:39:03.216Z",
       "url": "http://localhost:44433/library/view/python-3/9781493228010/imprint.xhtml",
       "title": "Imprint | Python 3"
+    },
+    "oreilly-reader-progress-library-view-python-3-9781493228010-notes.xhtml": {
+      "index": 1,
+      "date": "2026-08-31T18:39:04.558Z",
+      "url": "http://localhost:44433/library/view/python-3/9781493228010/notes.xhtml",
+      "title": "Notes on Usage | Python 3"
     }
   },
   "glossaries": {
