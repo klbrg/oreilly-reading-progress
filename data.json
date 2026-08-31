@@ -469,8 +469,8 @@
       "title": "Chapter 1. The New Rules | Never Split the Difference"
     },
     "oreilly-reader-progress-library-view-flawless-consulting-9781118000878-xhtml-Chapter01.html": {
-      "index": 2,
-      "date": "2026-08-31T12:38:43.254Z",
+      "index": 3,
+      "date": "2026-08-31T13:42:20.214Z",
       "url": "http://localhost:44433/library/view/flawless-consulting/9781118000878/xhtml/Chapter01.html",
       "title": "Flawless Consulting | Flawless Consulting"
     }
@@ -2558,6 +2558,13 @@
       "url": "http://localhost:44433/library/",
       "last_opened": null,
       "books": [
+        {
+          "id": "9781118000878",
+          "title": "Flawless Consulting",
+          "cover": "http://localhost:44433/library/cover/9781118000878/400w/",
+          "url": "http://localhost:44433/library/view/flawless-consulting/9781118000878/",
+          "item_id": null
+        },
         {
           "id": "9780062407818",
           "title": "Never Split the Difference",
