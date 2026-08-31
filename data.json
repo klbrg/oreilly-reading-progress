@@ -1908,7 +1908,10 @@
       "API": "Application Programming Interface"
     },
     "9781493228010": {
-      "KIT": "Karlsruhe Institute of Technology"
+      "KIT": "Karlsruhe Institute of Technology",
+      "GUI": "graphical user interface",
+      "AI": "artificial intelligence",
+      "CAD": "computer aided design"
     }
   },
   "playlists": {
