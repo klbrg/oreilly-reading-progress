@@ -1750,7 +1750,8 @@
       "WEP": "Wired Equivalent Privacy",
       "BGP": "Border Gateway Protocol",
       "CPU": "central processing units",
-      "MMU": "memory management unit"
+      "MMU": "memory management unit",
+      "EOF": "end-of-file"
     },
     "9780137891375": {
       "ACL": "access control list",
