@@ -461,6 +461,12 @@
       "date": "2026-08-31T06:28:27.291Z",
       "url": "https://learning.oreilly.com/library/view/how-linux-works/9781098128913/c02.xhtml",
       "title": "Chapter 2: Basic Commands and Directory Hierarchy | How Linux Works, 3rd Edition"
+    },
+    "oreilly-reader-progress-library-view-never-split-the-difference-9780062407818-text-9780062407818_Chapter_1.xhtml": {
+      "index": 1,
+      "date": "2026-08-31T11:48:15.186Z",
+      "url": "http://localhost:44433/library/view/never-split-the-difference/9780062407818/text/9780062407818_Chapter_1.xhtml",
+      "title": "Chapter 1. The New Rules | Never Split the Difference"
     }
   },
   "glossaries": {
@@ -2539,6 +2545,21 @@
       "url": "https://learning.oreilly.com/playlists/4e06a517-8fd7-4f96-abb3-76a4d37c8684/",
       "last_opened": "2026-08-31T11:04:01.659Z",
       "books": []
+    },
+    "local-library": {
+      "id": "local-library",
+      "title": "Local library",
+      "url": "http://localhost:44433/library/",
+      "last_opened": null,
+      "books": [
+        {
+          "id": "9780062407818",
+          "title": "Never Split the Difference",
+          "cover": "http://localhost:44433/library/cover/9780062407818/400w/",
+          "url": "http://localhost:44433/library/view/never-split-the-difference/9780062407818/",
+          "item_id": null
+        }
+      ]
     }
   }
 }
