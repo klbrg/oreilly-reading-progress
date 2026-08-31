@@ -1794,6 +1794,10 @@
     },
     "9780062407818": {
       "CIRG": "Critical Incident Response Group"
+    },
+    "7846f3ce6332": {
+      "IPC": "inter process communication",
+      "API": "Application Programming Interface"
     }
   },
   "playlists": {
