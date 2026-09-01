@@ -749,6 +749,12 @@
       "date": "2026-09-01T18:03:38.084Z",
       "url": "http://localhost:44433/library/view/the-kubernetes-book/3a74716cf180/chap10.xhtml#leanpub-auto-gateway-api",
       "title": "8: Gateway API | The Kubernetes Book"
+    },
+    "oreilly-reader-progress-library-view-python-3-9781493228010-04_003.xhtml": {
+      "index": 1,
+      "date": "2026-09-01T18:04:12.977Z",
+      "url": "http://localhost:44433/library/view/python-3/9781493228010/04_003.xhtml",
+      "title": "The Path to the First Program | Python 3"
     }
   },
   "glossaries": {
