@@ -2132,7 +2132,8 @@
     },
     "9780137618941": {
       "LRU": "Least Recently Used",
-      "SSD": "Solid State Drives"
+      "SSD": "Solid State Drives",
+      "GUI": "Graphical User Interface"
     }
   },
   "playlists": {
