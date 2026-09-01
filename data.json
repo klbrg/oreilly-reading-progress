@@ -611,6 +611,12 @@
       "date": "2026-09-01T06:00:47.457Z",
       "url": "http://localhost:44433/library/view/python-3/9781493228010/I_001.xhtml",
       "title": "Getting Started with Python | Python 3"
+    },
+    "oreilly-reader-progress-library-view-python-3-9781493228010-03_001.xhtml": {
+      "index": 1,
+      "date": "2026-09-01T06:01:14.663Z",
+      "url": "http://localhost:44433/library/view/python-3/9781493228010/03_001.xhtml",
+      "title": "Getting Started with the Interactive Mode | Python 3"
     }
   },
   "glossaries": {
