@@ -2129,6 +2129,10 @@
       "LKE": "Linode Kubernetes Engine",
       "CSI": "Container Storage Interface",
       "IAM": "Identity and access management"
+    },
+    "9780137618941": {
+      "LRU": "Least Recently Used",
+      "SSD": "Solid State Drives"
     }
   },
   "playlists": {
