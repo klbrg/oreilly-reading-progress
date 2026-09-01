@@ -2082,6 +2082,11 @@
       "ARP": "address resolution protocol",
       "EA": "extended attributes",
       "IAM": "Identity and Access Management"
+    },
+    "3a74716cf180": {
+      "LKE": "Linode Kubernetes Engine",
+      "CSI": "Container Storage Interface",
+      "IAM": "Identity and access management"
     }
   },
   "playlists": {
