@@ -743,6 +743,12 @@
       "date": "2026-09-01T17:48:34.154Z",
       "url": "http://localhost:44433/library/view/the-kubernetes-book/3a74716cf180/dedication.xhtml",
       "title": "Dedication | The Kubernetes Book"
+    },
+    "oreilly-reader-progress-library-view-the-kubernetes-book-3a74716cf180-chap10.xhtml": {
+      "index": 1,
+      "date": "2026-09-01T17:49:05.133Z",
+      "url": "http://localhost:44433/library/view/the-kubernetes-book/3a74716cf180/chap10.xhtml#leanpub-auto-gateway-api",
+      "title": "8: Gateway API | The Kubernetes Book"
     }
   },
   "glossaries": {
