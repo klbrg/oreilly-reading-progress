@@ -2197,6 +2197,10 @@
     },
     "9780262358675": {
       "SNS": "Spallation Neutron Source"
+    },
+    "1e21950d7282": {
+      "AKS": "Azure Kubernetes Service",
+      "NAP": "node auto provisioning"
     }
   },
   "playlists": {
