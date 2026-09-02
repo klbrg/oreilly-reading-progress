@@ -2206,7 +2206,9 @@
     },
     "1e21950d7282": {
       "AKS": "Azure Kubernetes Service",
-      "NAP": "node auto provisioning"
+      "NAP": "node auto provisioning",
+      "IaC": "infrastructure as code",
+      "AGIC": "Application Gateway Ingress Controller"
     }
   },
   "playlists": {
