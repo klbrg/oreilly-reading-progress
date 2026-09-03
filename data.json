@@ -2236,7 +2236,8 @@
       "ARM": "Azure Resource Manager"
     },
     "9781633439702": {
-      "CSP": "communicating sequential processes"
+      "CSP": "communicating sequential processes",
+      "RSS": "Really Simple Syndication"
     }
   },
   "playlists": {
