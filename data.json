@@ -881,6 +881,12 @@
       "date": "2026-09-03T20:11:45.234Z",
       "url": "http://localhost:44433/library/view/a-network-that-lasts/27d56b8bf124/text/ch003.xhtml",
       "title": "Chapter 1. The Network Is the Product | A Network That Lasts"
+    },
+    "oreilly-reader-progress-library-view-certified-kubernetes-networking-0642572383350-ch01.html": {
+      "index": 1,
+      "date": "2026-09-04T09:08:49.269Z",
+      "url": "https://learning.oreilly.com/library/view/certified-kubernetes-networking/0642572383350/ch01.html",
+      "title": "1. Introduction to Kubernetes Networking | Certified Kubernetes Networking Engineer (CKNE) Study Guide"
     }
   },
   "glossaries": {
