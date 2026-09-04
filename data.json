@@ -2260,6 +2260,14 @@
     },
     "9781835080399": {
       "CNCF": "Cloud Native Computing Foundation"
+    },
+    "fd3598617827": {
+      "API": "application programming interface",
+      "CRI": "Container Runtime Interface",
+      "CLI": "command line interface",
+      "YAML": "YAML Ain't Markup Language",
+      "JSON": "JavaScript Object Notation",
+      "DNS": "Domain Name System"
     }
   },
   "playlists": {
