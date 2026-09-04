@@ -893,6 +893,12 @@
       "date": "2026-09-04T17:31:48.792Z",
       "url": "http://localhost:44433/library/view/kcna-cram-guide/fd3598617827/book_split_003.html",
       "title": "Chapter 1: Kubernetes Core Concepts | KCNA Cram Guide"
+    },
+    "oreilly-reader-progress-library-view-kcna-cram-guide-fd3598617827-book_split_004.html": {
+      "index": 1,
+      "date": "2026-09-04T17:34:20.835Z",
+      "url": "http://localhost:44433/library/view/kcna-cram-guide/fd3598617827/book_split_004.html",
+      "title": "Chapter 2: Containerization | KCNA Cram Guide"
     }
   },
   "glossaries": {
