@@ -2283,6 +2283,11 @@
       "NIS": "Network Information Service",
       "OS": "Operating System",
       "OCI": "Open Container Initiative"
+    },
+    "617146847b1d": {
+      "ACL": "Access control lists",
+      "PAM": "Pluggable Authentication Modules",
+      "LDAP": "Lightweight Directory Access Protocol"
     }
   },
   "playlists": {
