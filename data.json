@@ -2273,7 +2273,10 @@
       "CLI": "command line interface",
       "YAML": "YAML Ain't Markup Language",
       "JSON": "JavaScript Object Notation",
-      "DNS": "Domain Name System"
+      "DNS": "Domain Name System",
+      "NIS": "Network Information Service",
+      "OS": "Operating System",
+      "OCI": "Open Container Initiative"
     }
   },
   "playlists": {
