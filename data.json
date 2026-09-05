@@ -2374,6 +2374,33 @@
       "CSP": "communicating sequential processes",
       "REPL": "read eval print loop",
       "MVS": "minimal version selection"
+    },
+    "d5767294f05d": {
+      "VC": "Virtual circuits",
+      "OSI": "Open Systems Interconnection",
+      "PDU": "protocol data unit",
+      "ARP": "Address Resolution Protocol",
+      "ICMP": "Internet Control Message Protocol",
+      "IGMP": "Internet Group Management Protocol",
+      "TCP": "Transmission Control Protocol",
+      "UDP": "User Datagram Protocol",
+      "SCTP": "Stream Control Transmission Protocol",
+      "DCCP": "Datagram Congestion Control Protocol",
+      "IANA": "Internet Assigned Numbers Authority",
+      "DNS": "Domain Name System",
+      "VPN": "virtual private network",
+      "API": "application programming interface",
+      "TSO": "TCP segmentation offload",
+      "GSO": "generic segmentation offload",
+      "GRO": "generic receive offload",
+      "LRO": "large receive offload",
+      "IETF": "Internet Engineering Task Force",
+      "IAB": "Internet Architecture Board",
+      "IESG": "Internet Engineering Steering Group",
+      "IRTF": "Internet Research Task Force",
+      "IEEE": "Institute of Electrical and Electronics Engineers",
+      "W3C": "Web Consortium",
+      "NIST": "National Institute of Standards and Technology"
     }
   },
   "playlists": {
