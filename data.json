@@ -2372,7 +2372,8 @@
     },
     "e49013e60a32": {
       "CSP": "communicating sequential processes",
-      "REPL": "read eval print loop"
+      "REPL": "read eval print loop",
+      "MVS": "minimal version selection"
     }
   },
   "playlists": {
