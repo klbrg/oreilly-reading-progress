@@ -965,6 +965,12 @@
       "date": "2026-09-05T16:26:07.296Z",
       "url": "http://localhost:44433/library/view/the-go-programming-language/e49013e60a32/text/ch01.html",
       "title": "1. Tutorial | The Go Programming Language"
+    },
+    "oreilly-reader-progress-library-view-tcp-ip-illustrated-volume-1-the-protocols-d5767294f05d-text-ch01.html": {
+      "index": 1,
+      "date": "2026-09-05T18:15:55.017Z",
+      "url": "http://localhost:44433/library/view/tcp-ip-illustrated-volume-1-the-protocols/d5767294f05d/text/ch01.html",
+      "title": "1. Introduction | TCP/IP Illustrated, Volume 1: The Protocols"
     }
   },
   "glossaries": {
