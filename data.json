@@ -967,8 +967,8 @@
       "title": "1. Tutorial | The Go Programming Language"
     },
     "oreilly-reader-progress-library-view-tcp-ip-illustrated-volume-1-the-protocols-d5767294f05d-text-ch01.html": {
-      "index": 170,
-      "date": "2026-09-05T19:34:54.836Z",
+      "index": 171,
+      "date": "2026-09-05T19:37:09.084Z",
       "url": "http://localhost:44433/library/view/tcp-ip-illustrated-volume-1-the-protocols/d5767294f05d/text/ch01.html",
       "title": "1. Introduction | TCP/IP Illustrated, Volume 1: The Protocols"
     }
@@ -3144,6 +3144,13 @@
       "last_opened": null,
       "books": [
         {
+          "id": "27d56b8bf124",
+          "title": "A Network That Lasts",
+          "cover": "http://localhost:44433/library/cover/27d56b8bf124/400w/",
+          "url": "http://localhost:44433/library/view/a-network-that-lasts/27d56b8bf124/",
+          "item_id": null
+        },
+        {
           "id": "9fdb31fe6e72",
           "title": "A Philosophy of Software Design, 2nd Edition",
           "cover": "http://localhost:44433/library/cover/9fdb31fe6e72/400w/",
@@ -3165,6 +3172,13 @@
           "item_id": null
         },
         {
+          "id": "9781491941195",
+          "title": "Concurrency in Go",
+          "cover": "http://localhost:44433/library/cover/9781491941195/400w/",
+          "url": "http://localhost:44433/library/view/concurrency-in-go/9781491941195/",
+          "item_id": null
+        },
+        {
           "id": "9781118000878",
           "title": "Flawless Consulting",
           "cover": "http://localhost:44433/library/cover/9781118000878/400w/",
@@ -3172,10 +3186,38 @@
           "item_id": null
         },
         {
+          "id": "c8ee6b55b710",
+          "title": "Head First Go, 2nd Edition \u2014 preview",
+          "cover": "http://localhost:44433/library/cover/c8ee6b55b710/400w/",
+          "url": "http://localhost:44433/library/view/head-first-go-2nd-edition-preview/c8ee6b55b710/",
+          "item_id": null
+        },
+        {
+          "id": "146ee4dbdad9",
+          "title": "Isovalent Elite - Student Guide",
+          "cover": "http://localhost:44433/library/cover/146ee4dbdad9/400w/",
+          "url": "http://localhost:44433/library/view/isovalent-elite-student-guide/146ee4dbdad9/",
+          "item_id": null
+        },
+        {
+          "id": "fd3598617827",
+          "title": "KCNA Cram Guide",
+          "cover": "http://localhost:44433/library/cover/fd3598617827/400w/",
+          "url": "http://localhost:44433/library/view/kcna-cram-guide/fd3598617827/",
+          "item_id": null
+        },
+        {
           "id": "705639711c7d",
           "title": "Let's Go",
           "cover": "http://localhost:44433/library/cover/705639711c7d/400w/",
           "url": "http://localhost:44433/library/view/let-s-go/705639711c7d/",
+          "item_id": null
+        },
+        {
+          "id": "617146847b1d",
+          "title": "LFCS Lab Guide",
+          "cover": "http://localhost:44433/library/cover/617146847b1d/400w/",
+          "url": "http://localhost:44433/library/view/lfcs-lab-guide/617146847b1d/",
           "item_id": null
         },
         {
@@ -3197,6 +3239,20 @@
           "title": "Python 3",
           "cover": "http://localhost:44433/library/cover/9781493228010/400w/",
           "url": "http://localhost:44433/library/view/python-3/9781493228010/",
+          "item_id": null
+        },
+        {
+          "id": "d5767294f05d",
+          "title": "TCP/IP Illustrated, Volume 1: The Protocols",
+          "cover": "http://localhost:44433/library/cover/d5767294f05d/400w/",
+          "url": "http://localhost:44433/library/view/tcp-ip-illustrated-volume-1-the-protocols/d5767294f05d/",
+          "item_id": null
+        },
+        {
+          "id": "e49013e60a32",
+          "title": "The Go Programming Language",
+          "cover": "http://localhost:44433/library/cover/e49013e60a32/400w/",
+          "url": "http://localhost:44433/library/view/the-go-programming-language/e49013e60a32/",
           "item_id": null
         },
         {
