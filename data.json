@@ -2363,6 +2363,10 @@
     },
     "c8ee6b55b710": {
       "OS": "operating system"
+    },
+    "e49013e60a32": {
+      "CSP": "communicating sequential processes",
+      "REPL": "read eval print loop"
     }
   },
   "playlists": {
