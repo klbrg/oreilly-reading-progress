@@ -2412,7 +2412,18 @@
       "IRTF": "Internet Research Task Force",
       "IEEE": "Institute of Electrical and Electronics Engineers",
       "W3C": "Web Consortium",
-      "NIST": "National Institute of Standards and Technology"
+      "NIST": "National Institute of Standards and Technology",
+      "VLSM": "Variable Length Subnet Masks",
+      "OUI": "Organizationally Unique Identifier",
+      "CIDR": "Classless Inter Domain Routing",
+      "ASM": "any source multicast",
+      "SSM": "source specific multicast",
+      "RIR": "regional Internet registries",
+      "PA": "provider aggregatable",
+      "PI": "provider independent",
+      "RDAP": "Registration Data Access Protocol",
+      "EUI": "Extended Unique Identifier",
+      "RP": "Rendezvous Point"
     }
   },
   "playlists": {
