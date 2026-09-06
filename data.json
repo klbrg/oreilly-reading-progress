@@ -2448,6 +2448,30 @@
       "RDAP": "Registration Data Access Protocol",
       "EUI": "Extended Unique Identifier",
       "RP": "Rendezvous Point"
+    },
+    "c7a85f0a5c83": {
+      "OSPF": "Open Shortest Path First",
+      "ISP": "Internet Service Providers",
+      "ARP": "Address Resolution Protocol",
+      "PPP": "Point to Point Protocol",
+      "IP": "Internet Protocol",
+      "ICMP": "Internet Control Message Protocol",
+      "TCP": "Transmission Control Protocol",
+      "UDP": "User Datagram Protocol",
+      "NFS": "Network File System",
+      "SMTP": "Simple Mail Transfer Protocol",
+      "DNS": "Domain Name System",
+      "IHL": "Internet Header Length",
+      "DF": "Don\u2019t Fragment",
+      "TOS": "Type of Service",
+      "RED": "Random Early Detection",
+      "WFQ": "Weighted Fair Queuing",
+      "CBQ": "Class Based Queuing",
+      "FTP": "File Transfer Protocol",
+      "RADIUS": "Remote Authentication Dial In User Service",
+      "IETF": "Internet Engineering Task Force",
+      "IANA": "Internet Assigned Number Authority",
+      "NAT": "Network Address Translation"
     }
   },
   "playlists": {
