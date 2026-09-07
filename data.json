@@ -1037,6 +1037,12 @@
       "date": "2026-09-07T08:17:55.068Z",
       "url": "http://localhost:44433/library/view/learning-helm/d07472c7f7ed/ch01.html",
       "title": "Introducing Helm | Learning Helm"
+    },
+    "oreilly-reader-progress-library-view-learning-helm-d07472c7f7ed-ch02.html": {
+      "index": 1,
+      "date": "2026-09-07T09:01:04.207Z",
+      "url": "http://localhost:44433/library/view/learning-helm/d07472c7f7ed/ch02.html",
+      "title": "Using Helm | Learning Helm"
     }
   },
   "glossaries": {
