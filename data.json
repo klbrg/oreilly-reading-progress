@@ -2445,7 +2445,8 @@
     "e49013e60a32": {
       "CSP": "communicating sequential processes",
       "REPL": "read eval print loop",
-      "MVS": "minimal version selection"
+      "MVS": "minimal version selection",
+      "GCD": "greatest common divisor"
     },
     "d5767294f05d": {
       "VC": "Virtual circuits",
