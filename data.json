@@ -2424,7 +2424,8 @@
     },
     "0642572383350": {
       "NAT": "Network Address Translation",
-      "CNI": "Container Network Interface"
+      "CNI": "Container Network Interface",
+      "VNI": "VXLAN Network Identifier"
     },
     "9781835080399": {
       "CNCF": "Cloud Native Computing Foundation"
