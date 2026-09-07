@@ -2502,6 +2502,12 @@
       "IETF": "Internet Engineering Task Force",
       "IANA": "Internet Assigned Number Authority",
       "NAT": "Network Address Translation"
+    },
+    "d07472c7f7ed": {
+      "JSON": "JavaScript Object Notation",
+      "SRE": "site reliability engineers",
+      "RBAC": "role based access control",
+      "CRD": "custom resource definitions"
     }
   },
   "playlists": {
