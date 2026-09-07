@@ -2514,6 +2514,11 @@
       "SRE": "site reliability engineers",
       "RBAC": "role based access control",
       "CRD": "custom resource definitions"
+    },
+    "9781492083641": {
+      "QA": "quality assurance",
+      "OCI": "Open Container Initiative",
+      "PGP": "Pretty Good Privacy"
     }
   },
   "playlists": {
