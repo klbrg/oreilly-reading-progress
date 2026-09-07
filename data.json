@@ -1031,6 +1031,12 @@
       "date": "2026-09-06T13:42:01.476Z",
       "url": "http://localhost:44433/library/view/grokking-algorithms-in-go/e3b7bee65ec7/OEBPS/Text/01.html",
       "title": "1 Introduction to algorithms | Grokking Algorithms in Go"
+    },
+    "oreilly-reader-progress-library-view-learning-helm-d07472c7f7ed-ch01.html": {
+      "index": 1,
+      "date": "2026-09-07T07:32:43.762Z",
+      "url": "http://localhost:44433/library/view/learning-helm/d07472c7f7ed/ch01.html",
+      "title": "Introducing Helm | Learning Helm"
     }
   },
   "glossaries": {
