@@ -1067,6 +1067,12 @@
       "date": "2026-09-08T12:35:34.787Z",
       "url": "http://localhost:44433/library/view/concurrency-in-go/9781491941195/ch01.html",
       "title": "Chapter 1. An Introduction to Concurrency | Concurrency in Go"
+    },
+    "oreilly-reader-progress-library-view-learning-helm-d07472c7f7ed-ch03.html": {
+      "index": 1,
+      "date": "2026-09-08T14:05:55.831Z",
+      "url": "http://localhost:44433/library/view/learning-helm/d07472c7f7ed/ch03.html",
+      "title": "Beyond the Basics with Helm | Learning Helm"
     }
   },
   "glossaries": {
