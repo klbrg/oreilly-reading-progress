@@ -2584,6 +2584,15 @@
     "9781098110192": {
       "CRD": "custom resource definitions",
       "OPA": "Open Policy Agent"
+    },
+    "9781098131814": {
+      "AWS": "Amazon Web Services",
+      "GAE": "Google App Engine",
+      "CNCF": "Cloud Native Computing Foundation",
+      "OCI": "Open Container Initiative",
+      "SaaS": "software as a service",
+      "IANA": "Internet Assigned Numbers Authority",
+      "VM": "virtual machines"
     }
   },
   "playlists": {
