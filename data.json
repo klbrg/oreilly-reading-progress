@@ -1073,6 +1073,12 @@
       "date": "2026-09-08T14:06:12.811Z",
       "url": "http://localhost:44433/library/view/learning-helm/d07472c7f7ed/ch03.html",
       "title": "Beyond the Basics with Helm | Learning Helm"
+    },
+    "oreilly-reader-progress-library-view-kubernetes-in-action-second-edition-draft-4c5f91f17b87-_book_split_000.html": {
+      "index": 1,
+      "date": "2026-09-08T15:16:49.235Z",
+      "url": "http://localhost:44433/library/view/kubernetes-in-action-second-edition-draft/4c5f91f17b87/_book_split_000.html",
+      "title": "Chapter 2. First steps with containers and Kubernetes | Kubernetes in Action, Second Edition (draft)"
     }
   },
   "glossaries": {
