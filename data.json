@@ -2630,7 +2630,12 @@
       "NAT": "Network Address Translation"
     },
     "9781394211425": {
-      "EBS": "Elastic Block Storage"
+      "EBS": "Elastic Block Storage",
+      "DDoS": "distributed denial of service",
+      "PII": "personally identifiable information",
+      "HIPAA": "Health Insurance Portability and Accountability Act",
+      "PHI": "protected health information",
+      "DRM": "digital rights management"
     }
   },
   "playlists": {
