@@ -1115,6 +1115,12 @@
       "date": "2026-09-11T16:21:36.803Z",
       "url": "http://localhost:44433/library/view/comptia-security-study-guide-ninth-edition-exam-sy0-701/9781394211425/c01.xhtml",
       "title": "CompTIA Security+ Study Guide with over 500 Practice Test Questions, 9th Edition | CompTIA\u00ae Security+\u00ae Study Guide - Ninth Edition - Exam SY0-701"
+    },
+    "oreilly-reader-progress-library-view-get-programming-with-go-second-edition-2d2aac1cbc04-titlepage.xhtml": {
+      "index": 1,
+      "date": "2026-09-12T07:51:43.369Z",
+      "url": "http://localhost:44433/library/view/get-programming-with-go-second-edition/2d2aac1cbc04/titlepage.xhtml",
+      "title": "Get Programming with Go | Get Programming with Go, Second Edition"
     }
   },
   "glossaries": {
@@ -2649,7 +2655,7 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-09-11T14:30:55.796Z",
+      "last_opened": "2026-09-11T20:34:00.333Z",
       "books": [
         {
           "id": "9781491919057",
@@ -2769,7 +2775,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-09-11T14:30:56.159Z",
+      "last_opened": "2026-09-11T20:34:00.449Z",
       "books": [
         {
           "id": "0642572230333",
@@ -2805,7 +2811,7 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-09-11T14:30:56.222Z",
+      "last_opened": "2026-09-11T20:34:00.468Z",
       "books": [
         {
           "id": "9781835886625",
@@ -2841,7 +2847,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-09-11T14:30:56.303Z",
+      "last_opened": "2026-09-11T20:34:00.485Z",
       "books": [
         {
           "id": "9798888650776",
@@ -2877,7 +2883,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-09-11T14:30:56.415Z",
+      "last_opened": "2026-09-11T20:34:00.526Z",
       "books": [
         {
           "id": "9781617299599",
@@ -2934,7 +2940,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-09-11T14:30:56.484Z",
+      "last_opened": "2026-09-11T20:34:00.559Z",
       "books": [
         {
           "id": "9781098151232",
@@ -2963,7 +2969,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-09-11T14:30:55.498Z",
+      "last_opened": "2026-09-11T20:34:00.253Z",
       "books": [
         {
           "id": "9780137891375",
@@ -2992,7 +2998,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-09-11T14:30:56.550Z",
+      "last_opened": "2026-09-11T20:34:00.583Z",
       "books": [
         {
           "id": "9781633438538",
@@ -3056,7 +3062,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-09-11T14:30:56.614Z",
+      "last_opened": "2026-09-11T20:34:00.599Z",
       "books": [
         {
           "id": "9780138345990",
@@ -3085,7 +3091,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-09-11T14:30:56.674Z",
+      "last_opened": "2026-09-11T20:34:00.616Z",
       "books": [
         {
           "id": "9781098182502",
@@ -3107,7 +3113,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-09-11T14:30:56.737Z",
+      "last_opened": "2026-09-11T20:34:00.646Z",
       "books": [
         {
           "id": "9781835887769",
@@ -3157,7 +3163,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-09-11T14:30:56.791Z",
+      "last_opened": "2026-09-11T20:34:00.663Z",
       "books": [
         {
           "id": "9781633435308",
@@ -3214,7 +3220,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-09-11T14:30:56.860Z",
+      "last_opened": "2026-09-11T20:34:00.680Z",
       "books": [
         {
           "id": "9780135180471",
@@ -3369,7 +3375,7 @@
       "id": "4e06a517-8fd7-4f96-abb3-76a4d37c8684",
       "title": "Incremental Reading",
       "url": "https://learning.oreilly.com/playlists/4e06a517-8fd7-4f96-abb3-76a4d37c8684/",
-      "last_opened": "2026-09-11T14:30:56.125Z",
+      "last_opened": "2026-09-11T20:34:00.391Z",
       "books": []
     },
     "local-library": {
@@ -3404,6 +3410,13 @@
           "title": "Algorithms",
           "cover": "http://localhost:44433/library/cover/9780262358675/400w/",
           "url": "http://localhost:44433/library/view/algorithms/9780262358675/",
+          "item_id": null
+        },
+        {
+          "id": "9781394211425",
+          "title": "CompTIA\u00ae Security+\u00ae Study Guide - Ninth Edition - Exam SY0-701",
+          "cover": "http://localhost:44433/library/cover/9781394211425/400w/",
+          "url": "http://localhost:44433/library/view/comptia-security-study-guide-ninth-edition-exam-sy0-701/9781394211425/",
           "item_id": null
         },
         {
@@ -3516,6 +3529,13 @@
           "title": "TCP/IP Illustrated, Volume 1: The Protocols",
           "cover": "http://localhost:44433/library/cover/d5767294f05d/400w/",
           "url": "http://localhost:44433/library/view/tcp-ip-illustrated-volume-1-the-protocols/d5767294f05d/",
+          "item_id": null
+        },
+        {
+          "id": "be6fb9668ce2",
+          "title": "Terraform in Depth, Second Edition",
+          "cover": "http://localhost:44433/library/cover/be6fb9668ce2/400w/",
+          "url": "http://localhost:44433/library/view/terraform-in-depth-second-edition/be6fb9668ce2/",
           "item_id": null
         },
         {
