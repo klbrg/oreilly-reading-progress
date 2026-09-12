@@ -1151,6 +1151,12 @@
       "date": "2026-09-12T08:24:28.731Z",
       "url": "http://localhost:44433/library/view/get-programming-with-go-second-edition/2d2aac1cbc04/calculator.xhtml",
       "title": "A glorified calculator | Get Programming with Go, Second Edition"
+    },
+    "oreilly-reader-progress-library-view-get-programming-with-go-second-edition-2d2aac1cbc04-loops-branches.xhtml": {
+      "index": 1,
+      "date": "2026-09-12T09:30:35.312Z",
+      "url": "http://localhost:44433/library/view/get-programming-with-go-second-edition/2d2aac1cbc04/loops-branches.xhtml",
+      "title": "Loops and branches | Get Programming with Go, Second Edition"
     }
   },
   "glossaries": {
@@ -2685,7 +2691,7 @@
       "id": "e351a612-2ef0-4b8b-8d7c-34fa5221d328",
       "title": "Karlberg Tech",
       "url": "https://learning.oreilly.com/playlists/e351a612-2ef0-4b8b-8d7c-34fa5221d328/",
-      "last_opened": "2026-09-11T20:34:00.333Z",
+      "last_opened": "2026-09-12T08:47:11.735Z",
       "books": [
         {
           "id": "9781491919057",
@@ -2805,7 +2811,7 @@
       "id": "7170a355-cbbd-42cd-b8fc-2e3c123a7344",
       "title": "AI",
       "url": "https://learning.oreilly.com/playlists/7170a355-cbbd-42cd-b8fc-2e3c123a7344/",
-      "last_opened": "2026-09-11T20:34:00.449Z",
+      "last_opened": "2026-09-12T08:47:11.857Z",
       "books": [
         {
           "id": "0642572230333",
@@ -2841,7 +2847,7 @@
       "id": "9c374658-ae1e-4463-8132-2ab608c8ae00",
       "title": "Infrastructure Engineer",
       "url": "https://learning.oreilly.com/playlists/9c374658-ae1e-4463-8132-2ab608c8ae00/",
-      "last_opened": "2026-09-11T20:34:00.468Z",
+      "last_opened": "2026-09-12T08:47:12.008Z",
       "books": [
         {
           "id": "9781835886625",
@@ -2877,7 +2883,7 @@
       "id": "97b8702e-8059-4541-aaa9-516b83a559de",
       "title": "Python",
       "url": "https://learning.oreilly.com/playlists/97b8702e-8059-4541-aaa9-516b83a559de/",
-      "last_opened": "2026-09-11T20:34:00.485Z",
+      "last_opened": "2026-09-12T08:47:12.168Z",
       "books": [
         {
           "id": "9798888650776",
@@ -2913,7 +2919,7 @@
       "id": "cb2fd5a0-1aef-4047-a8af-92dc362d61f9",
       "title": "Golang",
       "url": "https://learning.oreilly.com/playlists/cb2fd5a0-1aef-4047-a8af-92dc362d61f9/",
-      "last_opened": "2026-09-11T20:34:00.526Z",
+      "last_opened": "2026-09-12T08:47:12.211Z",
       "books": [
         {
           "id": "9781617299599",
@@ -2970,7 +2976,7 @@
       "id": "0a43fb08-3978-4a86-a491-58a5497f9639",
       "title": "Productivity",
       "url": "https://learning.oreilly.com/playlists/0a43fb08-3978-4a86-a491-58a5497f9639/",
-      "last_opened": "2026-09-11T20:34:00.559Z",
+      "last_opened": "2026-09-12T08:47:12.244Z",
       "books": [
         {
           "id": "9781098151232",
@@ -2999,7 +3005,7 @@
       "id": "d11a484c-4413-4e4b-9039-6316f4ea2d8d",
       "title": "Security Engineering",
       "url": "https://learning.oreilly.com/playlists/d11a484c-4413-4e4b-9039-6316f4ea2d8d/",
-      "last_opened": "2026-09-11T20:34:00.253Z",
+      "last_opened": "2026-09-12T08:47:11.643Z",
       "books": [
         {
           "id": "9780137891375",
@@ -3028,7 +3034,7 @@
       "id": "17e995c9-e5db-431f-aa78-e9e61e48d7f7",
       "title": "Java",
       "url": "https://learning.oreilly.com/playlists/17e995c9-e5db-431f-aa78-e9e61e48d7f7/",
-      "last_opened": "2026-09-11T20:34:00.583Z",
+      "last_opened": "2026-09-12T08:47:12.270Z",
       "books": [
         {
           "id": "9781633438538",
@@ -3092,7 +3098,7 @@
       "id": "13254c2b-ae7f-4ba6-bd44-5c6ae4321753",
       "title": "Azurenaut",
       "url": "https://learning.oreilly.com/playlists/13254c2b-ae7f-4ba6-bd44-5c6ae4321753/",
-      "last_opened": "2026-09-11T20:34:00.599Z",
+      "last_opened": "2026-09-12T08:47:12.333Z",
       "books": [
         {
           "id": "9780138345990",
@@ -3121,7 +3127,7 @@
       "id": "51f6e424-4551-4c12-b533-165da2a09f19",
       "title": "JavaScript",
       "url": "https://learning.oreilly.com/playlists/51f6e424-4551-4c12-b533-165da2a09f19/",
-      "last_opened": "2026-09-11T20:34:00.616Z",
+      "last_opened": "2026-09-12T08:47:12.386Z",
       "books": [
         {
           "id": "9781098182502",
@@ -3143,7 +3149,7 @@
       "id": "68d6255f-692b-4936-a0a1-edb70c907115",
       "title": "Rust",
       "url": "https://learning.oreilly.com/playlists/68d6255f-692b-4936-a0a1-edb70c907115/",
-      "last_opened": "2026-09-11T20:34:00.646Z",
+      "last_opened": "2026-09-12T08:47:12.440Z",
       "books": [
         {
           "id": "9781835887769",
@@ -3193,7 +3199,7 @@
       "id": "b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e",
       "title": "CKA/CKS",
       "url": "https://learning.oreilly.com/playlists/b60cbcd8-2ffc-4c10-aa06-d3a3f822ea8e/",
-      "last_opened": "2026-09-11T20:34:00.663Z",
+      "last_opened": "2026-09-12T08:47:12.491Z",
       "books": [
         {
           "id": "9781633435308",
@@ -3250,7 +3256,7 @@
       "id": "23dcc57a-25fd-4016-ac2f-25380cdcc852",
       "title": "CCIE Enterprise",
       "url": "https://learning.oreilly.com/playlists/23dcc57a-25fd-4016-ac2f-25380cdcc852/",
-      "last_opened": "2026-09-11T20:34:00.680Z",
+      "last_opened": "2026-09-12T08:47:12.544Z",
       "books": [
         {
           "id": "9780135180471",
@@ -3405,7 +3411,7 @@
       "id": "4e06a517-8fd7-4f96-abb3-76a4d37c8684",
       "title": "Incremental Reading",
       "url": "https://learning.oreilly.com/playlists/4e06a517-8fd7-4f96-abb3-76a4d37c8684/",
-      "last_opened": "2026-09-11T20:34:00.391Z",
+      "last_opened": "2026-09-12T08:47:11.757Z",
       "books": []
     },
     "local-library": {
